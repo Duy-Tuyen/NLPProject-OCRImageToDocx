@@ -1,0 +1,59 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# pycache
+__pycache__/
+
+# input
+input/*
+!input/.gitkeep
+# Example folder - 483, 620, 673
+!input/483/
+!input/620/
+!input/673/
+
+# output
+output/*
+!output/.gitkeep
+# Example folder - 483, 620, 673
+!output/483/
+!output/620/
+!output/673/
+
+# .env
+.env
+
+# Model cache
+.paddleocr/
+.paddlex/
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.tif
+*.bmp
+
+# debug
+debug
+
+# .specstory
+.specstory/
