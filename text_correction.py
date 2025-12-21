@@ -54,7 +54,7 @@ class TextCorrector:
         with torch.no_grad():
             outputs = self.model.generate(
                 **inputs,
-                num_beams=10,
+                num_beams=3,
                 num_return_sequences=1,
                 max_new_tokens=self.max_tokens,
                 early_stopping=True,
@@ -70,36 +70,101 @@ class TextCorrector:
 
         return decoded
 
+    def correct_texts_batch(self, texts: List[str]) -> List[str]:
+        """Correct multiple texts in a single batch for better performance."""
+        if self.tokenizer is None or self.model is None:
+            raise ValueError("Model or tokenizer not loaded properly.")
+        
+        if not texts:
+            return []
+        
+        # Tokenize all texts at once
+        inputs = self.tokenizer(
+            texts,
+            return_tensors="pt",
+            truncation=True,
+            max_length=self.max_tokens,
+            padding=True
+        ).to(self.device)
+        
+        with torch.no_grad():
+            outputs = self.model.generate(
+                **inputs,
+                num_beams=3,
+                num_return_sequences=1,
+                max_new_tokens=self.max_tokens,
+                early_stopping=True
+            )
+        
+        # Decode all outputs
+        decoded_texts = self.tokenizer.batch_decode(outputs, skip_special_tokens=True)
+        return decoded_texts
+
     def improve_json(self, input_json: str, output_json: str):
         try:
             with open(input_json, 'r', encoding='utf-8') as f:
                 data = json.load(f)
 
-            for block in data.get('parsing_res_list', []):
+            timer = Timer()
+            timer.start()
+
+            # Collect all texts to correct in batches
+            texts_to_correct = []
+            block_indices = []  # Track which block each text belongs to
+            table_cell_info = []  # Track table cell positions for reconstruction
+
+            for idx, block in enumerate(data.get('parsing_res_list', [])):
                 original_text = block.get('block_content', '')
 
-                timer = Timer()
-                timer.start()
-
                 if block.get('block_label') == 'table':
-                    # original_text here is HTML table
-                    # only correct text inside <td>...</td>
+                    # Extract all table cell texts for batch processing
                     from bs4 import BeautifulSoup
                     soup = BeautifulSoup(original_text, 'html.parser')
                     td_tags = soup.find_all('td')
+                    
                     for td in td_tags:
                         cell_text = td.get_text()
-                        corrected_cell_text = self.correct_text(cell_text)
-                        td.string = corrected_cell_text
-
-                    corrected_text = str(soup)
+                        if cell_text.strip():  # Only process non-empty cells
+                            texts_to_correct.append(cell_text)
+                            table_cell_info.append((idx, td))
                 else:
-                    corrected_text = self.correct_text(original_text)
-                    
-                block['block_content'] = corrected_text
+                    if original_text.strip():  # Only process non-empty content
+                        texts_to_correct.append(original_text)
+                        block_indices.append(idx)
 
-                timer.stop()
-                print(f"\nText correction time for block: \n\t{timer.runtime}\n")
+            # Batch process all texts
+            if texts_to_correct:
+                print(f"Correcting {len(texts_to_correct)} text segments in batch...")
+                corrected_texts = self.correct_texts_batch(texts_to_correct)
+
+                # Apply corrections back to blocks
+                correction_idx = 0
+                
+                # Handle table cells
+                for block_idx, td in table_cell_info:
+                    td.string = corrected_texts[correction_idx]
+                    correction_idx += 1
+                
+                # Reconstruct tables
+                table_blocks = {}
+                for block_idx, td in table_cell_info:
+                    if block_idx not in table_blocks:
+                        block = data['parsing_res_list'][block_idx]
+                        original_text = block.get('block_content', '')
+                        from bs4 import BeautifulSoup
+                        soup = BeautifulSoup(original_text, 'html.parser')
+                        table_blocks[block_idx] = soup
+                
+                for block_idx, soup in table_blocks.items():
+                    data['parsing_res_list'][block_idx]['block_content'] = str(soup)
+                
+                # Handle regular text blocks
+                for idx in block_indices:
+                    data['parsing_res_list'][idx]['block_content'] = corrected_texts[correction_idx]
+                    correction_idx += 1
+
+            timer.stop()
+            print(f"Total correction time: {timer.elapsed():.2f}s")
 
             with open(output_json, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=4)

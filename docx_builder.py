@@ -16,6 +16,7 @@ from docx.enum.text import WD_PARAGRAPH_ALIGNMENT # for paragraph alignment
 import json
 import os
 
+from ocr_engine import OCREngine
 from config import Config
 
 # block_label appearance so far:
@@ -195,7 +196,7 @@ class DOCXBuilder:
         """
         self.document.save(file_path)
 
-def build_docx_from_ocr_json(res_path, save_path):
+def build_docx_from_ocr_json(res_path, save_path, ocr_engine=None):
     """
     Build a DOCX file from OCR JSON results.
 
@@ -219,11 +220,25 @@ def build_docx_from_ocr_json(res_path, save_path):
 
     ocr_improved_json = ocr_json.replace("_res.json", "_improved.json")
 
+    img_num = 1 # first image in img/
+
     if os.path.exists(ocr_improved_json):
         ocr_json = ocr_improved_json
 
     with open(ocr_json, 'r', encoding='utf-8') as f:
         data = json.load(f)
+    
+    # Check if has_image is true and imgs folder doesn't exist - run OCR to extract images
+    has_image = data.get('has_image')
+    imgs_dir = os.path.join(res_path, 'imgs')
+
+    if has_image and ocr_engine is not None:
+        # original image path: input/<page_number>.jpg
+
+        input_image = os.path.join('input', f"{page_number}.jpg")
+
+        ocr_engine.predict(input_image, save_path=res_path)
+        
     
     for block in data.get('parsing_res_list', []):
         label = block.get('block_label', 'text')
@@ -239,11 +254,14 @@ def build_docx_from_ocr_json(res_path, save_path):
 
             # images are in imgs/
             image_path = os.path.join(res_path, "imgs")
-            # find image path based on block bbox
-            block_bbox = block.get('block_bbox', [])
-            if len(block_bbox) == 4:
-                image_path = os.path.join(image_path, "img_in_image_box_" + \
-                    f"{block_bbox[0]}_{block_bbox[1]}_{block_bbox[2]}_{block_bbox[3]}.jpg")
+            
+            # get the #img_num image in imgs/
+            image_files = sorted([f for f in os.listdir(image_path) if f.startswith("img_in_image_box_") and f.lower().endswith(('.jpg', '.jpeg', '.png'))])
+            if img_num - 1 < len(image_files):
+                image_path = os.path.join(image_path, image_files[img_num - 1])
+                img_num += 1
+            else:
+                image_path = None
 
             if image_path:
                 docx_builder.add_image(image_path)

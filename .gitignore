@@ -12,18 +12,10 @@ __pycache__/
 # input
 input/*
 !input/.gitkeep
-# Example folder - 483, 620, 673
-!input/483/
-!input/620/
-!input/673/
 
 # output
 output/*
 !output/.gitkeep
-# Example folder - 483, 620, 673
-!output/483/
-!output/620/
-!output/673/
 
 # .env
 .env
@@ -57,3 +49,5 @@ debug
 
 # .specstory
 .specstory/
+markdown_dump/
+examples/

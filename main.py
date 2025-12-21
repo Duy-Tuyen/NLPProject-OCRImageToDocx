@@ -1,6 +1,7 @@
 import logging
 import os
 import argparse
+from tqdm import tqdm
 
 def suppress_logs():
     logging.getLogger('paddleocr').setLevel(logging.ERROR) # Suppress logs from paddleocr except errors
@@ -84,44 +85,58 @@ def mass_conversion(input_folder: str, output_base_folder: str, min_page_number:
     ocr_engine = OCREngine()
     text_corrector = TextCorrector()
 
+    # Get list of files to process
+    files_to_process = []
     for filename in os.listdir(input_folder):
         if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.pdf')):
             page_number = os.path.splitext(filename)[0]
-
+            
             if min_page_number is not None and int(page_number) < min_page_number:
                 continue
             if max_page_number is not None and int(page_number) > max_page_number:
                 continue
+            
+            files_to_process.append(filename)
+    
+    # Create progress bar
+    print(f"\nStarting mass conversion of {len(files_to_process)} files...\n")
+    pbar = tqdm(files_to_process, desc="Processing files", unit="file", ncols=100, colour='green')
+    
+    for filename in pbar:
+        page_number = os.path.splitext(filename)[0]
+        input_image_path = os.path.join(input_folder, filename)
+        output_folder = OutputPageFolder(base_output_dir=output_base_folder, page_number=page_number)
 
-            input_image_path = os.path.join(input_folder, filename)
-            output_folder = OutputPageFolder(base_output_dir=output_base_folder, page_number=page_number)
+        pbar.set_description(f"Processing page {page_number}")
+        timer = Timer()
+        timer.start()
 
-            print(f"Processing page number: {page_number}")
-            timer = Timer()
-            timer.start()
+        # Step 1: OCR
+        pbar.set_postfix_str("OCR...")
+        ocr_timer = Timer()
+        ocr_timer.start()
+        ocr_engine.predict(input_image_path, save_path=output_folder.page_output_dir)
+        ocr_timer.stop()
+        
+        # Step 2: Text Correction
+        pbar.set_postfix_str("Correcting text...")
+        correction_timer = Timer()
+        correction_timer.start()
+        text_corrector.improve_json(input_json=output_folder.res_json_path, output_json=output_folder.improved_json_path)
+        correction_timer.stop()
+        
+        # Step 3: Build DOCX
+        pbar.set_postfix_str("Building DOCX...")
+        build_docx_from_ocr_json(res_path=output_folder.page_output_dir, save_path=output_folder.docx_path)
 
-            # Step 1: OCR
-            ocr_timer = Timer()
-            ocr_timer.start()
-            ocr_engine.predict(input_image_path, save_path=output_folder.page_output_dir)
-            ocr_timer.stop()
-            print(f"OCR completed in: {ocr_timer.runtime}")
-            print(f"OCR results saved to: {output_folder.page_output_dir}")
-
-            # Step 2: Text Correction
-            correction_timer = Timer()
-            correction_timer.start()
-            text_corrector.improve_json(input_json=output_folder.res_json_path, output_json=output_folder.improved_json_path)
-            correction_timer.stop()
-            print(f"Text correction completed in: {correction_timer.runtime}")
-            print(f"Corrected text JSON saved to: {output_folder.improved_json_path}")
-
-            # Step 3: Build DOCX
-            build_docx_from_ocr_json(res_path=output_folder.page_output_dir, save_path=output_folder.docx_path)
-
-            timer.stop()
-            print(f"Completed processing for page number: {page_number}\n")
-            print(f"Total time taken: {timer.runtime}\n")
+        timer.stop()
+        pbar.set_postfix_str(f"Done ({timer.runtime})")
+    
+    pbar.close()
+    print(f"\n{'='*100}")
+    print(f"Mass conversion completed successfully!")
+    print(f"Processed {len(files_to_process)} files.")
+    print(f"{'='*100}\n")
 
 def main():
     parser = argparse.ArgumentParser(
@@ -139,10 +154,16 @@ def main():
     parser.add_argument('--build_docx', type=str, help='Path to the page folder containing OCR JSON results to build DOCX.')
     # mass conversion: --mass_convert <input_folder> <min_page_number> <max_page_number>
 
-    parser.add_argument('--mass_conert',
+    parser.add_argument('--mass_convert',
                         nargs=3,
                         metavar=('input_folder', 'min_page_number', 'max_page_number'),
                         help='Mass convert all images/PDFs in the input folder. Optionally specify min and max page numbers to process.'
+    )
+    
+    parser.add_argument('--mass_build_docx',
+                        nargs=2,
+                        metavar=('min_page_number', 'max_page_number'),
+                        help='Mass build DOCX files from existing JSON in output folder. Specify min and max page numbers.'
     )
 
     args = parser.parse_args()
@@ -178,6 +199,37 @@ def main():
 
         print(f"Mass conversion completed. Check the 'output' folder for results.")
     
+    if args.mass_build_docx:
+        min_page = int(args.mass_build_docx[0])
+        max_page = int(args.mass_build_docx[1])
+        
+        print(f"\nBuilding DOCX files for pages {min_page} to {max_page}...")
+        pbar = tqdm(range(min_page, max_page + 1), desc="Building DOCX", unit="file", ncols=100, colour='blue')
+        
+        ocr_engine = OCREngine()  # Initialize once
+
+
+        for page_num in pbar:
+            page_number = str(page_num)
+            output_folder = OutputPageFolder(base_output_dir="output", page_number=page_number)
+            
+            # Check if JSON exists
+            json_path = output_folder.improved_json_path if os.path.exists(output_folder.improved_json_path) else output_folder.res_json_path
+            
+            if not os.path.exists(json_path):
+                pbar.set_postfix_str(f"Skipped (no JSON)")
+                continue
+            
+            try:
+                pbar.set_postfix_str(f"Building...")
+                build_docx_from_ocr_json(res_path=output_folder.page_output_dir, save_path=output_folder.docx_path, ocr_engine=ocr_engine)
+                pbar.set_postfix_str(f"Done")
+            except Exception as e:
+                pbar.set_postfix_str(f"Error: {str(e)[:30]}")
+        
+        pbar.close()
+        print(f"\nMass DOCX build completed. Check the 'output' folder for results.")
+
 
 if __name__ == "__main__":
     main()

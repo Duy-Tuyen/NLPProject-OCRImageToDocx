@@ -31,3 +31,6 @@ class Config:
     ## Max tokens for correction model
     PROTONX_CORRECTION_MAX_TOKENS = 160
     
+    # Gemini API section
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")  # Set via environment variable
+    GEMINI_MODEL = "gemini-2.0-flash"  # Default model for OCR

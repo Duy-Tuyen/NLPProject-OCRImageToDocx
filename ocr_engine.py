@@ -151,7 +151,6 @@ class OCREngine:
 
         if save_path:
             for res in results:
-                res.save_to_json(save_path=save_path)
                 res.save_to_markdown(save_path=save_path)
         return results
 
