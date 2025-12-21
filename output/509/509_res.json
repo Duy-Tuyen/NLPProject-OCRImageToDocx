@@ -1,0 +1,233 @@
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các chứng đầy hơi, kém ăn, lên men ở ruột, chậm tiêu, chướng bụng..."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Rối loạn tiêu hóa, chậm tiêu, biếng ăn ở sơ sinh và trẻ em."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn : ngày 2lần x 1viên."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Trẻ em trên 12 tháng : ngày 2 lần x 0,5ml (khoảng 12 giọt), dưới 13 tháng : ngày 0,5ml chia 1-2lần."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Neo- vis (Đài Loan)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Aluminium hydroxyd 200mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Magnesium oxyd 60mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Aluninium silicat 50mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Histidin HCl 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Etylamino benzoat 5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Loét dạ dày - tá tràng, viêm dạ dày do thừa acid dịch vị, đau dạ dày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn ngày 3-4 lần x 2-4 viên."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Neurinase (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên/dung dịch/viên bọc đường"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Barbital 0,15g/0,15g/0,05g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao Valerian 0,025g/0,05g/0,10g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Gây ngủ"
+    },
+    {
+      "block_label": "text",
+      "block_content": "chỉ định : Rối loạn giấc ngủ- khó ngủ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Dung dịch uống hòa với ít nước. Trẻ em trên 30 tháng : 10 giọt mỗi tuổi. Viên : người lớn : 1-2 viên, vào buổi tối lúc đi ngủ. Viên bọc đường : trẻ trên 30 tháng : 1 viện cho trẻ 5 tuổi. Người lớn : 1-4 viên cho đến 8 viên/ngày, trước các bữa ăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Suy thận nặng, -Rối loạn chuyển hóa porphyrin."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Có thể có phản ứng phụ với da- Kiêng rượu khi dùng thuốc."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Neurocalcium (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên/thuốc cốm 100g có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Calci gluconat 0,20/6,66g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Calci bromid 0,10/3,33g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Phenobarbital 0,01/0,33g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Ưu tư, dễ bị kích thích, dễ xúc cảm, mất ngủ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 1-6viên/ngày hay hơn. Uống 1-6 thìa càfê thuốc cốm/ngày hay hơn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Thuốc gây buồn ngủ. Không uống rượu khi dùng thuốc."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Neurogastrine (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Hộp 100g (25 thìa càfê) thuốc cốm :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Than hoạt tính 12,50g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao mềm Jusquiam 0,25g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Thuốc hấp thụ mạnh chất độc ở ruột, giải độc (than hoạt tính), chống co thắt (jusquiam)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Đau bụng co thắt, bệnh đại tràng, rối loạn tiêu hóa, trướng bụng, ỉa chảy thường."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 1-2 thìa càfê, trước 2 bữa ăn chính. Trẻ em trên 10 tuổi, uống nửa liều."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Glôcôm góc đóng. Rối loạn niệu đạo - tuyến tiền liệt."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Vì có than hoạt nên không uống cùng lúc với các thuốc hấp thụ khác. Nếu dùng phải cách nhau ít nhất 2 giờ lần dùng thuốc trước đó."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Neurotensyl (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Mỗi viên có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Papaverin 0,005g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao sơn tra 0,05g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Anemon tán mịn 0,02g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Spartein 0,01g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao tầm gửi 0,05g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Có biểu hiện loạn thần kinh thực vật, đánh trống ngực, rối loạn mạch vận động, tăng xúc cảm, tim mạch dễ bị kích thích."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn : 4-9 viên/ngày, chia làm 2 - 3 lần trước bữa ăn chính."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Papaverin có thể gây rối loạn dạ dày ruột, cơn bừng mạch vận động toát mồ hôi, nhức đầu, chóng mặt, nổi ban da."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Neurotrophène (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Ống tiêm có 5ml và 10ml có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Natri chlorid 30/60mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kali chlorid 0,375/0,75mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Calci chlorid 0,75/1,5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Thuốc chứa 1 tỉ lệ cân bằng các ion Na+ K+, Ca2+. Đóng vai trò trong sự trao đổi thẩm thấu. Dung môi cho các kháng sinh (đẳng trương, pH trung tính)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các rối loạn dinh dưỡng và tiêu hóa của trẻ em và người lớn."
+    },
+    {
+      "block_label": "number",
+      "block_content": "498"
+    }
+  ]
+}

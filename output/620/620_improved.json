@@ -1,0 +1,48 @@
+{
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "- Về mặt thuốc : tính nóng, ấm.... thuộc về Dương. Lạnh, mát... thuộc về Âm."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "1.2. Ngũ Hành"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thuyết ngũ hành bao trùm mọi mặt vận động của vật chất trong vũ trụ.\nNăm hành là : Mộc - Hỏa - Thổ - Kim - Thủy.\nCó thể quy loại ngũ hành của một số hiện tượng và sự vật như sau :"
+  },
+  {
+   "block_label": "table",
+   "block_content": "<table><tr><td>Ngũ hành</td><td>Mộc</td><td>Hỏa</td><td>Thổ</td><td>Kim</td><td>Thủy</td></tr><tr><td>Hướng</td><td>Đông</td><td>Nam</td><td>giữa</td><td>Tây</td><td>Bắc</td></tr><tr><td>Mùa</td><td>Xuân</td><td>Hạ</td><td>cuối hạ</td><td>Thu</td><td>Đông</td></tr><tr><td>Khí</td><td>Gió</td><td>Nóng</td><td>Ẩm thấp</td><td>Khô ráo</td><td>Lạnh</td></tr><tr><td>Ngũ tạng</td><td>Can</td><td>Tâm</td><td>Tỳ</td><td>Phế</td><td>Thận</td></tr><tr><td>Lục phủ</td><td>Đởm</td><td>Tiểu trường<br>Tam tiêu</td><td>Vị</td><td>Đại trường</td><td>Bàng quang</td></tr><tr><td>Khiếu</td><td>Mắt</td><td>Lưỡi</td><td>Miệng</td><td>Mũi</td><td>Tai</td></tr><tr><td>Màu sắc</td><td>Xanh</td><td>Đỏ</td><td>Vàng</td><td>Trắng</td><td>Đen</td></tr><tr><td>Vị</td><td>Chua</td><td>Đắng</td><td>Ngọt</td><td>Cay</td><td>Mặn</td></tr></table>"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thuyết ngũ hành còn bao gồm hai mặt tương sinh và tương khắc như sau : thành một hệ khép kín.\nThủy sinh Mộc, Mộc sinh Hỏa...v.v....\nKim khắc Mộc, Mộc khắc Thổ....v.v...."
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "__________ Tương sinh\n- - - - - - Tương khắc"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "1.3. Kinh Lạc và Quy kinh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Người xưa quan niệm rằng các cơ quan trong cơ thể con người có liên hệ chặt chẽ với 14 đường kinh mạch chính :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- 6 đường kinh ở tay : 3 đường kinh dương ở phía ngoài, đi từ trên"
+  },
+  {
+   "block_label": "number",
+   "block_content": "602"
+  }
+ ]
+}

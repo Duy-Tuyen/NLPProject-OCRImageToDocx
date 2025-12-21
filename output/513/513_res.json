@@ -1,0 +1,193 @@
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Phòng và trị các chứng co thắt ở túi mật, bàng quang. Phòng tạo ra sỏi mật nhỏ ở túi mật, bàng quang."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn uống : 3-5 viên/lần, uống 3-5 lần/ngày, sau bữa ăn. Phòng tạo sỏi uống 2 viên/ngày- (sau khi mổ)."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Omitan (Hàn Quốc)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : viên nén 25mg Biphenyl dimethyl dicarboxylat (viết tắt : DDB)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : DDB là một chất tổng hợp của Schizandrin C, chiết từ Schizandrae Fructus, thuốc truyền thống trị bệnh gan."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Viêm gan mạn, thể tồn tại với mức S. GPT tăng cao thường xuyên, viêm gan với mức transaminase tăng cao do dùng thuốc. Dùng hỗ trợ cho người viêm gan virut B."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 1-2viên/lần x 3lần/ngày. có thể điều chỉnh liều do thầy thuốc chỉ định."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Với bệnh viêm gan mạn thể hoạt động, người bị hoại tử gan."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Có thể bị ngoại ban, mất đi khi dùng thuốc chống dị ứng- Vàng da thoáng qua - Hiếm bị buồn nôn."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Ô hương tán"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Bột hoặc thuốc sắc:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Ô dược và hương phụ 2 phần bằng nhau, tán thành bột để dùng hoặc sắc uống."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Ăn không tiêu, đau lưng, nôn mửa, nhức đầu, xung huyết, đái đêm."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 6-8g bột/lần x 2 lần/ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Tùy theo bệnh có thể gia giảm, sắc với gừng trong trường hợp ăn không ngon, hoặc thang với nước sắc hạt cau (4g/50ml) để trị giun."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Ôn phấn"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Phấn bôi :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Long cốt nung 12g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mẫu lệ nung 12g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Sinh hoàng kỳ 12g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Bột té 40g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tán tất cả thành bột."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Mồ hôi trộm, mồ hôi tự ra."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Bọc thuốc vào lụa thưa, xoa vào nơi ra mồ hôi, ngày 2-3 lần."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Opium (Thuốc phiện)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tên khác : Opi"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Là nhựa khô lấy ở quả chưa chín của cây thuốc phiện (Papaver somniferum album, Lin, Papaveraceae). (Xem Anh túc xác)."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Opizoic"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao opi 10% morphin 5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tinh dầu hồi 2mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Acid benzoic 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Viên nén màu ngà, mùi hồi, vị đắng, làm săn, dễ trung tiện."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : ỉa chảy."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn uống 1 viên/lần, 4-6viên/24giờ (tối đa 10viên). Trẻ em, người già : tùy theo tuổi mà giảm liều hoặc bằng 1/2 liều người lớn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Trẻ em dưới 5 tuổi. viêm kết trực tràng cấp tính."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Thuốc gây nghiện. Không dùng thuốc lâu dài liều cao - Thận trọng với người suy hô hấp mạn tính, co thắt phế quản- Có thể bị táo bón nếu dùng lâu dài liều cao."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Orocal (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén 1,25g calci carbonat (tương ứng với 500mg Ca2+ hoặc 12,5mol/viên)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Thiếu hụt calci trong các trường hợp trẻ em đang lớn, phụ nữ có thai hoặc nuôi con bú. Điều trị bổ xung trong các chứng loãng xương (ở người già, sau tuổi mãn kinh, dạng điều trị bằng corticoid, bệnh nhân phải nằm bất động khi trở lại bình thường...)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn : 2-3viên/ngày. Trẻ em tùy theo tuổi 1-2viên/ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Mẫn cảm với thuốc, tăng calci-huyết, tăng calci niệu kèm sỏi thận, bệnh nhân phải bất động kéo dài có tăng calci-huyết."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Orthocynar (XNDP 25)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Chè thuốc bào chế từ râu mèo, râu ngô, actisô."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Lợi tiểu và nhuận gan."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Tăng acid uric-huyết, tăng cholesterol-huyết, tăng huyết áp, phù nề, đi tiêu ít."
+    },
+    {
+      "block_label": "number",
+      "block_content": "502"
+    }
+  ]
+}

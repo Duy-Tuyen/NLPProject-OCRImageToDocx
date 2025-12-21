@@ -1,0 +1,201 @@
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn và trẻ em : Ngày 2 gói; Trẻ em dưới 12 tháng 1 gói, uống vào cuối bữa ăn"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Lysifer (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Phức hợp sắt (Fe2+)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "sulfat glycocol 150mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B12 khan 200mcg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B6 5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "L-lysin HCl 200mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Trị liệu với sắt."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Thiếu máu do thiếu sắt và B12"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Nhu cầu sắt người lớn 100-200mg sắt kim loại/ngày. Trẻ em : 6-10mg sắt/kg/ngày. Người lớn uống 4-8 viên ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Thừa sắt. Dị ứng với vitamin B12."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Có thể giảm hấp thụ các cyclin. Phân có màu đen. Có thể bị buồn nôn, táo bón."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "M"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Maalox (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Al hydroxyd 400mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mg hydroxyd 400mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dịch treo uống lọ 250ml, cứ 100ml có 3,49g Al hydroxyd và 3,99g Mg hydroxyd dưới dạng gel."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Kháng acid dịch vị, bảo vệ niêm mạc thực quản - dạ dày- tá tràng, không cản tia X"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Viêm dạ dày, thoát vị hoành, đầy bụng, chậm tiêu, phối hợp trong điều trị loét dạ dày- tá tràng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày dùng 1-2 viên, vào sau bữa ăn, từ nửa đến 1 giờ (pha hoặc ngậm). hoặc 1 thìa canh dịch treo, sau khi ăn hoặc khi có cơn đau"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược tương tự : Maaloxid (Phar-mamexco)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Meko- malox (Meko pharma)"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Maalox plus (Mỹ)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén để nhai có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Al hydroxyd (gel khô) 200mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mg hydroxyd 200mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Simethicon 25mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng - chỉ định : Như Maalox"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày dùng 4 lần, mỗi lần 2 -4 viên, uống từ nửa đến 1 giờ, sau bữa ăn hoặc trước khi đi ngủ buổi tối."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Dùng cùng với tetracyclin (giảm hấp thu của kháng sinh)."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Madecassol"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Ống tiêm 1ml/20mg - Viên nén 10mg- Thuốc mỡ 1%. - Bột rắc 2%."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Cao rau má (centella asiatica) có tác dụng kích thích quá trình dinh dưỡng ở mô liên kết (hoạt chất là acid asiatic), làm cho vết thương mau lành."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Chân nặng, loét giãn tĩnh mạch, bỏng, vết thương hay mổ, tổn thương da niêm mạc tai - mũi - họng, mắt."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Chỉ dùng tiêm bắp ngày 1 ống, hoặc uống 3-5viên/ngày vào các bữa ăn. Trẻ em dùng nửa liều - Dùng tại chỗ : bôi hay rắc bột 1-2 lần/ngày."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Madecassol neomycine\nHydrocortisone (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Thuốc mỡ 10g có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao chuẩn độ Centella asiatica 1g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Hydrocortison acetat 1g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Neomycin 350000 UI"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chất bảo quản và tá dược vđ"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Thuốc phối hợp kháng sinh và corticoid với cao rau má chuẩn độ, dùng tại chỗ ngoài da."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Vết thương và bệnh da bội nhiễm, nhạy cảm với corticoid dùng trong 8 ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Bôi lên vết thương 1-2lần/ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Bệnh da nhiễm khuẩn, virut nấm."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mẫn cảm với Neomycin và parahydroxybenzoat."
+    },
+    {
+      "block_label": "number",
+      "block_content": "488"
+    }
+  ]
+}

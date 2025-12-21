@@ -1,0 +1,37 @@
+{
+ "has_image": true,
+ "parsing_res_list": [
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "NHÂN TRẦN TQ"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "NHÀU"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "RAU MÁ LÔNG"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "SA NHÂN"
+  }
+ ]
+}

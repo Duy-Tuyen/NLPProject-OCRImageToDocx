@@ -1,0 +1,201 @@
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "paragraph_title",
+      "block_content": "J"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Juvenol\n(Cty DF Saigon-Sapopha)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên bao chứa :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao ích mẫu 0,2g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao ngải cứu 0,05g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao hương phụ 0,05g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao giền (extractum Xylopiae vielanae) 0,05g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Kinh nguyệt không đều hoặc kéo dài, khí huyết suy nhược, chứng đau bụng khi hành kinh, tăng huyết áp."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày 3-6 viên."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Phụ nữ có thai"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "K"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Kalium magnesium asparaginat\n(Berlin-Chemie, Đức)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Lọ 500ml dd tiêm truyền, cứ 1 lít dd này chứa : KOH :3,9g (K+ :58,4mmol), DL-aspatic acid 15,16g, xylitol 16,7g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Suy tim, nhồi máu cơ tim ngộ độc do glycosid cường tim, loạn nhịp."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Tiêm truyền tĩnh mạch 300ml x 1-2lần/ngày, với tốc độ 20-25giọt/phút."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Rối loạn chức năng thận, tăng Kali-huyết, tăng Mg-huyết, không dung nạp sorbitol, ngộ độc do methanol..."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Kallidinogenase"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Enzym phân lập từ tuyến tụy hoặc nước tiểu ở động vật có vú."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tên khác : Kalleon"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Angioxyl"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Impantin"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kallikrein"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên bọc đường 3-5 đơn vị sinh học (unité biologique), ống tiêm bột đông khô 40 đv sinh học kèm ống dung môi."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Hormon tuyến tụy có tác dụng kích thích tuần hoàn, giãn mạch ngoại vi."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Viêm động mạch, suy tuần hoàn não, di chứng liệt nửa người, suy tuần hoàn ngoại vi, rối loạn tuần hoàn, ở người già, rối loạn dinh dưỡng ở các mô."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày uống 3 lần, mỗi lần 3viên, vào bữa ăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tiêm sâu bắp thịt, cách xa bữa ăn, ngày hoặc cách 1 ngày 1 ống. Đợt dùng 1 tháng, sau dùng đợt 20 ngày, cứ cách ngày 1 ống."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Kalmag (Indonesia)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Magnesium trisilicat 300mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Al hydroxyd (dạng keo) 300mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Papaverin HCl 30mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chlordiazepoxid HCl 5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Thiamin HCl 2mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B2 1mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B6 0,5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B12 1mcg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Niaciamid 5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tinh dầu bạc hà vđ 1mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Phối hợp các thuốc chống acid dịch vị, trấn tĩnh, chống co thắt, và vitamin nhóm B."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Loét dạ dày - tá tràng, tăng acid dịch vị, viêm dạ dày, chứng đầy bụng, do nguyên nhân thần kinh, co thắt môn vị, tăng nhu động ruột."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày 1-2 viên sau bữa ăn."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Kaobrol (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén để nhai có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mg hydrocarbonat 210mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Calci carbonat 140mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kaolin nặng 210mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Điều trị chứng đau bụng trong các"
+    },
+    {
+      "block_label": "number",
+      "block_content": "479"
+    }
+  ]
+}

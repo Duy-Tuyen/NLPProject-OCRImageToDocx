@@ -1,0 +1,241 @@
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày uống 3-4 gói, xa bữa ăn (cứ 1 gói pha vào 250ml nước sôi)."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Orthogastrin (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Gói 0,8g bột uống có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Na sulfat khan 0,35g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Na phosphat khan 0,25g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Na bicarbonat 0,10g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Na citrat 0,10g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : thông mật, nhuận tràng, kháng acid."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Khó tiêu, trướng bụng, ợ, buồn nôn- Nóng rát thực quản thượng vị - Táo bón."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn : uống 1-2 gói vào bữa ăn hay lúc khó chịu. - Táo bón uống 2-3 gói vào buổi sáng lúc đói. Trẻ em 6 tháng - 1 tuổi uống 1/2gói/ngày, 1-3 tuổi uống 1gói/ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Viêm loét trực tràng -Bệnh Crohn. Hội chứng tắc hay bán tắc. Đau bụng không rõ nguyên nhân."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Không dùng nếu bị tắc đường mật. Nếu bị ỉa chảy cần giảm liều."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Osco (Mỹ)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tên khác : A to Z multivitamin/multimineral"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Bổ xung các vitamin và muối khoáng vi lượng cho cơ thể."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn ngày 1 viên."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Osmotan G"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Lọ 500 và 1000ml dung dịch 5 và 10% gồm có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Na+ (mmol/l) 68,4/68,4"
+    },
+    {
+      "block_label": "text",
+      "block_content": "K+ (mmol/l) 26,8/26,8"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cl- (mmol/l) 95/95,2"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Glucose (mmol/l) 272,0/555,0"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Độ thẩm thấu (mosm/l) 467,4/745,4"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Bù nước và cung cấp các ion Na, K, Cl ở giai đoạn ngay sau phẫu thuật."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Cung cấp năng lượng ở mức vừa phải (200 Kcalo/l loại 5%) và 400 Kcalo cho loại 10%."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Tiêm truyền theo yêu cầu."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Ứ nước và Natri."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Ossein-hydroxyapatit"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược :Ossopan (Pierre Farbre)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên bao 600mg:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Phức hợp ossein hydroxyapatit 600mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tương ứng Ca : 3,24mmol-60mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tương ứng P : 1,95mmol-60mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tương ứng muối vô cơ : 18mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tương ứng collagen : 135mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tương ứng các protein 75mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Nguyên tố vi lượng : F, Mg, Fe, Zn, Cu, Ni, Mn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Tăng calci huyết, niệu, sỏi calci, calci hóa mô, bất động lâu dài."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 2-4 viên/ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Thận trọng dùng với dẫn xuất digitalin (rối loạn nhịp), với Na fluorid, diphosphat (sử dụng cách xa nhau), với tetracyclin (sử dụng cách xa nhau trên 3 giờ), với thuốc lợi tiểu nhóm thiazid (nguy cơ tăng calci huyết)."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Ossopan (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên cao xương 0,600g (tương ứng với calci 129mg, phospho 60mg)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Cung cấp calci - các chất khoáng và các chất hữu cơ cần thiết của xương."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Thiếu calci kèm biểu hiện chứng loãng xương."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Điều trị hỗ trợ loãng xương và nhuyễn xương, loãng xương lão hóa, và loãng xương do dùng corticoid."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày từ 2-4 viên, chia 2 lần."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Tăng calci -huyết hoặc calci-niệu, sỏi calci, calci hóa mô hoặc thận. - Bất động lâu dài kèm theo tăng calci niệu và hoặc tăng calci -huyết. (chỉ dùng khi hoạt động trở lại)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Nếu dùng đồng thời với tetracyclin (cần cách nhau ít nhất 3 giờ giữa 2 lần dùng)."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Ouabain"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tên khác : Uabain"
+    },
+    {
+      "block_label": "text",
+      "block_content": "g-Strophantin"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Strophalen"
+    },
+    {
+      "block_label": "text",
+      "block_content": "g-Strophantosidum"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Strophena"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Ống tiêm 1ml có 0,25mg."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Là một glucosid lấy từ cây Strophantus gratus - Tác dụng trị suy tim cấp (xuất hiện sớm hơn digitalin nhiều), tác dụng sau 10 phút tim tĩnh mạch."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Cấp cứu suy tim, kèm nhịp chậm, có tổn thương bó His, viêm cơ tim, loạn nhịp trên thất (mạch nhanh trên thất)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Tiêm tĩnh mạch thật chậm,"
+    },
+    {
+      "block_label": "number",
+      "block_content": "503"
+    }
+  ]
+}
