@@ -1,1 +1,189 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Nên giảm liều nếu thuốc gây ra ỉa chảy - nếu cần có thể uống với một thuốc bao che niêm mạc dạ dày- Chưa ghi nhận thấy tác hại với bào thai ở súc vật thí nghiệm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Không nên dùng cho người nuôi cuon bú. Có thể bị đau dạ dày, ỉa chảy, biểu hiện dị ứng da."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thiotic acid"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên bọc đường 25mg, ống tiêm 2ml/10ml và 5ml/25mg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Là một coenzym tham gia vào chuyển hóa glucid và lipid nên có tác dụng ngăn cản hiện tượng vữa xơ mạch và giải độc cho cơ thể. Bảo vệ gan."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng và điều trị chứng xơ động mạch vành và não, viêm gan mạn, ngộ độc do kim loại, acid cyanhydric"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn, ngày uống 2-4 lần, mỗi lần 25mg, sau bữa ăn. Đợt dùng 20-30 ngày. Tiêm dưới da, bắp thịt hoặc tĩnh mạch : ngày từ 2ml đến 5ml"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Viêm dạ dày cấp, loét dạ dày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thiophen"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiopon (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống 2ml để làm khí dung chứa 400mg dầu thiophenic ở 12% lưu huỳnh trong dầu ôliu trung tính. Nang chứa 30mg dầu thiophenic kể trên, kèm 70mg dầu lạc trong tá dược có gelatin, glycerol, sorbitol và nước tinh chế."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Kích thích định dưỡng niêm mạc đường hô hấp. Sát khuẩn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm mạn ở đường hô hấp trên như viêm mũi, viêm mũi-họng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Dùng 1 ống để làm khí dung mũi 1 lần. Ngày uống 3-4 viên, nuốt không nhai viên thuốc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Mẫn cảm với lưu huỳnh."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thiopheol (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Thuốc đạn người lớn/trẻ em:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiophen 0,1/0,02g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu huỳnh thể keo 0,006/0,001g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Eucalyptol 0,05/0,01g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ca pantothenat 0,20/0,04g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm mũi, viêm xoang, viêm thanh quản, viêm hầu, viêm tai, viêm phế quản cấp mạn tính."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biến chứng cúm, hô hấp, nhiễm khuẩn. Phòng bệnh sau phẫu thuật."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Đặt 2 thuốc đạn/24 giờ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Trẻ dưới 30 tháng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Còn có dạng thuốc Thiopheol viên, có Lithium thiophen 2 carboxylat, 0,2g. Tránh dùng cho người bệnh đang dùng thuốc lithium khác"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thiopon (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Dầu Thiophen 12% lưu huỳnh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ống tiêm 2 ml có 0,40g -viên hoàn 0,03g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Dầu Thiophen thiên nhiên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Cơ thể thiếu lưu huỳnh, thường bị các bệnh đường hô hấp. Sát khuẩn phổi, long đờm, giảm tiết dịch phế quản, thấp khớp, bệnh phụ khoa, bệnh da."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tiêm bắp thịt cách 2 ngày 1ống. Phun mũi mỗi lần 1 ống - uống 3-6viên/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thiosedal"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Sirô lọ 150ml/viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Codethylin HCl 0,15/0,005g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao Jusquiam 0,075/0,0075g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sulfogaiacol 3/0,1g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Ho"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Chỉ dùng vài ngày- Người lớn uống mỗi lần 10ml, 3-4 lần/ngày hay mỗi lần 2viên, 3-4lần/ngày. Trẻ từ 30tháng -8 tuổi : 0,3mg/kg/24giờ tức là mỗi lần 1/2 thìa càfê, 2 lần/ngày. Trẻ từ 8-12 tuổi : 0,6mg/kg/ngày, uống 3-4 lần, chia đều trong ngày. Trẻ từ 12-15 tuổi : 0,6mg/kg/ngày, tức 4-6 thìa càfê mỗi lần, 3-4 lần/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Hen suyễn- suy hô hấp- glôcôm góc đóng. - bí đái do rối loạn niệu đạo- tuyến tiền liệt- trẻ dưới 30 tháng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Người già cần giảm liều. Thuốc gây buồn ngủ - Kiêng rượu khi dùng thuốc- Tránh dùng co thai 3 tháng đầu, người đang nuôi con bú. Có thể có tác dụng phụ : chóng mặt, buồn nôn, nôn, co thắt phế quản."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thirial (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Nang chứa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao khô tỏi (4% alliin) 138mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột tỏi 46mg"
+  },
+  {
+   "block_label": "number",
+   "block_content": "549"
+  }
+ ]
+}

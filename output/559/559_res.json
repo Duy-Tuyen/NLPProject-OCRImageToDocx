@@ -1,1 +1,257 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tác dụng phụ : nổi ban da, buồn nôn, nôn, ỉa chảy, táo bón."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Có 1 số công thức Theragran khác : Theragran (advanced formula) Theragran-M, Theragran Stress formula, thành phần công thức, có thay đổi chút ít nhưng đều là thuốc phối hợp nhiều vitamin, vi lượng khoáng có tiềm năng mạnh."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Théralène pectoral"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 150ml sirô ho trẻ còn bú ;"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Alimemazin tartrat 37,50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Amonium acetat 3,75mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Na benzoat 360mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Magne sulfat 300mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao chế sirô Tolu 4,5g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Ho không do phản xạ mà gây khó chịu, đặc biệt do dị ứng và kích thích."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Chỉ dùng thời gian ngắn. Uống 1-6 thìa càfê/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Suy hô hấp. Glôcôm góc đóng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Thuốc làm buồn ngủ- Tác dụng phụ : tăng tiết nhày phế quản, khô miệng, rối loạn điều tiết, táo bón, bí đái - Cần tìm nguyên nhân chính của ho để trị liệu cho đúng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Có 2 công thức Théralène khác : có cùng chỉ định."
+  },
+  {
+   "block_label": "text",
+   "block_content": "1) chỉ có alimemazin, dạng ống tiêm 5ml : 5mg, viên 5mg, lọ 150ml sirô 75mg dạng tartrat và lọ 30ml giọt uống có 1,2g dạng tartrat."
+  },
+  {
+   "block_label": "text",
+   "block_content": "2) Gồm có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Alimemazin base 37,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Codethylin HCl 420mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ephedrin HCl 150mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Amoni acetat 3,75g"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thera - peutic M (Mỹ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén, mỗi viên chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin A (dạng palmitat) 5500 dvqt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C 120mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B1 3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B2 3,4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin PP 30mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B6 3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B12 9mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ergocalciferol 4000 dvqt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin E 30 dvqt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci pantothenat 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid folic 0,4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biotin 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci (calci phosphat dibase) 40mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Iod (dạng kali Iodid) 150mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sắt (dạng sắt fumarat) 27mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Magnesium (dạng Mg0) 100mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đồng (dạng sulfat) 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kẽm (dạng sulfat) 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mangan (dạng sulfat) 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Crom (dạng chlorid) 15mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Selenium (dạng Na selenat) 10mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Molybden (dạng Na molybdat) 15mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phosphor (dạng phosphat) 31mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kali (dạng muối kali) 25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chlorid (dạng kali chlorid) 25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Cung cấp 13 loại Vitamin và 13 vi lượng chất khoáng cho cơ thể."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn uống 1 viên sau bữa ăn."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Theravit M (Califarco USA)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén hình thuôn chứa các vitamin A, beta-caroten, C, B1, B2, niacinamid, B6, B12, D, E, calci pantothenat, acid folic, biotin và các ion Ca, P, I, Fe, Cu, Mg, Zn, C, Se, Mo, K."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bổ xung các vitamin và yếu tố vi lượng khoáng cho cơ thể."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn ngày 1-2 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Therazym M (USA)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Viên nén chứa các vitamin và muối khoáng tương tự như bd Theravit M (nhưng không có betacaroten)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Suy nhược cơ thể, tăng chuyển hóa."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thiocolchicosid"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén 4mg. Ống tiêm 2ml= 4mg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Thuốc tổng hợp có lưu huỳnh tương tự như một glucosid tự nhiên ở cây Colchicum autumnale, gây thư giãn cơ, tác dụng đến các cơ nội tạng, nhất là cơ tử cung, nhưng không có tác dụng như cura, nên không ảnh hưởng đến các vận động tự ý, không gây ra liệt cơ, do đó ít gây nguy cơ liệt hô hấp. Mặt khác, thuốc cũng không ảnh hưởng đến hệ tim mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Cơ co rút gây đau đớn như : thoái hóa đốt sống hoặc sai khớp sống, vẹo cổ (torticolis), đau sống lưng, đau vùng thắt lưng. Bệnh do chấn thương hoặc tổn thương thần kinh. Trong phục hồi chức năng vận động, chứng kinh đau."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn, ngày uống 2 lần, mỗi lần 2 viên, hoặc tiêm bắp, ngày 2 ống."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống mẫn cảm : Mẫn cảm với một thành phần của thuốc."
+  },
+  {
+   "block_label": "number",
+   "block_content": "548"
+  }
+ ]
+}

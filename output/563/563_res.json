@@ -1,1 +1,213 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "mắt, mỏi mắt ở phụ nữ nuôi con bú, viêm giác mạc, chứng quáng gà."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày uống 2 lần x 1viên- Trẻ em : 7-14 tuổi ngày 1-2viên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý :Phụ nữ có thai không nên dùng quá 3 viên ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tỏi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Allium sativum L, họ Hành (Liliaceae), Ail (Pháp), Garlic (Anh)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biệt dược : Achiofil (Ba Lan) phối hợp với chlorophyl ;"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Tinh dầu tỏi đóng nang mềm gelatin 1ml (Garlic capsules của Mỹ). Hoặc tinh dầu tỏi tinh chế đóng trong nang gelatin mỗi viên chứa tinh dầu tỏi 0,25% kèm tá dược."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Xem \"Ranbaxy's Garlic Pearls \""
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Xem thêm tỏi ở phần cây thuốc"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Topaal (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên để nhai có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Silic kết tủa vô định hình 0,13g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Al hydroxyd thể keo 0,3g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg hydrocarbonat 0,04g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid alginic 0,2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Tạo gel nổi ở dạ dày, bao phủ vùng trung tâm vị lồi đi lên niêm mạc dạ dày- Tác dụng nhanh và kéo dài."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Trị liệu các rối loạn tiêu hóa, tăng acid dịch vị, hồi lưu dạ dày- thực quản, thoát vị khe thực quản, ợ chua nóng, viêm thực quản."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Nhai 3-6viên/ngày, chia làm 3 lần, sau bữa ăn. Liều cuối cùng trong ngày nên uống trước khi đi ngủ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không nên dùng cùng lúc với Furosemid, Indometacin, Tetracyclin, Digoxin, Isoniazid, các thuốc kháng cholin."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Top - Roll (Hàn Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang mềm chứa các vitamin A, B1, B6, B2, B12, C, D và E kèm các muối khoáng vi lượng Fe, Ca, P, Mg, Zn, Cu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Suy nhược cơ thể, người già, phụ nữ có thai, hoặc nuôi con bú, bệnh nhân mới ốm dậy, người lao lực."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày uống 1-2viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Total magnésien (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg chlorid 149,25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg fluorid 0,3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg bromid khan 0,18mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg iodid 0,03mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg carbonat 0,3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg phosphat 0,3MG"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg sulfat khan 0,24mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Liệu pháp Magnesium."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Thiếu Magnesium đã xác nhận, các cơn Tetani (dạng ưa co giật)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Thiếu Magnesium được xác nhận, người lớn uống 7-10 viên/ngày, chia 4-6 lần. Tạng ưa co giật : Người lớn uống 4-9 viên/ngày, chia 3 lần, uống vào bữa ăn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Suy thận nặng, tắc đường dẫn mật."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Nếu thiếu cả calci thì nên sử dụng Magnesium trước. Nếu thiếu nặng và hấp thụ kém thì tiêm tĩnh mạch -Cách xa dùng tetracyclin - Có thể bị ỉa chảy, đau bụng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Transilane"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Hộp 140g bột pha uống :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hemi cellulose của hạt Psyllium 59,92g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kali bicarbonat 14g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Gặp nước bột trương lên tạo thành chất nhầy, dễ di chuyển phân."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Trị táo bón- Phục hồi chức năng ruột."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 2 thìa cà phê vào sáng và chiều trước các bữa ăn. Độ bột vào ly nước to, để trương, quấy đều uống ngay."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Cẩn thận với người to đại tràng. Không dùng thuốc lâu dài"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Transipeg (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Gói thuốc bột pha dd uống 2,95g macrogol 3350."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Dẫn chất polyme có trọng lượng phân tử cao có tác dụng nhuận tràng do thẩm thấu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Ngày 2 gói, hòa vào 1 cốc nước, (khoảng 100ml) nên uống vào buổi sáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nếu cần có thể dùng tới 3 gói/24giờ. Đợt dùng tối đa là 3 tháng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Bệnh viêm ruột kết thực thể (viêm loét trực kết tràng, Bệnh Crohn,...) hội chứng nghẽn ruột, hội chứng đau bụng chưa rõ nguyên nhân."
+  },
+  {
+   "block_label": "number",
+   "block_content": "552"
+  }
+ ]
+}

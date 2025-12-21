@@ -1,1 +1,201 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "tuổi : 2-3 viên /24giờ, hay mỗi lần 50 giọt, 5 lần/ngày hay 3 thìa canh/ngày. Trẻ em : 2 giọt/tuổi/lần, 2-3 lần/ngày. Trẻ em 11-15 tuổi : 1-3 thìa cà phê sirô/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Suy hô hấp. Hen suyễn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Cẩn thận nên theo chỉ dẫn của thầy thuốc."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tứ vật thang"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Thuốc bắc :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đương quy 12g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thục địa (hoặc sinh địa) 12g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch thược 8g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên khung 6g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Với 600ml nước, sắc để lấy 200ml."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Thiếu máu, suy nhược, kinh nguyệt không đều, máu hôi sau đẻ. (Máu hôi sau đẻ ra nhiều thường phối hợp với đậu đen, hắc can khương, trạch lan, ngưu tất, ích mẫu, bồ hoàng.)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 50-60ml /lần x 3 lần/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tử kim đỉnh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên hoặc đính:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sơn từ cô 80g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại kích 60g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ bội tử 40g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên kim tử dương 40g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chu sa 16g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xạ hương 12g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Minh hoàng hùng 8g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chế thành thuốc đinh hoặc viên 2g-4g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Ngộ độc thức ăn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 1-2g/lần x 11-2 lần/ngày"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Uabain"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Oubain"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Strophantinum G"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Strophantosid G"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống tiêm 1ml= 0,25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Glucosid chiết xuất từ hạt cây Strophantus gratus, họ Trúc đào (Apocynaceae), có tác dụng trị suy tim (xuất hiện sớm hơn nhiều so với digitalin, nếu được dùng trong những trường hợp suy tim cấp), tác dụng đạt mức cao nhất sau khi tiêm tĩnh mạch 10 phút."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định. Cấp cứu suy tim, suy tim kèm nhịp chậm, hoặc có tổn thương bó His, viêm cơ tim, loạn nhịp trên thất (nhất là mạch nhanh trên thất)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tiêm tĩnh mạch thật chậm (lưu ý không được để thuốc ra ngoài mạch). Mỗi lần tiêm 0,25mg, ngày tiêm 0,50mg, cách 12 giờ tiêm 1 lần, liều tối đa 1 lần : 0,5mg, 24 giờ : 1mg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Nhồi máu cơ tim, viêm màng trong tim, dùng đồng thời với digitalin (phải nghỉ thuốc digitalin ít nhất 3 ngày)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tránh phối hợp với thuốc khác trong cùng 1 bơm tiêm, giảm liều dùng nếu bị suy thận, suy hô hấp nặng, gây giảm oxy huyết."
+  },
+  {
+   "block_label": "doc_title",
+   "block_content": "U"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Ukidan"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ thuốc bột chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Urokinase 100000UI"
+  },
+  {
+   "block_label": "text",
+   "block_content": "hoặc 500000UI"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mannitol 20mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri edetat 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri phosphat 1,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri chlorid 0,4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kèm 1 ống dung dịch NaCl 0,9%"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Enzym phân lập từ nước tiểu người có tác dụng hoạt hóa hệ thống tiêu fibrin (chuyển plasminogen thành plasmin)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Huyết khối phổi cấp (nhất là khi có mẫn cảm với Streptikinase nhiễm liên cầu khuẩn), tắc động mạch, tĩnh mạch do huyết khối."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Hòa tan lọ thuốc có dung dịch NaCl rồi pha loãng với dung dịch đẳng trương NaCl hoặc glucose để tiêm truyền tĩnh mạch lúc đầu tiêm 4400 đvqt/kg thể trọng trong 10-15 phút- sau cứ 12 giờ dùng liều duy trì 4400 đvqt/kg. Huyết khối ở tĩnh mạch : 2000 đvqt/kg/24giờ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Tuyệt đối : mới bị chảy máu : tiền sử tai biến mạch máu não, u não,"
+  },
+  {
+   "block_label": "number",
+   "block_content": "555"
+  }
+ ]
+}

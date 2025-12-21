@@ -1,1 +1,173 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "heparin) mà khi dùng với liều trung bình kể trên, có tác dụng chủ yếu tới plasminogen cố định trong cục máu. Ngược lại khả năng phân hủy fibrinogen của enzym rất yếu và fibrinogen ở máu tuần hoàn ít bị thay đổi với liều dùng thông thường nói trên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "b) Nếu dùng quá liều 75000 đv CTA trong 1 giờ, cần định lượng fibrinogen trong máu (do thời gian Howell)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "c) Muốn trung hòa tác dụng của enzym, có thể dùng tới chất ức chế Plasmin (tiêm tĩnh mạch 1 đến 2 triệu đơn vị Iniprol)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bảo quản : ở tủ lạnh 4°C."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Urokinase - KGCC"
+  },
+  {
+   "block_label": "text",
+   "block_content": "(Korea Green cross corporation)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột pha tiêm truyền dùng trong nhãn khoa : 120 UI/1lọ bột."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột pha tiêm truyền IV : 6000, 10000, 20000, 50000, 60000, 100000, 120000, 250000, 500000, 750000 và 1000000 UI/lọ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Huyết khối não. Nhồi máu cơ tim, và các trường hợp tắc nghẽn mạch vành khác - tắc nghẽn động mạch ngoại biên - viêm tĩnh mạch huyết khối."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Huyết khối não : tấn công 6-40 x 10^4 UI chia 2-3 lần, truyền nhỏ giọt tĩnh mạch từ 30-120 phút/liều."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Duy trì : 6-18x 10^4 UI/ngày, cho đến khi biểu hiện sự tưới máu tốt (Kiểm tra qua máy CT Scanner hay mạch não đồ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Nhồi máu cơ tim tắc nghẽn mạch vành : Qua mạch tâm đồ CAG xác định vùng vị tắc, tiêm vào động mạch vành 200mcg nitroglycerin hay isosorbid dinitrat 2mg, chụp lại CAG lần 2 loại trừ co thắt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tổng liều tấn công : 2x 10^4 UI/kg/60phút, chia làm 2 lần, lần đầu 1x 10^4 UI/kg/10phút đầu và 1 x 10^4 UI/kg/50 phút sau đó (truyền nhỏ giọt tĩnh mạch). Chụp CAG lần 3 và 4 sau khi dùng liều tấn công được 30 phút và 60 phút."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều duy trì : 100UI/kg/giờ ngày đầu cho đến sáng hôm sau của ngày thứ hai."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- 500UI/kg/24 giờ trong ngày thứ hại."
+  },
+  {
+   "block_label": "text",
+   "block_content": "300UI/kg/24 giờ trong ngày thứ ba. Kể tư ngày thứ 3 trở đi phối hợp với trị liệu Warfarin bằng Ticlopidin (600mg/ngày)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Ly giải huyết khối bằng đường xuyên mạch vành : Xác định vị trí tắc nghẽn bằng CAG, bơm vào mạch vành isosorbid dinitrat 5mg, chụp CAG kiểm tra tưới máu -Tiêm vào mạch vành 10x 10^4 UI/3-5phút, 10 phút sau làm CAG để đánh giá, dùng tiếp 25x10^4 UI truyền liên tục vào nơi đã chọn trong 15phút và chụp CAG lần nữa. Lại truyền tĩnh mạch và chụp CAG lặp lại như trên 2-3 lần cho đến khi đạt được thông thoát động mạch vành."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cách sử dụng : Pha với 500ml dd điện giải hoặc glucose 5%, truyền nhỏ giọt tĩnh mạch. Cần theo dõi thời gian prothrombin (PT) và thời gian prothrombin từng phần (PTT)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Tiền sử tai biến mạch máu não."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Đang bị xuất huyết hoặc nguy cơ bị xuất huyết."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Phẫu thuật nội sọ gần đây."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Rối loạn cầm máu do thể trạng hay mắc phải."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Làm sinh thiết cơ quan gần đây."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Tăng huyết áp nghiêm trọng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Suy gan - thận nặng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Theo dõi đặc biệt với người đái đường, bệnh lý võng mạc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thuốc làm tăng nguy cơ xuất huyết, theo dõi thời gian prothrombin và hàm lượng fibrinogen giờ thứ 6-12, sau đó mỗi 8-12 giờ. Kết hợp có theo dõi với heparin nếu được chỉ định."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ dùng nếu thật cần thiết với người mang thai."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tương tác thuốc : Cẩn thận khi phối hợp với các thuốc chống đông máu (nguy cơ xuất huyết) với các thuốc chống kết tập tiểu cầu (tăng nguy cơ xuất huyết)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tương kỵ : Với kali chlorid, cefalotin Na, alpha tocopherol. Không pha vào cùng dịch truyền : acid epsilon-aminocaproic, acid tranesamic, aprotinin, brompheniramin, dexamethason, isoprenalin, promethazin."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng phụ : Có thể bị sốt- xuất huyết (tại chỗ hoặc toàn thân)"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Urosiphon"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống uống 10ml có : Hoạt chất cây Râu mèo tương ứng 5g lá."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Lợi tiểu, tác dụng trên gan thận. Sỏi niệu, suy thận, gan. Nhiễm khuẩn đường tiết niệu, bệnh gút."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Pha 1 ống vào 1/2 lít nước, uống thay nước."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Ursodeoxycholic acid"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Ursodio"
+  },
+  {
+   "block_label": "text",
+   "block_content": "UDCA"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén bọc hoặc viên nang 100 và 150mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Là một acid mật điều chỉnh sự cân bằng giữa các thành phần của mật (làm giảm tổng hợp cholesterol ở mật), tạo các"
+  },
+  {
+   "block_label": "number",
+   "block_content": "558"
+  }
+ ]
+}

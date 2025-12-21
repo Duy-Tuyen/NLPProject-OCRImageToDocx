@@ -1,1 +1,157 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Ho do viêm nhiễm đường hô hấp, sau cắt hạnh nhân."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Sirô : người lớn, ngày 3 lần x 1 thìa canh. Trẻ em trên 30 tháng : ngày 3-4 lần x 1/2 thìa càfê tùy theo tuổi. Thuốc đạn : nạp 2 viên/ngày sáng tối."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Sirô trẻ em và thuốc đạn trẻ em không dùng cho sơ sinh (dưới 30 tháng)."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Troxerutin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Viên nang 100-200-300 và 500mg. Ống tiêm 5ml = 500mg. Gel bôi 40g có 0,8g. Thuốc nhỏ mắt dung dịch 5% (lọ 10ml/500mg)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Là một dẫn chất flavonoid bán tổng hợp có tác dụng làm giảm sức thấm và tính dễ nứt vỡ ở mao mạch và tĩnh mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Suy tĩnh mạch mạn, hội chứng viêm giãn tĩnh mạch và sau huyết khối, cả ở phụ nữ có thai, phòng các phản ứng ngoài da và niêm mạc cũng như xuất huyết khi điều trị các loại tia, hạ trĩ, và các rối loạn tuần hoàn tĩnh mạch ở chi dưới, phối hợp điều trị ở chứng nề sau chấn thương và bọc máu. Khoa mắt : bệnh võng mạc do đái tháo đường, chảy máu và huyết khối dưới kết mạc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Khởi đầu : ngày uống 600mg, chia 2-4 lần vào bữa ăn. Sau dùng liều duy trì : ngày 300mg. Tiêm bắp hay tĩnh mạch chậm, ngày hay cách một ngày 1 ống. Thuốc nhỏ mắt : ngày nhỏ 3 lần : 1-2 giọt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Thuốc không độc, nên không có chống chỉ định."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Trypsin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Enzym thủy phân protein, kết tinh lấy từ pancreas (tụy) của bò."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Tripsina; Trypsin cristalized; Trypsinum"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ phun mù- Lọ rắc bột- Lọ bơm xịt-"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Thủy phân các dịch rỉ và các chất hoại tử - các mô thương tổn hoại tử được loại đi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phụ trị vào việc làm sạch vết thương, mảng da chết, mảng loét hoại tử do các nguyên nhân khác nhau, các dạng hoại tử- loét ăn sâu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Bơm phun hoặc rắc bột, bôi thuốc, che băng vô khuẩn ướt. Để tiếp xúc 3 giờ rồi rửa bằng nước sinh lý này nước đun sôi để nguội, loại các chất bẩn do sự phân hủy các mô hoại tử. Bơm, rắc bột, đắp lại 2-3lần/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Dị ứng với Trypsin."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không dùng Trypsin thay thế cho phương pháp chữa các vết thương thường dùng- (lạm dụng quá mức có thể không thích hợp) và tránh những phản ứng phản vệ do tính chất kháng nguyên của enzym. Có cảm giác đau khi dùng thuốc- Dung dịch thuốc giữ được 48 giờ ở nhiệt độ phòng và 15 ngày ở nhiệt độ +5°C. (loại bột pha để bơm.)"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tuberol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 100ml dùng ngoài có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thymol 4,5g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu Tràm 0,25g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu Kinh giới ma 0,75g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu Niaouli . 40g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Eucalyptol 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu nhựa thông 26,75g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm phế quản mủ, ho gà, bệnh phổi trầm trọng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Thuốc ngấm vào gạc, đắp lên ngực - Xoa nhẹ hoặc hít trực tiếp thuốc hoặc xông."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Có loại Tuberol mỡ (tương tự thuốc trên). Tuberol sirô cho người lớn và trẻ em thành phần khác hẳn công thức trên. Vì có codein, belladon nên có chống chỉ định : hen suyễn, suy hô hấp, glôcôm góc đóng, rối loạn niệu đạo- tuyến tiền liệt - Trẻ dưới 10 tháng theo chỉ định của thầy thuốc"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tussipax (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên/lọ 24ml (1ml=50 giọt) thuốc uống/lọ 200ml sirô có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Codethylin 0,01/0,12/0,12g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Codein 0,01/0,12/0,12g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bromoform 0,05/1,2/1,2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cồn Aconit và vài chất khác 2 giọt / 2,4g / 1,2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Trị ho trung tâm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Chỉ dùng vài ngày. Người lớn : 55mg codein + codethylin/ngày. Trẻ em 30tháng- 5 tuổi : 0,4mg codein + codethylin/kg/24 giờ. Trẻ em 6-8 tuổi : 0,8mg/kg/24giờ. Người lớn và trẻ em trên 15"
+  },
+  {
+   "block_label": "number",
+   "block_content": "554"
+  }
+ ]
+}

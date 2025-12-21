@@ -1,1 +1,245 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "mới phẫu thuật sọ não, tăng huyết áp nặng, u dễ chảy máu, viêm màng trong tim hoặc nhiễm khuẩn nặng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Ultraderme (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống 40g kem bôi da có : Men siêu cao (levures ultra-hautes) 1,76g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Tình trạng tiết bã nhờn da, đặc biệt các bã nhờn do trứng cá."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Kem bôi đều sáng chiều, xoa chà nhẹ -Da cần rửa sạch trước khi bôi."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Ultraflore (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang có : men khô còn sống siêu cao Saccharomyces cerevisiae (2 tỉ tế bào) 0,20g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid orotic 0,05g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Thuốc chữa ỉa chảy từ vi khuẩn, bảo vệ tạp khuẩn ruột."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng ỉa chảy khi dùng thuốc kháng sinh - chữa ỉa chảy rối loạn chức năng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn, uống 3-6viên/ngày. Trẻ còn bú uống 1-2 viên/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Cần bù nước - điện giải khi cần thiết"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Ultra - levure"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang có : Các tế bào sống Saccharomyces boulardii đông khô : 10^8-10^10."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Thuốc chữa ỉa chảy bằng vi khuẩn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Trị và phòng ỉa chảy khi dùng thuốc kháng sinh. Trị ỉa chảy nhiễm khuẩn ở trẻ còn bú, trẻ em, người lớn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 1-4viên/ngày, chia làm 1-4 lần."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Thuốc là tế bào sống tránh bảo quản ở nhiệt độ trên 50°C.- Không dùng thuốc trị vi nấm cùng lúc -Cần bù nước - điện giải khi cần thiết."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Uman - Vzig (Hàn Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ thuốc tiêm 2 hoặc 5ml chứa 100 hoặc 250 đv immunoglobulin với virut thủy đậu- và Zoster."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng và trị bệnh thủy đậu và Herpès Zoster."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Uniaxide (Ấn Độ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén chứa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg trisilicat 500mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gel khô Al hydroxyd 250mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Loét dạ dày - tá tràng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Unicap M (Upjhon)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén hình thuôn:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin A 5000 IU"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin D 100IU"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin E 30IU"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C 60mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B1 1,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B2 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B12 6mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid pantothenic 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "và các muối khoáng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Iod 150mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Fe 18mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cu 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Zn 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ca 60mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "P 45mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mn 1mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "K 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bổ xung các vitamin và muối khoáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày uống 1-2 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Uracid (Thụy Điển)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 500ml dung dịch uống ; cứ 1ml chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhôm hydroxyd = với 1,22mmol Al3+"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci carbonat = với 0,19mmol Ca2+"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sorbitol 118mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Tăng phosphat-huyết, khi không dùng được thuốc chống acid có magnesium- Điều trị triệu chứng : đau vùng thượng vị, nóng rát dạ dày- tá tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tăng phospho-huyết : ngày 3-4 lần, mỗi lần 10-25ml. Chống acid dịch vị : ngày 3 lần, mỗi lần 10ml."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Tăng calci-huyết."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tránh dùng cùng lúc với ciprofloxacin, diflunisal, ketoconazol, norfloxacin, tetracyclin (dùng phải cách ít nhất 2 giờ)"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Urat - oxydase"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biệt dược : Uricozyme (Pháp"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống tiêm chứa 1000 đơn vị."
+  },
+  {
+   "block_label": "number",
+   "block_content": "556"
+  }
+ ]
+}

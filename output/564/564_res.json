@@ -1,1 +1,225 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Transitol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 380g có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Các petrolatum tinh lọc kỹ 174,8g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dầu parafin 84,4g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đường trắng 14g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Táo bón."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Lúc đầu : người lớn uống 4-6 thìa cà fê/ngày. Trẻ em 2-3 thìa càfê/ngày. Trẻ còn bú 1-2 thìa càfê /ngày. Liều duy trì : Người lớn uống 2 thìa càfê/ngày. Trẻ em uống 1 thìa càfê /ngày. Trẻ còn bú 1/2 thìa cà fê/ngày Uống trong các bữa ăn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không nên dùng lâu dài. Dùng parafin thường bị rỉ nước hậu môn."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tribestan (Bungari)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén 025g bào chế từ cây Bạch tật lê (Tribulus terresins L)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Kích thích dục tính ở nam giới và quá trình sản sinh tinh trùng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Suy sinh dục ở nam giới như liệt dương, ẩn tinh hoàn, ít tinh trùng. Hội chứng Kline-Felter"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày uống 3 lần x 2-3 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tricalci phosphat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biệt dược : Ostram (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Như calci chlorid, còn dùng chữa ỉa chảy,"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 0,5-3g- chữa ỉa chảy có thể uống tới 10g/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Thường dùng bào chế thành cốm calci- có thêm calci gluconat, calci carbonat, dùng cho trẻ còi xương, phụ nữ có thai, và người nuôi con bú, người mới ốm dậy."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Triglysal"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nhai :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Al glycinat 0,250g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg trisilicat 0,250g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Glycyrrhizat monoammoniacal 0,02g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Kháng acid dịch vị"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các rối loạn tiêu hóa do tăng acid dịch vị trong bệnh viêm loét dạ dày- tá tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 1-2 viên sau bữa ăn và vào lúc đau - Nhai hay ngậm viên thuốc rồi nuốt dần."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Al làm giảm hấp thụ của Furosemid, Indometacin, Tetracyclin, Digoxin, Isoniazid, và các thuốc chống tiết cholin."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Trophiderm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 4g bột rắc có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bông mỡ, Ca alginat thật mịn 4g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Bột băng da, tạo điều kiện lên sẹo."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Vết thương rỉ nước, và chấn thương. Loét giãn tĩnh mạch, ban đỏ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Rắc thuốc mỗi khi thay băng mới."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Bôi vết thương không được tẩy rửa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Vết thương sâu cần rửa sạch."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Trophigil"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang âm đạo có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vi khuẩn sống đông khô Lactobacillus acidophilus Doderleini 2 x 10^9 - 10^8"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Estriol 0,2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Progesteron 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Cung cấp hormon tại chỗ, cần cho dinh dưỡng biểu mô âm đạo, tái tạo trực khuẩn Doderleini."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm âm đạo teo. Chăm sóc trước và sau phẫu thuật phụ khoa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Đặt sâu viên nang vào trong âm đạo sau khi nhúng vào nước. Đặt 1 viên sáng và chiều, đặt trong 2-3 tuần. Nếu cần, điều trị duy trì : 1 viên/ngày, trong 14 ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Ung thư phụ thuộc estrogen."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Trophirès (Sanofi-Vietnam)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 125ml sirô; cứ 100ml sirô người lớn và sirô trẻ em chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Pholcodin 133/60mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri tenoat 1/1g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dd eucalyptus (12% cao trong cồn 96%) 0,25ml/0,25ml"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thuốc đạn cho người lớn và trẻ em, thuốc đạn cho trẻ sơ sinh chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long não 100/50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu Myrte 50-35mg/20mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu Khuynh diệp 60-40mg/24mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri tenoat 285-190mg/95mg"
+  },
+  {
+   "block_label": "number",
+   "block_content": "553"
+  }
+ ]
+}

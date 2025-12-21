@@ -1,1 +1,193 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Thuốc y học cổ truyền trị các rối loạn nhẹ ở hệ tim mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày 2 lần x 1viên, vào bữa ăn kèm 1 cốc nước."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thrombase"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ bột đông khô pha tiêm có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thrombase 100UM"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ống 5ml dung môi NaCl đẳng trương. (UM : đơn vị melanby là lượng thrombin cần làm đông 1ml máu có oxalat pha loãng 1 nửa, trong vòng 30giây, ở nhiệt độ 37°C.)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Yếu tố đông máu, cần cho sự tạo cục máu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Xuất huyết nội, chuẩn bị mổ. Bôi tại chỗ : chảy máu ngoài có mức độ trung bình ở khoa tai mũi họng, mắt miệng... Uống chữa chảy máu dạ dày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Pha, tiêm ngay hoặc uống ngay. Bôi tại chỗ với bột hoặc dung dịch để băng. (rắc bột đã nghiền mịn lên vết thương- làm trong điều kiện vô khuẩn.)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Thuốc bảo quản ở 4°C. Loại Thrombase Houdé 500 chỉ dùng để bôi tại chỗ hay uống. Không được tiêm."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thrombin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ bột đông khô 500UM. Thrombin kèm 1 ống 4ml dung dịch NaCl 0,9%."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Là một yếu tố đông máu, cần thiết cho sự tạo ra cục máu đông (có tác dụng chuyển fibrinogen tan trong huyết tương thành fibrin không tan)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Dùng cho các trường hợp chảy máu bên ngoài ở các khoa tai mũi họng, mắt, răng hàm mặt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Dùng đắp tại chỗ thuốc bột hay dung dịch rồi băng lại."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thuốc tím"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kali permanganate"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Tinh thể tím sẫm, ánh xanh rực rỡ, khi phản chiếu ánh sáng. Dễ bị phân hủy do nhiễm chất khử, acid chlorhydric và acid sulfuric. Thuốc tím diệt vi khuẩn do tính oxy hóa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Dùng ngoài : chống vi khuẩn, và nấm- Bơm thụt bàng quang điều trị bệnh niệu dai dẳng- Nấm biểu bì, mụn nước, chứng viêm da - chân. Oxy hóa vài thứ thuốc và nọc độc, rửa dạ dày hủy chất độc, trị liệu ngộ độc chloral hydrat, barbituric, alcaloid- Dùng ngoài dung dịch 0,004-1% băng ướt 2-3 lần trong ngày điều trị ngứa lở han- Dung dịch 0,025% dùng chữa viêm âm đạo- Dung dịch 0,02% thụt rửa bàng quang, dạ dày. Dung dịch 0,01% dùng cho viêm da eczema - Dung dịch 1/1500-1/1000 dùng rửa rau sống."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý :Không để tiếp xúc với các chất hữu cơ hoặc các chất dễ bị oxy hóa sẽ gây nổ nguy hiểm- Ăn mòn da- Bảo quản trong lọ nút kín."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thủ ô bổ dưỡng thang"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Thang:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hà thủ ô đỏ 10g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại táo 5g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thanh bì 2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trần bì 3g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sinh khương 3g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo 2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cho vào 600ml nước - sắc còn 200ml"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Người già yếu- thần kinh suy nhược- Ăn uống kém tiêu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Chia làm 3 lần uống đều trong ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thược dược cam thảo thang"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Thuốc sắc :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thược dược 8g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo 4g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cho vào 300ml, sắc còn 100ml."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Đau bụng, đau chân đầu gối không co duỗi được."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 50ml thuốc sắc/lần x 2 lần/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thủy lục nhị tiên đơn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khiếm thực và Kim anh tử 2 phần bằng nhau."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Thần kinh suy nhược, di mộng tinh, hoạt tinh, lỵ mạn tính, viêm ruột mạn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 3-5g/lần x 3 lần/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Khiếm thực mọc ở nước (thủy) kim anh sống ở đất (lục), do vậy mới gọi là thủy lục 2 vị kết hợp thành tiên đơn."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thyroidien extrait"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Bột tuyến giáp đông khô. Viên 1cg, 2,5g, 5cg, 7,5cg và 10cg."
+  },
+  {
+   "block_label": "number",
+   "block_content": "550"
+  }
+ ]
+}

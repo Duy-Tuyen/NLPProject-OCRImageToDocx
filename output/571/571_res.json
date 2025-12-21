@@ -1,1 +1,113 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không dùng cùng lúc với Levodopa- (pyridoxin ức chế) và tetracyclin (Mg ức chế hấp thụ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tránh dùng nếu đang sốt, trẻ em gầy yếu quá, sơ sinh thiếu tháng (nếu không có ý kiến thầy thuốc)."
+  },
+  {
+   "block_label": "doc_title",
+   "block_content": "V"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vaccin bại liệt sống"
+  },
+  {
+   "block_label": "text",
+   "block_content": "(Vaccinum poliomyelitis vivum)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Là hỗn dịch virut bại liệt sống. Loại vaccin sống giảm độc lực của Viện vệ sinh dịch tễ sản xuất theo phương pháp Sabin Sumacốp gồm 3 típ virut, I, II, III đã nuôi cấy trên tế bào thận khỉ. Vaccin dưới dạng chất lỏng màu tím hồng. Đóng lọ 5-20-100 liều."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định và liều dùng : Uống để phòng bại liệt trẻ em từ 3 tháng đến 5 tuổi (hàng năm uống vào tháng 11-12 dương lịch, để để phòng những tháng xuân hè hàng năm). Liều dùng : 2 giọt. Nếu em bé sặc, nhổ đi, cho uống lại đủ 2 giọt. Bảo quản : Ở 4°C.- 10°C. Tránh ánh sáng. Thời gian công hiệu : 7 ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tránh dùng nếu đang bị sốt, mắc bệnh cấp tính, lỵ, ỉa chảy, đang điều trị các loại corticoid và ACTH. Nếu đang có dịch sởi, ho gà, viêm gan virut, thủy đậu. quai bị.... nên để hết dịch hãy uống."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vaccin BCG"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bacillus Calmette Guerin Vaccin."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Là một hỗn dịch của vi khuẩn BCG đã được làm chết. Loại dùng cho trẻ sơ sinh chứa 1mg vi khuẩn trong 1ml, loại dùng cho tuổi lớn hơn chứa 0,5mg/1ml."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định và liều dùng : Phòng bệnh lao cho trẻ em. Tiêm tối đa liều 0,1ml. Vài năm sau tiêm nhắc lại với liều trên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Có thể có phản ứng tại chỗ, nếu không tiêm đúng vào trong da dễ gây loét."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vaccin ho gà"
+  },
+  {
+   "block_label": "text",
+   "block_content": "(Vaccinum Pertussis)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Là một hỗn dịch vi khuẩn ho gà Haemophilus pertussis ở pha 1 (có tính kháng nguyên cao nhất) và H. parapertussis đã được làm chết bằng formol. Vaccin chứa 70 tỷ vi khuẩn trong 1ml và đóng ống 1 hoặc 2ml."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định và liều dùng : Phòng bệnh ho gà trẻ em (từ 6 tháng đến 3 năm). Tiêm trong da ba lần, mỗi lần 0,1ml, cách nhau 7-10 ngày. Sau 1 năm lần tiêm cuối, tiêm nhắc lại 0,1ml. Bảo quản : 4°C. Tránh ánh sáng. Thời gian công hiệu 2 năm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tránh dùng như các vaccin khác nhất là : dị ứng và cơ địa dị ứng, di chứng viêm não, đang có dịch bại liệt, viêm não và viêm màng não, sởi. Còn có loại vaccin phối hợp ho gà với bạch hầu"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vaccin phòng dại"
+  },
+  {
+   "block_label": "text",
+   "block_content": "(Týp Fuenzalida)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vaccin điều chế từ não chuột bạch mới đẻ 1-3 ngày, nhiễm virut dại cố định VP đã làm mất hoạt tính gây bệnh bằng ß-Propiolacton. Dùng tiêm dự phòng bệnh dại cho những người bị súc vật mắc hoặc nghi ngờ mắc bệnh dại cắn, hoặc cho những người có công việc có tiếp xúc với nguồn lây bệnh dại."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Nếu chó dại chết hoặc mất, tiêm 6 lần, cách 2 ngày tiêm 1 lần, tiêm trong da ở chỗ cánh tay, người lớn tiêm 0,2ml/lần, trẻ em dưới 15 tuổi mỗi lần 0,1ml- Nếu chó còn sống và đang được theo dõi cũng tiêm như trên thêm 4 lần, nếu chó chết thì tiêm thêm 2 lần nữa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Với những người tiếp xúc : tiêm trong da, mỗi tuần tiêm 1 lần 0,2ml. Sơ chủng : tiêm 4 lần, tái chủng : 6 tháng sau tiêm 2 lần."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Vaccin sản xuất tiêm với liều rất nhỏ, lượng protein lạ chứa trong 1 liều 6 lần tiêm là 48mg, rất ít gây tai biến dị ứng, có thể tiêm cho phụ nữ có thai, hoặc nuôi con bú người già, trẻ sơ sinh dưới 12 tháng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vaccin phòng tả"
+  },
+  {
+   "block_label": "text",
+   "block_content": "(Vaccinum Cholerae)"
+  },
+  {
+   "block_label": "number",
+   "block_content": "560"
+  }
+ ]
+}
