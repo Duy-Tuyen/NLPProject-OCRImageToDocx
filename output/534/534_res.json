@@ -1,1 +1,225 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "giảm thể tích máu : Sốc do bỏng, chấn thương nặng, phẫu thuật, pha loãng máu."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Lúc đầu, truyền chậm 10-20ml/Theo dõi bệnh nhân phòng phản ứng có thể xảy ra. Liều dùng tùy thuộc vào tình trạng bệnh. Tăng thể tích huyết tương khoảng 250-1000ml/ngày. Pha loãng máu 500ml/ngày, kéo dài vài ngày. Tốc độ truyền tối thiểu 30 phút/500ml (cấp cứu có thể nhanh hơn)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Quá tải thể tích tuần hoàn, suy tim ứ huyết, suy thận mạn kèm đái ít hoặc vô niệu, creatinin máu 2mg/dl, cơ địa dễ xuất huyết, quá mẫn cảm với thuốc."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Có thể có phản ứng phản vệ (sau vài phút tiêm) : ngứa dữ dội, đỏ bừng mặt, dứt hơi do như chẹn họng, sau đó nôn quặn bụng, rút cơ bụng, tim nhanh, tụt HA, ngừng tim, ngừng thở. Xử trí : ngừng thuốc, lưu kim cho epinephrin và theo dõi mạch, HA. Dùng glucocorticoid IV và kháng histamin và thực hiện các nguyên tắc cấp cứu thông thường."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ dùng cho người mang thai hoặc nuôi con bú khi thật cần thiết."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Coi chừng : quá tải tuần hoàn, thận trọng với người có bệnh về đông máu, suy tim, phù phổi, suy thận, bệnh gan mạn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cần cân đối điện giải (bổ xung điều trị), và thành phần máu (hồng cầu, huyết sắc tố, nồng độ protein...),"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tương tác : Làm thay đổi các thông số hóa lâm sàng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tránh trộn với thuốc khác (có thể có tương kỵ mắt thường không nhìn thấy). Dùng với aminoglycosid tăng tác dụng độc trên thận."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng phụ : Có thể bị sốc phản vệ (cần có phương tiện cấp cứu)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Ngứa (pha loãng máu)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Amylase huyết thanh tăng cao, trở lại bình thường sau 3- 5ngày sau khi ngừng thuốc."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dùng liều cao tăng nguy cơ chảy máu."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Relvene (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Gel ống 60g bôi tại chỗ 2%."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Gói bột 1g O-(b-hydroxyethyl)-rutosid."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Che chở mạch."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Suy tĩnh mạch- bạch huyết, rối loạn chức năng (chân nặng, dị cảm, co thắt, đau nhức), phù."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày bôi 3-4 lần hoặc uống 1-2 gói pha vào ít nước."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Phụ nữ có thai hoặc nuôi con bú."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Rennie (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Calci carbonat 680mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mg carbonat nặng 80mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Chống acid dịch vị, giảm đau dạ dày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các chứng đau do tăng acid dịch vị ở dạ dày, thực quản, tá tràng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày uống 3- 4 lần x 1-2 viên vào sau bữa ăn hoặc lúc đau. Ngậm hoặc nhai viên thuốc."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Người bị suy thận. Thuốc có 475mg saccarose, nên lưu ý không dùng với người bị đái đường."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dùng cách xa các thuốc khác 2 giờ. Không dùng cùng lúc với indometacin và phosphor do tương tác."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Renutryl (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Hộp 375ml chất lỏng có : (500 Kcal= 2092 Kjoule)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Retinol hay axerophtol 833 dvqt"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Riboflavin 3mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Thiamin nitrat 2,89mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Ca pantothenat 9,49mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Pyridoxin HCl 2,1mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin C 75mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Nicotinamid 10,5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "MgO nặng 34,88mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "MnSO4 3,94mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "KCl 600mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "FeSO4 15mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Na caseinat 12,5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Các lactoprotien 21,5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Các men lactic xấy khô 3g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chất béo 4g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dầu đậu nành 4g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dịch thủy phân tinh bột 45g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Đường 20g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Chế phẩm thực chế dùng làm thức ăn lỏng (uống qua ống thông) có 24% protein, 20% các lipid, 56% glucid."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Dinh dưỡng trị liệu nội- ngoại khoa - hồi sức- chuyển hóa- dưỡng bệnh tại nhà - dinh dưỡng trước và sau phẫu thuật."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống với nước, bằng thìa hay bằng ống thông dạ dày thực quản. Liều thay đổi từ 1-6 hộp/ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Mẫn cảm với lactose."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Các ngày đầu nên dùng Renutryl"
+    },
+    {
+      "block_label": "number",
+      "block_content": "523"
+    }
+  ]
+}

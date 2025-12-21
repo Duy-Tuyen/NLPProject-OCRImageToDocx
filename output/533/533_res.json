@@ -1,1 +1,169 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "ưa chảy, buồn ngủ, trầm cảm, căng thẳng, ù tai, ác mộng, cảm giác đau thắt ở ngực, nghẹt mũi, ngứa, khô miệng, nhức đầu, khó thở. (sẽ hết nếu không dùng thuốc)."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Raunatin (Nga)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược : Viên ba gạc"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Raucasil (Việt Nam)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén 2mg."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Chứa toàn bộ các alcaloid của ba gạc Ấn Độ (chủ yếu có reserpin, serpentin, ajmalin...)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Như với reserpin."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày đầu 1 viên. Sau tăng dần ngày thêm 1 viên cho tới khi liều tối đa 4-6 viên/ngày, chia 2 -3 lần, vào sau bữa ăn. Cuối đợt : liều duy trì 1-2viên/ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Đợt dùng : 3-4 tuần."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Như với Reserpin."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Raveron (Áo)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Ống tiêm 1ml cao tuyến tiền liệt đã khử albumin."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Giai đoạn khởi phát ở adenom tuyến tiền liệt- Viêm tuyến tiền liệt mạn- Adenom tuyến tiền liệt với cặn ở bàng quang tới 150ml -chứng đái dầm ở nam giới."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dùng chuẩn bị trước và sau phẫu thuật ở tuyến tiền liệt."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Tiêm sâu bắp ngày 1 ống, hoặc cứ 2 ngày tiêm 2 ống. Đợt dùng 4 tuần, tùy theo kết quả, có thể dùng tiếp đợt khác."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Biệt dược tương tự : Prostaveron (Pháp)"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Recolina (Ấn Độ)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược : Bào chế tư tảo Spirulina, tương tự như bd Linavina (xem chữ này)"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Recombinate (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Lọ chứa bột đông khô yếu tố VIII, tái kết hợp tương ứng 250-500-1000UI. Kèm ống 10ml nước cất tiêm."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Yếu tố VIII còn gọi là yếu tố chống ái huyết là yếu tố đặc hiệu cho sự đông máu, bị thiếu hụt ở bệnh nhân mắc ái huyết A (do bẩm sinh, di truyền)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Dùng cho bệnh nhân kể trên để phòng và trị các giai đoạn xuất huyết, còn dùng trong quá trình phẫu thuật cho các bệnh nhân này. Thuốc không dùng điều trị Von Willebrand."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Tùy theo tình trạng chảy máu và thể lâm sàng. Tiêm tĩnh mạch sau khi pha với dung môi kèm theo và bằng bơm tiêm có sẵn (với tốc độ tối đa là 10ml/phút.)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Mẫn cảm với các protein (do quá trình bào chế thuốc này)."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Recormon (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Lọ bột đông khô tiêm 1000- 2000 và 5000 UI erythropoietin beta kèm ống 1-2 và 5ml nước cất để tiêm."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Hoạt chất trên là một glucoprotein tinh chế kích thích quá trình tạo hồng cầu."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Trị chứng thiếu máu ở những bệnh nhân suy thận mạn đã thẩm phân máu (người lớn và trẻ em trên 2 tuổi)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Nên dùng tiêm dưới da : Đợt dùng gồm 2 giai đoạn :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "a)Điều chỉnh : Khởi đầu, tuần lễ tiêm 3 lần x 20 UI/kg. Còn dùng tiêm tĩnh mạch với liều gấp đôi liều trên."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Không tiêm quá 720 UI/kg cho 1 tuần."
+    },
+    {
+      "block_label": "text",
+      "block_content": "b)Duy trì : Giảm liều dùng đi 1/2 so với liều trên để duy trì nồng độ hemoglobin ở mức 12g/dl."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Trẻ em dưới 2 tuổi, tăng huyết áp chưa ổn định. Phụ nữ có thai hoặc nuôi con bú."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Tác dụng phụ thường gặp: tăng huyết áp hoặc làm nặng bệnh tăng huyết áp sẵn có."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Refortan- Refortan plus (Đức)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược tương tự : Stabisol (Đức)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Dd tiêm truyền chai 250 và 500ml."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tinh bột hydroethyl hóa (phân tử lượng trung bình MW : 200000 ) NaCl và nước cất tiêm, pH 4,7"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Chất thay thế thể tích huyết tương có : 6% tinh bột hydroethyl hóa trong NaCl 0,9% có cùng áp xuất thẩm thấu so với máu, sử dụng trên lâm sàng, như một dịch truyền đồng thể tích. Thuốc giữ khoảng 5- 6giờ sau 4 giờ truyền 500ml dung dịch 10%. Dùng Refortan không ảnh hưởng đến chức năng thận và nhóm máu."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Làm tăng thể tích tuần hoàn khi"
+    },
+    {
+      "block_label": "number",
+      "block_content": "522"
+    }
+  ]
+}

@@ -1,1 +1,137 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Thận trọng nếu có thai- Không tiêm tĩnh mạch quá 0,5g / 6giờ. Chú ý : vô khuẩn tốt khi tiêm- Tác dụng phụ : ù tai chóng mặt, giảm thính lực- Tiêm bắp đau, có trường hợp hoại tử tại chỗ. Tiêm tĩnh mạch gây viêm tĩnh mạch, xơ cứng tĩnh mạch."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Q"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Quinin"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cinchonan-9-ol-, 6'-methoxy, (8alpha, 9R)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tên khác : Chinina"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chinium"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Ống tiêm 2ml = 0,25g-0,50g. Ống tiêm 5ml=0,05g (quinoserum). Viên với hàm lượng khác nhau."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Là alcaloid chiết xuất từ cây Canhkina chống nguyên sinh động vật- Trị sốt rét -Hạ nhiệt."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Điều trị đặc biệt sốt rét nặng, sốt rét có biến chứng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : (Phác đồ điều trị số 1993/QLSK ngày 6/4/1992 của Bộ Y tế). Điều trị đặc hiệu trong sốt rét, sốt rét có biến chứng : Quinin dihydrochlorid liều người lớn 20-30mg/kg thể trọng trong 24giờ. - Truyền nhỏ giọt tĩnh mạch : 6 giờ đầu quinin - dihydrochlorid 0,5g, pha trong 250ml dung dịch đẳng trương glucose hoặc NaCl với tốc độ 30giọt/phút. Thời gian 1 lần truyền 4-8 giờ, cho đủ liều 24 giờ. Truyền 2-3 ngày, nếu bệnh nhân chuyển biến tốt, khỏi hôn mê thì chuyển sang dùng thuốc uống cho đủ liều 5-7 ngày- Ở những nơi không có điều kiện truyền tĩnh mạch thì tiêm tĩnh mạch và xử trí như sau : 6 giờ đầu tiêm Quinoserum 0,20-0,25g (4-5 ống 0,05g) hoặc quinin dihydrochlorid 0,25g pha với 20ml dung dịch glucose 10%, tiêm thật chậm vào tĩnh mạch. Sau đó tiêm bắp 1 ống quinin dihydrochlorid 0,25g. Sau 8 giờ tiêm nhắc lại 1 lần cho đủ liều 24giờ. Những ngày sau nếu bệnh nhân chuyển biến tốt thì chuyền sang uống cho đủ liều 5-7 ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Mẫn cảm với quinin, hemoglobin- niệu chưa rõ nguyên nhân. Rối loạn dẫn truyền trong thất."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Có thể chóng mặt, ù tai, nôn mửa dị ứng phát ban. Thuốc chuyển vào sữa mẹ rất ít, nên có thể dùng cho phụ nữ đang nuôi con bú"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Quinin benzoat"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén 115mg kèm 32mg thiamin HCl và 10mg gomenol. Thuốc đạn 300mg kèm 90mg vitamin B1, 300mg gomenol."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Chống co thắt cơ vân ở mức vừa phải."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các chứng co rút cơ như : chứng chuột rút ban đêm, chuột rút ở vận động viên thể dục."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Lúc đầu : nạp thuốc đạn, ngày 2 viên, trong 3-6 ngày. Hoặc ngày 3 viên + 1 thuốc đạn hay ngày 6 viên. Sau liều duy trì ngày 1 thuốc đạn hoặc 3 viên."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Nhược cơ, bệnh Stokes - Adams, rung nhĩ, điều trị đồng thời với quinidin hoặc chloroquin."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Phụ nữ có thai nên tránh dùng, nhất là mấy tháng cuối."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Quinin carbonat"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tên khác : Carbonate neutre de quinine"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược : Aristoquine"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén 0,25g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Chữa sốt rét, đau dây thần kinh, ho gà. Không đắng nên dễ dùng cho trẻ em. Người lớn uống 0,5g đến 1g một ngày, dưới dạng bột hay dung dịch nước cồn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Trẻ em : từ 1-6 tuổi, 0,05g đến 0,6g trong 1 ngày."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Quinin formiat base"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tên khác :Chininum monoformicum"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Formiate basique de quinine"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược : Quinoforme Lacroix (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén 0,25g- ống tiêm 1-2 và 4ml có 0,10g-0,25g."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Trị sốt rét cơn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn, uống ngày 1- 2viên/ngày, hoặc tiêm bắp sâu 1ống/24giờ."
+    },
+    {
+      "block_label": "number",
+      "block_content": "518"
+    }
+  ]
+}

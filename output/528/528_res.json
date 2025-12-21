@@ -1,1 +1,185 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "mofluide tre em và trẻ còn bú. Công thức có khác một số thành phần- sự dụng theo đơn hướng dẫn."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pulmoll (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Viên ngậm có menthol và eucalyptol (1,52mg và 0,76mg/viên), 0,19mg tinh dầu bạc hà."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Viêm họng, ho."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn tối đa 20viên/ngày. trẻ em trên 7 tuổi: 10viên/ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Mẫn cảm với 1 thành phần của bd. Trẻ em dưới 30 tháng."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pulmosérum (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Lọ 125mg dd uống, cứ 5ml có"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Codein 4mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Gaiacol 75mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Acid phosphoric đậm đặc 88mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Saccharose 330mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Dịu ho, sát khuẩn đường hô hấp, tăng dịch tiết phế quản."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các chứng ho khan trong các chứng viêm thanh quản, khí quản, viêm phế quản."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn : ngày 3 lần x 2 thìa cà phê"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tre em trên 10 tuổi : ngày 3 lần x 5ml. Pha loãng vào một ít nước khi dùng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Suy hô hấp, hen, trẻ em dưới 10 tuổi, phụ nữ có thai hoặc nuôi con bú."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Không uống rượu khi dùng thuốc - Cẩn thận trường hợp tăng áp lực nội sọ. Thuốc gây buồn ngủ (lưu ý người vận hành máy...)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý khi phối hợp với các thuốc chống trầm cam tác dụng trên thần kinh trung ương (tăng trầm cảm), với các thuốc thuộc nhóm morphin (suy giảm hô hấp). Thuốc có thể gây táo bón, buồn ngủ, chóng mặt, buồn nôn, nôn, có thắt phế quản, ức chế hô hấp."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ dùng thuốc ngắn ngày."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pursennide (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Mỗi viên có : muối calci của các sennosid A-B, hoạt chất cây Cassia an-gustifolia 20mg."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Nhuận tràng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Táo bón."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 1-3 viên, sau bữa ăn chiều. Trẻ em từ 5-10 tuổi : uống 1 viên. Trẻ em từ 11-16 tuổi : uống 1-2 viên."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Bệnh viêm đại tràng, đau bụng không rõ nguyên nhân."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Không dùng thuốc lâu dài. Nếu bị ỉa chảy đau bụng thì ngừng thuốc. Có khi nước tiểu hơi đỏ."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pyrethrin"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Thuốc xức - Dung dịch bôi - Gel - Phun mù. Thuốc gội đầu."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Chiết từ họ cây cúc có tác dụng diệt ký sinh trùng : chấy rận."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Trị và phòng chấy, rận."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Phun mù, bơm phun sát chân tóc và lông để tiếp xúc 1/2 giờ, chai và gội. -Dùng 3 ngày liên tục. Thuốc nước, thuốc xức, và gội : xức lên đầu tóc, chà xát, quấn khăn hay đội mũ vải kín suốt đêm rồi gội đầu. Làm tiếp ngày hôm sau. Dùng lại sau 1 tuần nếu còn trứng. Rận : xức vào vùng có rận : rửa xà phòng- phai tẩy uế quần áo, màn, chăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Tránh để thuốc dây vào niêm mạc mắt - Không uống và để xa tầm tay trẻ nhỏ. Không dùng cho trẻ dưới 30 tháng."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Quinimax (Sanofi- Việt Nam)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Công thức 0,10g Quininmax tương ứng với :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Quinin resorcin bichlorhydrat 0,610cg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Quinidin resorcin 0,255cg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cinchonin- resorcin 0,068cg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cinchonidin- resorcin 0,007cg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Viên 0,10g. Thuốc đạn người lớn/trẻ em có 0,25g/0,15g. Ống tiêm 1ml có 0,10g. Ống tiêm 2ml có 0,20g. Ống tiêm 4ml có 0,4g."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Alcaloid của cây canhkina, tác dụng diệt thể phân liệt (Schizonticid) và diệt yếu giao tử bào (gametocid)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Trị bệnh sốt rét. Tiêm : cơn ác tính- Trường hợp kháng với amino 4-quinolein, trường hợp không thể uống. Viên : phòng bệnh : trường hợp kháng với amino 4-quinolein"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn và trẻ em, liều điều trị 25mg/kg, không quá 1,5g/24giờ. Viên (phòng bệnh) : 1-3 viên/ngày : điều trị 3-8 viên/ngày. Thuốc đạn : 1-3 đạn/ngày. Tiêm tĩnh mạch : trường hợp trầm trọng pha 400mg trong 30ml dung dịch glucose 5% không quá 0,5g/6giờ"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Rối loạn dẫn truyền trong tâm thất (trừ cấp cứu ác tính)."
+    },
+    {
+      "block_label": "number",
+      "block_content": "517"
+    }
+  ]
+}

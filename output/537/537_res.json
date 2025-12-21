@@ -1,1 +1,233 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Arginin 100mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Carnitin 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Methionin 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Glycin 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Panthotenat 25mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Thiamin 25mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Riboflavin 25mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Niacin 37,5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Pyridoxin 25mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "L-phenyl alanin 200mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Polysacarid 25mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao Tilansia 12,5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Xương bò còn tươi 12,5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mầm lúa mì khử béo 25mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Acid pangamic 12,5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chelat acid amin kẽm 50mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Kết hợp cây cỏ, chất dinh dưỡng, chuyển hóa acid amin tự do và phần rễ cây có hoạt tính đặc hiệu, cây và hoa."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Làm nhẹ bớt stress, mỏi mệt (vừa tâm thần và thể chất)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 2 viên/ngày"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Chỉ dùng cho người lớn, không quá 2 viên/ngày."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Rheobral (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nang có:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Troxerutin 200mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vincamin 20mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Để cải thiện một số triệu chứng do suy giảm hoạt động trí óc ở người có tuổi (kém tập trung tư tưởng, hay quên)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày 3-4 viên, vào sau bữa ăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Các tổ chức tân tạo ở não kèm tăng áp lực nội sọ, phối hợp với các thuốc loạn nhịp có thể gây rối loạn nhịp xoắn đỉnh."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Rhinopten (Debat - Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén bọc chứa các phần kháng nguyên tinh chế chiết xuất từ:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Staphylococcus aureus 634, 636, 659 3mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Streptococcus 147 3mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Streptococcus pyogenes 155, 1178 3mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Diplococcus pneumoniae 209, 210 3mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Neisseria catarrhalis 987 1mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kèm hoạt chất 25mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Gây cảm ứng, tạo ra các kháng thể với mức cao, gây ra miễn dịch."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Viêm mũi, viêm họng, viêm mũi họng, viêm tai, viêm hạnh nhân."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày 3 viên, chia 3 lần. Đợt dùng 10-20 ngày, nhắc lại nếu cần."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Ribomunyl (Inava - Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén, gói thuốc bột, ống tiêm và lọ 10ml dd phun mù (200 liều). Các dạng thuốc trên bào chế từ thành phần chiết từ ribosom ở tế bào vi khuẩn như sau :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "các ribosom đã chuẩn độ 70% ARN thu được do chiết suất từ các môi trường cấy vi khuẩn và phối hợp theo tỷ lệ : ribosom của Klebsiella pneumoniae 35 phần, ribosom của diplococcus peumoniae 30 phần, ribosom của Streptococcus pyogenes nhóm A 30 phần, ribosom của Haemophilus influenzae 5 phần."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Kích thích tạo ra kháng thể đặc hiệu, vẫn còn ở mức độ cao sau 6 tháng điều trị."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Phòng nhiễm khuẩn tái phát đường hô hấp ở các bệnh mãn tính : - Khoa tai mũi họng như : viêm mũi họng, viêm thanh quản, viêm xoang, đau họng, viêm tai - Khoa phổi : biến chứng viêm phế quản, viêm mũi, viêm thanh quản....."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Viên nén : ngày 3 viên, 4 ngày/tuần, đợt 3 tuần, sau cứ 4 ngày/tháng, đợt 5 tháng. Gói thuốc : như viên nén. Tiêm dưới da sâu, liều dùng tùy bệnh nhân, thời gian cách 2 lần tiêm ít nhất 1 tuần. Dùng xen kẽ với dd phun mù, ngày phun 2 lần vào miệng, họng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Bệnh nhân mắc những bệnh tự miễn dịch."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Với bệnh nhân dị ứng, cần tiêm liều tăng dần để thử mẫn cảm. Thận trọng khi dùng thuốc phun cho bệnh nhân hen."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Ringer lactat isotonic"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : 100ml có (Aguettant/El-biol/Lavoisier)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Natri chlorid 6g / 6g / 6g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kali chlorid 0,4g / 0,3g / 0,4g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Ca chlorid 2H2O 0,27g / 0,2g / 0,4g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Na lactat 60% 5,16g / 3,10g / 3,10g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Bù nước, cân bằng điện giải, cân bằng acid - kiềm."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Mất nước ngoài tế bào, giảm lượng máu lưu chuyển, bổ sung điện giải trong và sau phẫu thuật."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Tiêm tĩnh mạch, tùy theo trường hợp bệnh nhân. Theo chỉ dẫn của thầy thuốc."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Phù - kiềm huyết - toan"
+    },
+    {
+      "block_label": "number",
+      "block_content": "526"
+    }
+  ]
+}
