@@ -1,1 +1,365 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Sa nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thảo quả"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiểu hồi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại hồi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiêu lốt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trần bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.5. Chống nấc :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đinh hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sa nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tai quả hồng (Thị đế)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.6. Hóc xương :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cây Bóng nước (hạt, lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.7. Say rượu :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch đậu khấu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồng đậu khấu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu ván trắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sắn dây (củ, hoa)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.8. Rắn cắn :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cu gió"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bảy lá một hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn kim"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mã đề (cả cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thài lài"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.9. Thuốc thông khiếu, chữa hôn mê, ngất sỉu, trúng phong, cấm khẩu :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bồ kết (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cánh kiến trắng (An tức hương)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long não"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu bàng (rễ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tế tân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thạch xương bồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên trúc hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Uy linh tiên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.10. Người bị thoát dương (lạnh giá, thoát hết mồ hôi, kiệt sức) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phụ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quế nhục"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.11. Thuốc cầm máu :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch cập"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ hàn the"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ nhọ nồi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dành dành (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại kế"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Địa du"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kinh giới"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hòe (hoa)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Huyết dụ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Huyết kiệt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long nha thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lựu (vỏ quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mào gà trắng (hạt cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mơ muối, ô mai"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngải cứu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhị trà"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sen (hoa, lá, ngó gương)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sinh địa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau sam"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiểu kế"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiến thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thóc lép (cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thục địa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xích thược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xơ mướp"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiết dê (cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.12. Chấn thương (ngã, đòn phần mềm) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bóng nước"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bòng bong"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ hàn the"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dành dành (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại kế"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đào nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn châu chấu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đương quy"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gỗ vang (Tô mộc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ the"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thồm lồm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Huyết giác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Huyết kiệt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lan thuy tiên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long nha thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mọ quạ (cây)"
+  },
+  {
+   "block_label": "number",
+   "block_content": "620"
+  }
+ ]
+}

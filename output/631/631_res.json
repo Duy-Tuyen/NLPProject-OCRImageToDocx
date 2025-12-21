@@ -1,1 +1,53 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Để tránh lên men trong quá trình bảo quản, cứ 100 ml, thuốc phức hợp có thể thêm 0,3- 0,5g Natri benzoat hoặc 0,03-0,05g Nipagin."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "3.2.7- Thuốc hoàn đậm đặc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Là thuốc hoàn điều chế bằng cao đậm đặc, cô từ nước sắc một số dược liệu trong công thức rồi cho thêm các bột dược liệu khác vào. Ưu điểm là thể tích nhỏ, tiện dùng, dễ bảo quản, - có 2 cách điều chế :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "-Một phần dược liệu lớn hoặc xơ, cứng khó nghiền thì đun nấu với nước, ngâm hoặc ngâm kiệt thành dịch thuốc, rồi cô thành cao, sau đó cho các bột thuốc khác vào, trộn đều thành khối nhào, chia cắt ra rồi nặn, lăn, vê thành hoàn theo cỡ quy định."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Nghiền nhỏ, dược liệu qua rây lấy bột mịn, lại lấy bột thô làm dịch ngâm rồi cô đặc thành cao, đang lúc nóng, ấm thì cho bột mịn vào, nhào nặn, lăn làm thành hoàn theo cỡ quy định."
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Chương IV\nCách sử dụng thuốc Đông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cách sử dụng thuốc đông bao gồm việc phối ngũ trong bài thuốc, kiêng kỵ, liều lượng cách dùng. Nắm vững cách sử dụng thuốc để bảo đảm phát huy tối đa hiệu lực của thuốc, và an toàn là vấn đề hết sức quan trọng."
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.1. Phối ngũ (xây dựng công thức bài thuốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phối ngũ là phối hợp từ 2 vị thuốc trở lên, dựa theo yêu cầu của tình trạng bệnh, của người bệnh từng thời kỳ. Thông qua việc phối ngũ mỗi vị thuốc đơn độc có thể tác dụng qua lại với nhau làm tăng hiệu quả chữa bệnh, thích ứng với các chứng bệnh tương đối phức tạp, đồng thời giảm bớt hoặc loại trừ một số độc tính hoặc tác dụng phụ không tốt của dược liệu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trừ những bài thuốc độc vị (chỉ có 1 vị thuốc) việc cấu tạo các công thức phần lớn do hai hoặc nhiều (có khi tới 40 vị) dược liệu phối ngũ mà thành. Phối ngũ chủ yếu phân chia thành 2 loại : những vị thuốc chính và những vị thuốc phụ. Vị thuốc chính có tác dụng chữa nguyên nhân bệnh hoặc triệu chứng chính. Trong công thức đây là dược liệu có tác dụng chủ yếu. Vị thuốc phụ có tác dụng hỗ trợ cho vị thuốc chính ngoài ra còn giúp vị thuốc chính chữa các chứng bệnh phụ hoặc khắc phục các tác dụng phụ không tốt của vị thuốc đó. Ví dụ : Bệnh cảm mạo phong hàn (cảm lạnh) có các triệu chứng ớn lạnh phát sốt, mồ hôi bí mà suyễn, ho đờm thì dùng Ma hoàng. Vì nguyên nhân gây bệnh là cảm mạo phong hàn, triệu chứng chính là ớn lạnh phát sốt, bí mồ hôi mà suyễn cho nên lấy Ma hoàng, Quế chi làm những vị thuốc"
+  },
+  {
+   "block_label": "number",
+   "block_content": "613"
+  }
+ ]
+}

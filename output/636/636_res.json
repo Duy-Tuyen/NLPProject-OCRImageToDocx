@@ -1,1 +1,101 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "DANH MỤC THUỐC SẮP XẾP THEO Y HỌC HIỆN ĐẠI"
+  },
+  {
+   "block_label": "text",
+   "block_content": "1. Thuốc bồi dưỡng cơ thể"
+  },
+  {
+   "block_label": "text",
+   "block_content": "2. Thuốc cấp cứu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "3. Thuốc kháng sinh, tiêu viêm, bệnh ngoài da"
+  },
+  {
+   "block_label": "text",
+   "block_content": "4. Thuốc về hệ tim mạch, tuần hoàn máu, (tim, gan, mật)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "5. Thuốc về hệ thần kinh, não"
+  },
+  {
+   "block_label": "text",
+   "block_content": "6. Thuốc về hệ hô hấp, cảm mạo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "7. Thuốc về hệ vận động, gân xương, cơ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "8. Thuốc về hệ tiêu hóa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "9. Thuốc về hệ tiết niệu (+lợi sữa)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "9. Thuốc về hệ sinh dục"
+  },
+  {
+   "block_label": "text",
+   "block_content": "10. Thuốc nghiên cứu phối hợp chữa ung thư"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "1. Thuốc bồi dưỡng cơ thể"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "1.1. Thuốc bổ máu (bổ huyết) chống thiếu máu (antianemic):"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch thược\nĐan sâm\nĐảng sâm\nĐậu đen\nĐương quy\nHà thủ ô đỏ\nHà thủ ô trắng\nCâu kỷ tử\nMộc qua\nNhung hươu, nai\nRau nhà chùa\nSinh địa (hoàng)\nTam thất bắc\nTầm gửi dâu\nThục địa (hoàng)\nLong nhãn\nNgọc trúc\nNgũ gia bì\nNgũ vị tử\nNhân sâm, nhân sâm VN\nQuế nhục\nRau má\nRau nhà chùa\nSâm bố chính\nSen hạt (liên nhục)\nThiên môn đông\nThục địa (hoàng)\nThương truật\nXương bồ (Thạch)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "1.2. Thuốc tăng sức lực (ích khí) : chống suy nhược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bá tử nhân\nCâu kỷ tử\nĐảng sâm\nHoàng kỳ bắc\nHoàng tinh\nLong nha thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "1.3.Thuốc tăng cường hệ miễn dịch, tăng sức đề kháng chống bệnh :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu kỷ tử\nĐỗ trọng Bắc\nHoàng kỳ Bắc\nKim ngân hoa\nLinh chi (nấm)\nTam thất Bắc\nTỏi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "1.4. Thuốc giúp trẻ em chóng lớn :"
+  },
+  {
+   "block_label": "number",
+   "block_content": "618"
+  }
+ ]
+}

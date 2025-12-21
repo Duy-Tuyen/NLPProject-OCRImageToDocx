@@ -1,1 +1,117 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "một vài công thức vẫn có một số vị thuốc phản nhau, ghét nhau cùng dùng chung, ví dụ : Đảng sâm và Ngũ linh chi cùng chung bổ tì vị, giảm đau mà vẫn không làm mất hiệu lực của thuốc v.v..."
+  },
+{
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.3. Liều lượng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều lượng dược liệu nhiều hay ít có ảnh hưởng trực tiếp đến công hiệu của thuốc. Để vận dụng liều lượng thuốc cho thích hợp, cần chú ý mấy điểm sau đây :"
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.3.1- Loại thuốc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Các loại thuốc nhẹ như hoa, lá, vỏ.... nên dùng liều lượng nhỏ. Các loại cứng như kim loại, khoáng sản, vỏ ngao sò, trừ một số cá biệt độc, nói chung có thể dùng liều lượng lớn hơn."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.3.2-Tính thuốc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Các vị thuốc, tính vị nhạt yếu thì nên dùng liều lượng lớn, các vị thuốc tính chất mãnh liệt hoặc độc thì chỉ dùng liều lượng nhỏ. Cũng có khi mới dùng thì liều lượng nhỏ, sau tùy tính bình mà tăng dần, đến khi bệnh lui thì giảm rồi ngừng."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.3.3- Phối ngũ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "liều lượng vị thuốc chính để chữa bệnh thường cao hơn, liều lượng thuốc phụ thường thấp hơn."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.3.4- Dạng thuốc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lượng các vị thuốc để chế thành thuốc thang (sắc) thường lớn, lượng các vị thuốc để chế thành thuốc viên, bột thường nhỏ mới thích hợp."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.3.5 -Tình trạng của bệnh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Các bệnh nhẹ, mạn tính thường dùng liều nhỏ, các bệnh nặng cấp tính thì thường dùng liều lớn là thích hợp."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.3.6- Thể trạng người bệnh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "người suy nhược nên dùng liều nhỏ, người khỏe thì dùng liều thuốc lớn."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.3.7- Tuổi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Người già và trẻ nhỏ thì lượng thuốc nên nhỏ, người thanh niên và trung niên thì phải dùng lượng lớn."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.3.8- Thời gian"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thời gian dùng thuốc dài thì liều lượng nhỏ, thời gian ngắn có thể dùng liều cao."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.3.9- Thời tiết"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mùa hè mà dùng thuốc nhiệt, mùa đông mà dùng thuốc hàn, thì lượng nên thấp, màu hè mà dùng thuốc hàn, mùa đông mà dùng thuốc nhiệt thì lượng có thể cao hơn."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.3.10- Vùng cao núi lạnh, địa phương phía bắc lạnh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "mà dùng thuốc ôn, vùng đầm lầy ẩm mà dùng thuốc táo thì lượng thuốc có thể khá cao. Vùng đồng bằng, địa phương phía Nam nóng ấm thì dùng thuốc thanh, lương thì lượng khá cao."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.3.11- Thuốc tươi hay khô"
+  },
+  {
+   "block_label": "text",
+   "block_content": "thuốc cây cỏ tươi thì dùng lượng cao, dược liệu đã chế biến khô thì lượng thấp hơn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Những điểm nêu trên vẫn chỉ là nói chung, không phải là tuyệt đối, cần"
+  },
+  {
+   "block_label": "number",
+   "block_content": "616"
+  }
+ ]
+}

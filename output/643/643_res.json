@@ -1,1 +1,361 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Thục địa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chàm mèo (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn châu chấu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên (gai, ô rô)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng bá nam (núc nác)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân trần Trung quốc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hy thiêm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Linh chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Râu ngô"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sơn đậu căn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vảy rồng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dành dành"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân trần VN"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nghệ vàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bồ công anh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xu xi"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "5. Thuốc về hệ thần kinh não"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.1. An thần (tranquilisant), chữa mất ngủ :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bá tử nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu đằng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dành dành"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại táo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đan sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đỗ trọng bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đương quy"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Độc hoạt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hà thủ ô đỏ (dây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phục linh (Phục thần)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bối mẫu xuyên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng cầm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hổ phách"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long nhãn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Linh chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Muồng muồng ngủ (hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mơ (hoa)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Táo chua (nhân)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sen (tâm)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sài hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Viễn chí"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xích thược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.2. Trẻ em khóc đêm :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên trúc hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thuyền thoái (xác lột ve sầu)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.3. Giảm đau hệ thần kinh - (neurosedatif) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu đằng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.4. Chống Stress"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ gia bì gai"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hương nhu tía"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.5. Lưu thông não :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu kỷ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xích thược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.6. Thiên đầu thống :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bán hạ TQ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.7. Chữa viêm não"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chàm mèo (rễ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.8. Chống co giật, kinh giật (anticonvulsif) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu đằng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồ hoàng liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hổ phách"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mẫu đơn bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Viễn chí"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phòng phong"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phụ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma (động kinh)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên trúc hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xích thược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.9. Chống co thắt (antispas-modic) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch thược"
+  },
+  {
+   "block_label": "number",
+   "block_content": "625"
+  }
+ ]
+}

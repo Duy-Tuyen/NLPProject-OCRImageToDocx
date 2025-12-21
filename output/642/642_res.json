@@ -1,1 +1,357 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Phòng kỷ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sắn dây (Cát căn)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sơn thù du"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Táo chua (nhân)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tầm gửi Dâu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tỏi ta"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trạch tả"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tri mẫu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Viễn chí"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xích thược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xu xi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.8. Thuốc giảm nhãn áp :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bán hạ T.Q."
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.9. Thuốc làm tăng huyết áp :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ma hoàng (thảo)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhung hươu, nai"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.10. Thuốc giảm cholesterol huyết :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu kỷ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đương quy"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hà thủ ô đỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng cầm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nghệ vàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất Bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tầm gửi Dâu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tỏi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.11. Thuốc giảm lipid huyết (chống béo phì) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đan sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đương quy"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ma hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân trần T.Q."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngọc trúc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sơn tra"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trạch tả"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.12. Thuốc giảm đường huyết (chữa đái tháo đường) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch truật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cát cánh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu kỷ tử (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Địa cốt bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoài sơn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồ đào (vỏ quả, lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Linh chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mạch môn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sinh địa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thục địa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên hoa phấn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tri mẫu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên bối mẫu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thương truật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ý dĩ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.13. Thuốc diệt ký sinh trùng trong máu (Sốt rét, Huyết hấp trùng)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thanh cao hoa vàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nha đàm tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thường sơn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.14. Gan (Bệnh về gan)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bồ gan"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu kỷ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cẩu tích"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu đen"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đỗ trọng bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hà thủ ô đỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng cầm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ vị tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu tất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tầm gửi Dâu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thỏ ty tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tục đoạn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sơn thù du"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vừng (mè)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lô hội"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Muồng ngủ (hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long đởm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Actisô"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sài hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại táo"
+  },
+  {
+   "block_label": "number",
+   "block_content": "624"
+  }
+ ]
+}

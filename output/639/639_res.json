@@ -1,1 +1,365 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Một dược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhũ hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nghệ vàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu tất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Si (cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất Bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xu xi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.13. Gãy xương :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cốt toái bổ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tục đoạn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.14. Bong gân :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dành dành"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cốt toái bổ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tục đoạn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.15. Chuột rút (vọp bẻ) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc qua"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tần giao"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên niên kiện"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.16. Bỏng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bòng bong"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Địa du"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng bá"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xoan nhừ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất Bắc"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "3. Thuốc kháng sinh, tiêu viêm, mụn nhọt, bệnh ngoài da"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "3.1. Thuốc kháng sinh thiên nhiên :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diếp cá"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn tướng quân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hạ khô thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hành"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hậu phác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng cầm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng bá"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên gai"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên ô rô"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng đằng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng kỳ bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gỗ vang (Tô mộc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khuynh diệp"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim ngân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ké đầu ngựa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mã đề (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngô thù du"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu bàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quế"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sài đất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tế tân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thóc lép (cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tỏi ta"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tràm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xu xi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên tâm liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vàng đắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thồm lồm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "3.2. Kháng khuẩn mủ xanh :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diếp cá (rau)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "3.3. Chống dị ứng (antiallergic) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bèo cái"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cát cánh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại táo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn (kim, lá đỏ, nem, tướng quân)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim ngân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Linh chi (nấm)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng cầm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mẫu đơn bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Núc nác (vỏ, thân)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phòng kỷ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sơn thù du"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trám trắng (vỏ thân)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "3.4. Áp xe :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bối mẫu xuyên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sài đất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diếp cá (rau)"
+  },
+  {
+   "block_label": "number",
+   "block_content": "621"
+  }
+ ]
+}

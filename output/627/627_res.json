@@ -1,1 +1,65 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "loại bỏ tạp chất, đập vụn, cho vào chảo, sao đủ lửa, phun dấm lên cho đều rồi tiếp tục sao khô là được (như chích dấm Quy bản, Miết giáp..)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đối với các dược liệu thực vật thì trước hết tẩm dấm cho đều, xong cho vào chảo sao cho tới khi khô (như chích dấm Hương phụ, Bạch thược...). Lượng dấm dùng không quá 20p.100 khối lượng dược liệu là vừa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Chích rượu (tửu chích) : sau khi tẩm rượu vào dược liệu vài phút cho mềm, đem sao đến khi khô (như chích rượu Hoàng cầm ...). Lượng rượu trắng đem dùng không quá 15p.100 khối lượng dược liệu là vừa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Chích muối : trước hết sao dược liệu, sau đó phun nước muối lên cho đều (lượng muối ăn tương đương 2-3p.100 khối lượng dược liệu hòa vào nước lượng vừa đủ) rồi sao nhỏ lửa đến khi khô, (như chích muối Hoàng bá, Bổ cốt chi...)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Chích nước gừng : trộn đều dược liệu với nước gừng tươi (giã gừng, thêm nước vừa đủ, vắt lấy nước bỏ bã), cho vào chảo, sao nhỏ lửa đến khi khô (như chích gừng Hoàng liên...)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nung : là đốt dược liệu bằng lửa. Thường có 2 cách :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Nung trực tiếp : đưa dược liệu vào lò lửa đỏ hoặc để vào nồi gang rồi đốt lửa trực tiếp đến khi cháy đỏ (như nung Mẫu lệ...)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Nung kín : cho dược liệu vào nồi, úp vung : dùng đất bùn, đất sét trát kín, đè vật nặng lên vung, đốt lửa thật to, cho đến khi thử cho rỏ nước vào vung thấy bốc tức khắc là được (như nung Huyết dư = tóc rối...)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chưng (đồ) : cho dược liệu vào chõ, đặt trên một nồi nước, đun nước sôi bốc hơi, đến khi thuốc chín tận ruột là được (như chưng, đồ Thục địa, Hà thủ ô đỏ....). Có thứ dược liệu phải chưng đi, sấy lại nhiều lần (cửu chưng, cửu sái)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nấu : là đun dược liệu với nước (hoặc tá dược lỏng như dấm, nước gừng, nước đỗ đen, nước phèn...). có 2 cách :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Nấu chung dược liệu và tá dược cho đến khi tá dược bị hút hết hoàn toàn (như Cam toại, Đại kích nấu chung với dấm tới khi nào khô cạn dấm là được)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Nấu chung với tá dược xong, vớt dược liệu ra, bỏ tá dược thừa (như Xuyên ô, Thảo ô và Cam thảo nấu chung với nước đậu đen, đến khi xuyên ô, thảo ô chín đen ruột là được). Trần : là nhúng dược liệu vào nước sôi, đảo khuấy qua, rồi vớt ra, để bóc dễ dàng lớp vỏ lụa ngoài của dược liệu như Hạnh nhân, Bạch biển đậu...)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tôi : là nung đỏ dược liệu khoáng sản, đang khi còn nóng nhúng ngay vào dấm hoặc rượu cho tở ra (như tôi Giả thạch, Tự nhiên đồng...)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "609"
+  }
+ ]
+}

@@ -1,1 +1,353 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Tía tô"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tràm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiền hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Cảm cúm do nóng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạc hà"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bí đạo (vỏ quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cối xay (cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cốc tinh thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cúc hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dành dành (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâu tằm (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đan sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu sị"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hà thủ ô trắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng cầm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim ngân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long đởm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kinh giới"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mã đề (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mạch môn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mẫu đơn bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mạn kinh tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngải cứu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu bàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngân sài hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân trần"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má lông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sài hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sinh địa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thanh cao"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tri mẫu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên trúc hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sắn dây (củ) = Cát căn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiết dê (cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Thuốc làm cho ra mồ hôi :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bá tử nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bèo cái"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Băng phiến (borneolum)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâu tằm (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gừng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ma hoàng (thảo)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân trần (TQ,VN)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tế tân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thương truật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phòng phong"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quế chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Thuốc hãm (cầm) mồ hôi :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch thược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Địa cốt bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng kỳ bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng tinh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kha tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ma hoàng (rễ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ vị tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phụ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Táo chua (nhân)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tần giao"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thạch hộc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thanh cao"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tri mẫu"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "7. Thuốc về hệ vận động, gân, xương cơ"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "7.1. Thuốc chữa tê thấp, đau nhức, gân xương, giảm đau:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ba kích"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạc hà"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch tiền"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch truật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cẩu tích"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chổi sể"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cốt khí củ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cốt toái bổ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Địa liền"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Độc hoạt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâu tằm (cành) = Tang chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đỗ trọng Bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn châu chấu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn lá đỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâm dương hoắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Huyết giác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Huyết đằng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hổ cốt (xương hổ, cao)"
+  },
+  {
+   "block_label": "number",
+   "block_content": "628"
+  }
+ ]
+}

@@ -1,1 +1,45 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "dược liệu có mùi mạnh thì nên trộn lúc nóng. Lúc lăn thành đũa, làm hoàn, cần thêm chất trơn để cho đũa và hoàn không dính vào dụng cụ. Pha chế chất bôi trơn như sau : dầu ăn thực vật 500g, sáp vàng 150g đun chảy, khuấy đều, để nguội."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Bôi trơn thúng tre bằng dầu, lấy khăn thấm nước đun sôi để nguội bôi, lau ướt thúng, rắc luôn lên mặt thúng một lớp mỏng bột thuốc, rồi lắc thúng theo một chiều vòng tròn đến khi bột thuốc ẩm hết thì thôi. Lấy bàn chải khô chải bột thuốc bị dính vào thúng cho rơi ra, tạo thành những hạt nho. Sau đó vừa phun nước, vừa thêm bột thuốc, vừa lắc đều tay làm cho các hạt lớn tròn tăng dần đến cỡ cần thiết. Nếu các hạt không đều thì có thể dùng sàng tre để sàng riêng từng cỡ. Sau đó phơi hoặc sấy cho khô. Nếu sấy trên lửa thì nhiệt độ không quá 60°C, nóng quá cao thì ảnh hưởng đến chất lượng và hiệu lực của thuốc. (thúng được treo bằng 3-4 sợi dây lên sà)."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "3.2.3 - Thuốc bột (tán)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dược liệu phơi khô hay sấy khô rồi tán thành bột, qua rây theo độ mịn quy định là được. Thuốc bột dễ bảo quản, khó biến chất, có thể uống hoặc dùng ngoài. Thuốc bột uống hấp thụ dễ và nhanh hơn thuốc hoàn. Nếu trong công thức có các dược liệu mà lượng nhỏ, ít như Xạ hương, Ngưu hoàng... thì phải cho riêng từng thứ vào cối mà nghiền nhỏ, rồi mới đem trộn đều với bột thuốc lượng lớn đã qua rây. Nếu trong công thức có Lưu hoàng và Diêm tiêu thì tuyệt đối không được tán nghiền chung, phòng tai họa bốc cháy hoặc nổ."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "3.2.4 - Thuốc cao"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thuốc cao có 3 loại : cao uống, cao xoa, và cao dán ngoài."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Cao uống (extractum) : thuốc dễ uống, dễ bảo quản, thích hợp với các bệnh mạn tính. Cách điều chế : cho các dược liệu trong công thức vào nồi, thêm nước trong, đun nhỏ lửa đến khi nước thuốc cạn, giảm còn nửa thể tích, lọc lấy nước thuốc 1. Lại thêm nước, đun nấu tiếp tục, lọc lấy nước, thuốc 2. Làm như thế 3 lần, gộp 3 nước thuốc lại, để lắng, lọc bỏ cặn, lại cho vào nồi đun nhỏ lửa, cô đặc, thêm mật hoặc đường (có thể cho dung dịch A giao) sẽ được cao nửa lỏng. Cũng có thể thêm chất bảo quản chống lên men với tỉ lệ vừa đủ (xem mục dưới về thuốc phức hợp 3.2.6)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Cao dán ngoài : Hiệu lực kéo dài, dễ sử dụng, dễ bảo quản."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cách điều chế : Cân các dược liệu theo công thức, cho vào bình thủy tinh hoặc lọ sành, thêm dầu thảo mộc (lượng dầu ngập dược liệu độ khoảng 1,5 cm) ngâm chừng 5-7 ngày, cho vào nồi đun nhỏ lửa, đến khi dược liệu chín vàng hoặc xám lại, lọc bỏ bã. Phần dầu thuốc lại đun tiếp tục, hơi to lửa, vừa đun vừa quấy đảo, khi thấy khói bốc lên từ mầu trắng chuyển sang màu xanh và khi giọt dầu rỏ vào nước, thành viên không tan thì giảm lửa, thêm Hoàng"
+  },
+  {
+   "block_label": "number",
+   "block_content": "611"
+  }
+ ]
+}

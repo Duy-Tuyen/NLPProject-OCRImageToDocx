@@ -1,1 +1,361 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Xích thược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Độc hoạt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hương phụ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim ngân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc qua"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thanh bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ý dĩ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xa tiền tử (chống co thắt ruột)"
+  },
+  {
+    "block_label": "text",
+    "block_content": "Địa long"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "6. Thuốc về hệ hô hấp"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.1. Thuốc chữa ho, long đờm :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch tiền"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bán hạ (TQ.VN)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bách bộ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bách hợp"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bát ruồi (co Tỹ gà)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bảy lá một hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bối mẫu (Triết, Xuyên)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bố chính sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cải trắng (hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cánh kiến trắng (An tức hương)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chàm mèo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Co hàn the"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cai củ (hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ thực"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ xác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cu gió"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cát cánh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cù túc xác (Anh túc xác)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâm dương hoắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâu tằm (vỏ, rễ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diếp cá (rau)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn tướng quân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hậu phác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồ đào"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kha tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khoản đông hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim ngân hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khuynh diệp"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tóc tiên (cỏ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mạch môn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mơ muối (ô mai)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mơ (hoa)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngọc trúc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu bàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mã đề (hạt)= xa tiền tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ vị tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhị trà"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhót tây (lá)= Tỳ bà diệp"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ô dược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Qua lâu (vỏ quả= bì)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Qua lâu (nhân quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rẻ quạt (xạ can)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau sam"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sa sâm (bắc, nam)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sài hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sy (lá cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sơn đậu căn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Táo chua (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên môn đông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thảo quả"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tía tô (lá, hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tế tân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiền hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thanh bì -trần bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tràm (chè cay)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trám trắng (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trúc hoàng (Thiên trúc hoàng)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tri mẫu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vạn niên thanh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Viễn chí"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên tâm liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xương bồ (Thạch)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.2. Thuốc chữa hen :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch quả"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bảy lá một hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cà độc dược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cai củ (hạt)"
+  },
+  {
+   "block_label": "number",
+   "block_content": "626"
+  }
+ ]
+}

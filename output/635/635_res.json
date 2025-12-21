@@ -1,1 +1,53 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "dựa vào tình hình, diễn biến cụ thể của bệnh, nắm vững nguyên tắc nhưng vẫn linh hoạt ứng phó điều chỉnh liều lượng thì kết quả chữa bệnh mới tốt."
+  },
+{
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.4.Cách dùng thuốc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tùy theo tình trạng bệnh mà chọn cách dùng thuốc khác nhau, cần chú ý những điểm sau :"
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.4.1- Thời gian dùng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Để duy trì liên tục tác dụng của thuốc, cần chia thời gian mà uống thuốc. Ví dụ : mỗi ngày dùng 3 lần, hoặc mỗi ngày 2 lần, (sáng sớm 1 lần, tối 1 lần). thuốc bổ nên uống trước bữa ăn, các thuốc khác nên dùng sau bữa ăn. Thuốc tẩy giun sán thường uống lúc đói, thuốc cắt cơn sốt rét nên dùng 2 -4 giờ trước khi phát bệnh. Một số bệnh phát về đêm thì phải dùng thuốc trước khi ngủ."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.4.2- Thủ thuật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nói chung thuốc thang (sắc) nên uống lúc còn ấm để đạt mục đích là làm toát mồ hôi, sau khi uống thuốc có đắp chăn hoặc ăn cháo loãng nóng, thuốc trừ hàn nên uống nóng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thuốc giảm độc, thuốc chống nôn, thuốc thanh nhiệt nên uống lạnh, thuốc chống nôn nên dùng liều nhỏ mà uống làm nhiều lần liên tục tránh để tránh ọe ra. Bệnh hàn (hoặc thực hàn, giả nhiệt) thì dùng nóng, bệnh nhiệt thì nên dùng lạnh, nếu không thì nhiệt với nhiệt tăng quá cao. Đối với người bệnh hôn mê, răng miệng cắn chặt thì trước hết phải dùng thuốc để thông miệng mũi, hoặc lấy ô mai xát vào hàm răng làm cho miệng mở ra, sau đó mới có thể đổ thuốc vào. Hiện nay có cách dùng dây ống \"sông\" (sonde) thông qua mũi mà đưa thuốc vào khi người bệnh không uống được thuốc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thuốc viên, thuốc bột nói chung nên chiêu bằng nước còn ấm. Để đạt mục đích đưa lên (thăng đề) và thoáng (tuyên thông) nên uống thuốc với rượu (hoặc rượu thuốc đã chế biến sẵn); muốn đưa thuốc đi xuống, thì nên uống với nước muối loãng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "617"
+  }
+ ]
+}

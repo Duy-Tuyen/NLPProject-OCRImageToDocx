@@ -1,1 +1,365 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Hậu phác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoa tiêu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoắc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồ tiêu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long đởm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lô hội"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lụa mề gà (Kê nội kim)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mật gấu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mạch nha"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hương (Vân. Bắc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hương nam (=vỏ Rụt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân trần"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nghệ (đen, trắng, vàng, xanh)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngô thù du"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ô dược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Riềng nếp"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Riềng thuốc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sa nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sài hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sơn tra"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thanh bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thạch xương bồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thảo quả"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thương truật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiểu hồi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trần bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.4. Chữa viêm loét dạ dày, hành tá tràng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch truật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cu ấu (vỏ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hậu phác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng cầm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khổ sâm (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khôi (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long nha thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Riềng thuốc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thương truật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thạch xương bồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên tâm liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.5. Chữa viêm ruột, nhiễm khuẩn đường ruột :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diếp cá (rau)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khổ sâm (rễ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau sam"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thồm lồm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thương truật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vang (gỗ) = Tô mộc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vàng đắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên tâm liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.6. Chữa ỉa chảy đi lỏng:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Anh túc xác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đinh hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng bá"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoắc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồ tiêu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khổ sâm (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lựu (vỏ qua) = Thạch lựu bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mã đề"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc qua"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phục linh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thảo quả"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiểu hồi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiêu lốt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trần bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vàng đắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ý dĩ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.7. Chữa kiết lỵ :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ba chẽ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng bá"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khổ sâm (rễ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hoa trắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mơ tam thể"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nha đạm tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau sam"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vàng đắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên tâm liên"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+},
+  {
+   "block_label": "number",
+   "block_content": "630"
+  }
+ ]
+}

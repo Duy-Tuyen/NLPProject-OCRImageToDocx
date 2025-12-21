@@ -1,1 +1,361 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Tiết dê (cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thài lài"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "9.5. Thuốc lợi niệu, tiêu thũng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bí đao (vỏ quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bìm bìm (hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bồ công anh (TQ.VN)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ tranh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu đen"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu đỏ nhỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đỗ trọng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diếp cá (rau)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại phúc bì (vỏ quả Cau)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gai làm bánh (rễ củ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đông quỳ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng cầm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim ngân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mã đề"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc thông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mướp (xơ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc qua"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hàm ếch"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu tất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngô (râu)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phục linh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phòng kỷ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Qua lâu (vỏ quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau đắng (biển súc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má lông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má lá rau muống"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sinh địa hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sơn thù du"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thài lài"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thông thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thổ phục linh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thạch xương bồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiểu hồi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiết dê (cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tỏi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trạch tả"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trư linh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vảy rồng (Kim tiền thảo)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ý dĩ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "9.6. Chữa bí đái :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thương lục"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hàm ếch"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thài lài"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "9.7. Hãm giữ bớt đái :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim anh (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ gia bì gai"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "10. Thuốc về hệ sinh dục"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "10.1 Tăng cường chức năng sinh lý cho nam giới(chữa yếu sinh lý) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ba kích"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao ban long"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao xương Hổ (cao Hổ cốt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cá ngựa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Củ mài (Hoài sơn)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâm dương hoắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ích mẫu (hạt) : Sung úy tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhung (hươu, nai)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhục thung dung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tắc kè"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sơn thù du"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phá cố chỉ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tê giác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ gia bì gai"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thỏ ty tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trầm hương (chữa lãnh tinh)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thục địa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "10.2. Giữ tinh khí, hãm (sáp, cố tinh, chữa di mộng tinh) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồ đào"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ích trí nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khiếm thực"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim anh quả"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hạt sen (Liên nhục)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngó sen"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhị sen"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ vị tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lựu (vỏ quá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "10.3. Hòn dái sưng đau (sán khí) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quít (hạt)"
+  },
+  {
+   "block_label": "number",
+   "block_content": "632"
+  }
+ ]
+}

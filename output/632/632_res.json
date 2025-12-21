@@ -1,1 +1,121 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "chính có tác dụng làm tan hàn thuộc biểu, thoáng phổi chặn hen, nói chung chữa nguyên nhân và triệu chứng chính. Hạnh nhân, Cam thảo chữa ho, đờm làm các vị thuốc phụ. Như vậy cấu tạo của bài thuốc là dựa theo phép biện chứng, căn cứ vào tính năng, quan hệ qua lại của các vị thuốc phối ngũ mà thành."
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.2. Tương kỵ và kiêng kị"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trừ các thuốc dùng độc vị có sự kiêng kị kể riêng, ở đây chỉ giới thiệu các trường hợp kiêng kị khi phối ngũ tác động lẫn nhau và kiêng kị đối với phụ nữ có thai cũng như kiêng ăn khi dùng thuốc."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "4.2.1 - Tương kỵ khi phối ngũ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "khi phối hợp các dược liệu mà gây ra các tác dụng phụ độc hại thì gọi là phản nhau (tương phản)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Làm giảm hoặc mất hiệu lực của nhau thì gọi là ghét nhau (tương ố)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Các vị thuốc phản nhau và ghét nhau đều phải tránh khi phối ngũ. Người xưa đã làm bài ca mười tám vị phản nhau và mười chín vị sợ nhau (tương úy) để dễ nhớ :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bài ca mười tám vị phản nhau (trong bản thảo)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bối mẫu, Bạch cập, Bạch liễm, Bán hạ và hạt Mùi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Năm vị này tuy khác đều phản Thảo ô, Xuyên ô"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hải tảo, Hồng đại kích, Cam toại và Nguyên hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đều phản Cam thảo khi dùng thì phải tránh xa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tất cả các loại Sâm, Xích thược, Bạch thược, Tế tân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gặp Lê lô thì phản, dùng cùng là sát nhân."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bài ca 19 vị sợ nhau :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu hoàng là hỏa trung tinh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phác tiêu gặp phải cùng tranh nhau thường"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thủy ngân thì sợ Phê sương (= Thạch tín)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Uất kim lại sợ Đinh hương lạ lùng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ba đậu tính mạnh phi thường"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gặp Khiên ngưu đố có nhường nhau đâu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thảo ô và Xuyên ô đầu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gặp Tê giác cũng sợ nhau ai bằng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lang độc thì sợ Đà tăng (= Mật đà tăng = oxyt chì)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nha liêu thì sợ Tam lăng lạ kỳ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân sâm sợ Ngũ linh chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quế quan lại sợ Thạch chi khác thường"
+  },
+  {
+   "block_label": "number",
+   "block_content": "614"
+  }
+ ]
+}

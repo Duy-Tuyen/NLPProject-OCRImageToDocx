@@ -1,1 +1,53 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "đơn (cứ 500g dầu thêm 150- 200g Hoàng đơn) vừa thêm Hoàng đơn vào vừa quấy đều, đến khi Hoàng đơn cháy, toàn bộ kết lại thì thôi, bắc nồi ra. Nếu trong công thức có dược liệu lượng nhỏ hoặc thơm thì nên nghiền riêng thành bột mịn, để hơi nguội thì thêm vào cao, quấy đảo đều, sau đó rót cao vào nước lạnh, ngâm 1 ngày đêm (24 giờ) để khử hỏa độc, lấy ra lại đun nhẹ âm ấm cho cao chảy, phết đều vào vải hay giấy là được."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Cao xoa : lấy dầu thực vật, sáp ong hoặc vaselin tá dược nền chế thành cao bôi ngoài. Có 2 cách điều chế :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Điều chế ở nhiệt độ thường : dược liệu nghiền nhỏ, cho vào cối cùng với tá dược thích hợp (thường dùng vaselin) nghiền đều là được. Thường gọi là thuốc mỡ (Unguentum)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Điều chế nóng : dược liệu nghiền nhỏ, qua rây. Lấy riêng một lượng dược liệu vừa đủ tá dược nền (thường dùng dầu thảo mộc đun nóng, thêm sáp ong, sau khi sáp ong chảy hết để nguội) đun chảy, cho bột dược liệu vào lúc tá dược còn nóng, đánh đều là được."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Còn một cách điều chế khác : theo công thức, lấy một phần dược liệu thô đun với dầu thảo mộc, bỏ bã, thêm sáp ong đun chảy làm nền hợp lại với các dược liệu đã tán mịn, trộn đều là được. Nếu trong công thức đó có dược liệu thơm, dễ bay hơi thì phải cho những chất đó vào lúc chất nền không nóng quá, để bảo đảm chất lượng của thuốc."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "3.2.5- Rượu thuốc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "là dạng thuốc ngâm dược liệu trong rượu trắng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cách điều chế : lấy dược liệu cắt thái nhỏ hoặc xay thành bột thô, cho vào bình chứa thích hợp, thêm rượu 40° - 60° đậy, nút kín. Hàng ngày quấy, lắc một lần, sau 7 ngày thì mỗi tuần quấy, lắc một lần, 1 tháng sau thì lọc lấy nước rượu trong là được."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trên đây là cách ngâm lạnh - còn theo cách ngâm nóng thì dùng rượu trắng hâm nóng cách thủy hoặc cách cát, nhiệt độ thích hợp (không quá 50°C), sau đó rót rượu nóng vào bình chứa dược liệu, đậy nút kín, để yên 1 -2 tuần lễ lọc lấy nước rượu trong là được."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "3.2.6 - Thuốc phức hợp"
+  },
+  {
+   "block_label": "text",
+   "block_content": "là dạng thuốc chế bằng lấy riêng từng dược liệu trong công thức thông qua các phương pháp chưng cất ngấm kiệt, sắc cô đặc thành dung dịch thuốc, rồi hợp lại theo tỉ lệ qui định. Cách điều chế : Căn cứ trên đặc tính khác nhau các dược liệu (ví dụ : dược liệu có hoạt chất dễ tan trong nước thì thường dùng cách sắc, dược liệu có hoạt chất dễ tan trong rượu thì dùng cách ngâm kiệt, dược liệu chứa tinh dầu thì dùng cách chưng cất). Trình tự các dịch thuốc đem hỗn hợp : cô nước thuốc sắc đến một độ đậm quy định (thường 1 g dược liệu tương ứng với 1 ml dịch thuốc đậm đặc), thêm dịch chiết rượu cồn ngấm kiệt sau cùng thêm tinh dầu, lắc đều là được."
+  },
+  {
+   "block_label": "number",
+   "block_content": "612"
+  }
+ ]
+}

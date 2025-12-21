@@ -1,1 +1,361 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "3.5. Tiêu viêm (antiinflammatory):"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ tai hổ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ hàn the"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cát cánh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bảy lá một hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diếp cá (rau)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đan sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu đỏ nhỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Địa phu tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đỗ trọng bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Độc hoạt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn kim"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn tướng quân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đương quy"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hậu phác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng cầm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên (chân gà, gai, ô rô)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng đằng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hương phụ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim ngân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lan thủy tiên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long đởm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mạch môn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mẫu đơn bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mò hoa trắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nghệ vàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu tất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phòng phong"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má lông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rẻ quạt (Xạ can)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sài hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sinh địa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sinh khương (Gừng sống)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tri mẫu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xích thược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "3.6. Ung nhọt :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bồ kết"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cát cánh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chàm mèo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diếp cá (rau)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đan sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu đỏ nhỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gấc (hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc dược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhũ hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên hoa phấn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "3.7. Eczema, lở :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diếp cá (rau)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn lá đỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn nem"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ké đầu ngựa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim ngân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khúc khắc (Thổ phục linh)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long đởm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lỗ địa cúc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhị trà"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu bàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sài đất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thanh cao"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vạn niên thanh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xu xi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "3.8. Hắc lào :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Muồng trâu (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "3.9. Ghẻ :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dầu hạt máu chó"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "4. Thuốc về hệ tuần hoàn, tim mạch, gan, mật"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.1. Bổ tim (cardiotonic) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bá tử nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đỗ trọng bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hà thủ ô đỏ (củ dày)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng kỳ bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long nhãn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mạch môn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân sâm"
+  },
+  {
+   "block_label": "number",
+   "block_content": "622"
+  }
+ ]
+}

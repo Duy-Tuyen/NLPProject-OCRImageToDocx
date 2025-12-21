@@ -1,1 +1,365 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Nhung hươu, nai"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngọc trúc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ vị tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sen (hạt) = liên nhục"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sinh địa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thục địa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vừng (mè)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.2. Thanh tâm (chữa tâm phiền, hồi hộp mất ngủ) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lô hội"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sen (tâm) = liên tâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sen (tua) = liên tu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.3. Giãn mạch (vasodilatateur) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cát cánh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâm dương hoắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đan sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đỗ trọng bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phòng kỷ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ý dĩ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.4. Tai biến mạch máu não, (phòng, chữa) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xích thược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.5. Bệnh về động mạch vành :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đan sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Linh chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phòng kỷ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất Bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.6. Lưu thông máu, tan máu tụ :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch quả (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch truật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đan sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu đỏ nhỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đào nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đương quy"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gỗ vang"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồng hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Huyết giác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Huyết kiệt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hành ta"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long nhãn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mần tưới"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mẫu đơn bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc thông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhũ hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nghệ (vàng, đen, trắng, xanh)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu tất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quế (chi, nhục)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất Bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Uy linh tiên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xích thược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.7. Thuốc làm giảm huyết áp (hypotenseur):"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ba gạc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ba kích"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch thược"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bối mẫu xuyên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cát cánh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu đằng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu kỷ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chi tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cúc hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đan sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đảng sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đỗ trọng bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Độc hoạt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâu tằm (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâm dương hoắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hạ khô thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hòe hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hy thiêm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng cầm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng kỳ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Linh chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mào gà trắng (hạt cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mẫu đơn bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nghệ vàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu tất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân trần TQ"
+  },
+  {
+   "block_label": "number",
+   "block_content": "623"
+  }
+ ]
+}

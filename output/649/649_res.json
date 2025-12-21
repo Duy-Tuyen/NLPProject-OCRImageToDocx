@@ -1,1 +1,361 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.8. Thuốc nhuận tràng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bá tử nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đào (nhân hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đông quỳ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoa ma nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lô hội"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mạch môn đông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Muồng trâu (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mướp ta"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phan ta diệp"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Qua lâu bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Qua lâu nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau sam"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên hoa phấn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.9. Thuốc chữa đại tiện bí kết, tẩy mạnh :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ba đậu sương (đã chế biến)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bồ kết (hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trầm hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vừng (hạt) = Mè"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.10. Thuốc tẩy giun"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bách bộ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sư quân tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dầu giun (tinh dầu)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.11. Thuốc tẩy sán :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bí ngô (hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cau (hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lựu (vỏ rễ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.12. Nhuộm màu thực phẩm an toàn :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dành dành (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hòe (hoa)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Điều nhuộm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồng hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vang (gỗ)"
+  },
+  {
+        "block_label": "text",
+        "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "9. Thuốc về hệ tiết niệu"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "9.1. Bổ thận :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu kỷ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cẩu tích"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ nhọ nồi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cốt toái bổ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Củ mài (Hoài sơn)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâu tằm (quả chín)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu đen"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đỗ trọng bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hà thủ ô đỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ích trí nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khiếm thực"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim anh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu tất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sen (hạt) = Liên nhục"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sung úy tử (hạt Ích mẫu)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tầm gửi Dâu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thục địa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tơ hồng (Thỏ ty tư)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vừng (hạt mè)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "9.2.Chữa viêm thận :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bìm bìm biếc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bòng bong"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dành dành (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diếp cá (rau)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu đỏ nhỏ (= Xích tiểu đậu)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn châu chấu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn kim"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau sam"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Râu ngô"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vảy rồng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thài lài"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau dừa nước"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "9.3. Chữa viêm bàng quang, dưỡng chấp :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long đởm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau đắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau sam"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau dừa nước"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "9.4. Chữa sỏi niệu đạo, thận, bàng quang :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau đắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má lông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hàm ếch"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vây rồng (Kim tiền thảo)"
+  },
+  {
+   "block_label": "number",
+   "block_content": "631"
+  }
+ ]
+}

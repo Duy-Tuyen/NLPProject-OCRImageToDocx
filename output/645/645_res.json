@@ -1,1 +1,369 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bèo cái"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâm dương hoắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồ đào"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Linh chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiền hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trầm hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xương bồ (Thạch)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.3. Chữa viêm amidan, họng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cát cánh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chàm mèo (rễ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cây đuôi hổ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cây tai hổ (Hổ nhĩ thảo)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Củ gió (Sơn từ cô)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn châu chấu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn kim"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn tướng quân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thài lài"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ the"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ tóc tiên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thồm lồm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hạ khô thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Huyền sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khoản đông hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim ngân hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu bàng tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rẻ quạt (Xạ can)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sơn đậu căn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trám trắng (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vạn niên thanh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên tâm liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.4. Khản tiếng, mất tiếng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Củ gió"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cây đuôi hổ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kha tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trám trắng (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.5. Thúc sởi mọc ra :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch tiền"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu bàng tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.6. Tắc mũi, chảy nước mũi, viêm mũi :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ké đầu ngựa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tân di"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ the"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tế tân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thạch xương bồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.7. Lao phổi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên ô rô"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Linh chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mẫu đơn bì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mạch môn đông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngân sài hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sa sâm bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên môn đông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.8. Lao hạch :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bối mẫu (Xuyên, Triết)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hạ khô thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Huyền sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.9. Chống ô nhiễm môi trường :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cây đuôi hổ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lan thủy tiên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lô hội"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Si (cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vạn niên thanh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.10. Thuốc chữa cảm cúm, nhức đầu, hạ sốt :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Cảm cúm do lạnh :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch chỉ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gừng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoắc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hương nhu (tía, trắng, TQ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hành ta"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khuynh diệp"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long não"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quế"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khương hoạt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ma hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phòng phong"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tân di"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tế tân"
+  },
+  {
+   "block_label": "number",
+   "block_content": "627"
+  }
+ ]
+}

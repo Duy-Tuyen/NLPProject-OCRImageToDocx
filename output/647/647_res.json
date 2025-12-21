@@ -1,1 +1,353 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Hy thiêm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khương hoạt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khúc khắc (Thổ phục linh)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ké đầu ngựa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mỏ quạ (rễ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc qua"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc thông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phòng kỷ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phòng phong"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu tất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ vị tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tầm gửi Dâu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tần giao"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thạch hộc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thạch xương bồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thăng ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên ma"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên niên kiện"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phá cố chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quế chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tỳ giải"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Uy linh tiên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ý dĩ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "7.2. Thuốc chữa tê thấp, thuộc loại độc phải thận trọng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ô đầu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng nàn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mã tiền"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "7.3. Thuốc chữa thống phong (goutte):"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu bàng (rễ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "7.4. Thuốc làm mạnh gân, xương:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cầu tích"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao ban long"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cốt toái bổ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đỗ trọng Bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hổ cốt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kỳ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu tất"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tục đoạn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "7.5. Thuốc giãn cơ (myorelaxant)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hậu phác bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quế chi"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "8. Thuốc về hệ tiêu hóa"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.1. Thuốc bổ tỳ (tăng cường chức năng của tỳ) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch truật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Củ mài (Hoài sơn)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại táo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu ván trắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ích trí nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên nhục (hạt Sen)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long nhãn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ý dĩ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.2. Thuốc sinh tân (chữa các chứng bệnh do tân dịch bị khô cạn)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngọc trúc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ vị tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sa sâm (bắc, nam)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sinh địa hoàng (sinh địa)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thạch hộc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên hoa phấn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên môn đông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trám trắng (quả)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tri mẫu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tóc tiên (cỏ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.3. Thuốc làm ấm bụng, giúp tiêu hóa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạc hà"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch đậu khấu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch truật"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cải củ (hạt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ thực"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ xác"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cốc nha"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại hồi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại táo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu ván trắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Địa liền"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gừng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hành ta"
+  },
+  {
+   "block_label": "number",
+   "block_content": "629"
+  }
+ ]
+}

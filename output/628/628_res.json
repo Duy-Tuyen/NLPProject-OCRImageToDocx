@@ -1,1 +1,53 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "3.2. Chế thành dạng thuốc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chế thành dạng thuốc là lấy dược liệu điều chế thành các dạng thuốc nước, hoàn, bột (tán), cao (uống, dán xoa...), rượu v.v.. theo công thức nhất định có thể gồm một vị (độc vị) nhưng thường là phối hợp với nhiều vị (quân, thần, tá, sứ) để người bệnh dùng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gần đây kết hợp đông, tây y, cổ truyền và hiện đại người ta đã sáng tạo ra nhiều dạng thuốc mới có hiệu lực tốt, dễ sử dụng dễ bảo quản, vận chuyển gọn, thuận tiện như dạng thuốc phức hợp, viên hoàn đậm đặc, chè thuốc đông khô (chè sâm) và cả thuốc tiêm từ dược liệu được nhân dân và người bệnh rất ưa dùng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Các dạng thuốc thường dùng hiện nay là :"
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "3.2.1- Thuốc nước (thang)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "tức là thuốc sắc, là dạng thuốc rất phổ biến của thuốc Đông. Thuốc dễ hấp thụ, ưu điểm là tác dụng nhanh, thường dùng cho các bệnh cấp tính. Tuy nhiên khó vận chuyển, bảo quản."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cách chế : cho dược liệu vào nồi hay ấm sắc thuốc bằng sành (cỡ to nhỏ tùy lượng thuốc sắc), thêm nước ngập trên dược liệu độ 2 cm, đun sôi, sắc trong 30 phút (thỉnh thoảng phải đảo đều), gạn lấy nước 1. Lại thêm nước sôi, sắc tiếp trong 20 phút, gạn lấy nước thứ 2, bỏ bã. Trộn lẫn hai nước thuốc 1 và 2, chia làm hai hoặc 3 lần mà uống, cũng có thể uống trước nước 1 rồi lần sau uống nước 2. Nói chung các dược liệu cứng rắn thì nên sắc trước (chừng độ 30 phút), các dược liệu thơm chỉ nên cho vào sau, chỉ sắc trong 5-10 phút. Các dược liệu có lông vụn hoặc các dược liệu khi sắc dễ bị đục thì cần bỏ vào túi vải mà sắc. Không nên sắc các dược liệu quý, ít (như Chu sa, Trầm hương, Xạ hương) mà phải gói riêng (biệt phong) rồi nghiền thành bột mịn và uống với nước thuốc. Thuốc thang còn có nhược điểm mất thời gian sắc (tuy có nơi tổ chức sắc hàng loạt cho người bệnh). Nhưng người bệnh nhìn rõ từng vị thuốc nên an tâm tin tưởng tạo tâm lý tốt."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "3.2.2 - Thuốc hoàn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "lấy dược liệu tán mịn, rồi thêm chất dính mà làm hoàn tùy theo cỡ khác nhau. Thuốc hoàn dễ uống, bảo quản tiện lợi, lượng dùng tương đối ít, nhưng hấp thụ hơi chậm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Có 2 phương pháp thông thường để chế thuốc hoàn :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàn mật : Trộn đều các bột thuốc trong công thức, cho vào chảo, thêm mật ong đã luyện (mật ong đun nóng cho tan lỏng, đun lọc qua vải, đun nhỏ lửa, vớt bỏ bọt nổi lên trên, đun tiếp cho tới khi thấy có bọt màu đỏ nâu - quết vào tay thành sợi vàng là được) trong lúc nóng quấy đảo đều, lại dùng tay nhào nặn, lăn thành đũa trên bàn gỗ, cắt thành từng đoạn rồi vê thành hoàn (theo cỡ cố định). Có thể dùng bàn lăn viên để làm hoàn. Tỉ lệ giữa mật và bột thuốc khoảng 1 : 1 hoặc 1.5 : 1. Nếu trong công thức có chất keo, chất béo hoặc các"
+  },
+  {
+   "block_label": "number",
+   "block_content": "610"
+  }
+ ]
+}

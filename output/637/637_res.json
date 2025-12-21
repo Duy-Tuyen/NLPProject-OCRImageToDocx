@@ -1,1 +1,337 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Câu kỷ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhung hươu, nai"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngân sài hồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngũ gia bì gai"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau nhà chùa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "1.5. Thuốc giữ đen râu tóc, chống rụng tóc :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hà thủ ô đỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồ đào (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ nhọ nồi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất Bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thục địa (hoàng)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vừng (Mè)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "1.6.Thuốc giúp tăng trí nhớ :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bá tử nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long nhãn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân sâm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Viễn chí"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xương bồ (Thạch)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "1.7.Thuốc tăng thị lực, sáng mắt :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu kỷ tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ dùi trống"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cúc hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dâu tằm (lá)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dầu gấc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Muồng ngủ (hạt cây thảo quyết minh)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sung úy tử (hạt cây Ích mẫu)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thạch hộc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thỏ ty tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xa tiền tử (hạt cây Mã đề)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xương bồ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "1.8. Thuốc để điều hòa các vị thuốc :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại táo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "2. Thuốc cấp cứu"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.1. Thuốc giải độc (detoxifiant) giải độc cơ thể :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo Bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cúc hoa"
+  },
+    {
+   "block_label": "text",
+   "block_content": "Đậu đen"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu đỏ nhỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đậu ván trắng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đơn lá đỏ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gai làm bánh (rễ củ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngưu bàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má lá rau muống"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau sam"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Re quạt (xạ can)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.2. Chữa ngộ độc do một số chất độc cụ thể :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hạt cu cai (chữa ngộ độc do hít phải hơi oxyd carbon CO)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên (chữa ngộ độc do ăn Ba đậu, kinh phấn)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rau má (chữa ngộ độc do nuốt phải thuốc trừ sâu có Phospho)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thổ phục linh (chữa ngộ độc do Thủy ngân, khinh phấn Hg2Cl2)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn chất barbituric (chữa ngộ độc do Mã tiền, Hoàng nàn, lá Ngón)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.3. Gây nôn :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cuống quả dưa bở"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đờm phàn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.4. Chống nôn mửa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch biển đậu (đậu ván trắng)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bán hạ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch đậu khấu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đinh hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gừng sống"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồng đậu khấu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hồ tiêu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoa ma nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoắc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc qua"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quế nhục"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Riềng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Riềng nếp"
+  },
+  {
+   "block_label": "number",
+   "block_content": "619"
+  }
+ ]
+}
