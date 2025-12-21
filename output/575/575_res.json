@@ -1,1 +1,225 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "20ngày/tháng. - Trực tràng : 4viên/ngày cho đến hết trĩ."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Venomin (Hàn Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang mềm chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu tỏi (tương ứng với 0,1mg allicin) 100mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao hạt dẻ Ấn Độ (tương ứng với 7,5mg aescin) 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin A 20000IU"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B1 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B2 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B6 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin E 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Procain HCl 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các suy nhược về thể chất và tâm thần ở người có tuổi, rối loạn thần kinh ngoại vi, bất lực."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn, ngày 1 viên, sau bữa ăn sáng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vényl"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống 10ml thuốc uống có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao lỏng Rusus aculeatus 1,5ml"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hesperidin methyl chalcon 0,15g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid ascorbic 0,10g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Magnesi citrat 0,10g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kali gluconat 0,20g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Trợ tĩnh mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phụ trị, các rối loạn tuần hoàn chân, khó chịu lúc có kinh, trĩ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 1-2 ống/ngày pha với nửa ly nước, uống trước bữa ăn."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Veriane Buriat (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 125ml thuốc uống/viên/thuốc đạn người lớn có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Barbital 0,125/0,125/0,40g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao Valerian 0,40/0,015/0,10g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Làm êm dịu, ngủ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Mất ngủ lúc đầu hay nửa đêm. Tiền gây mê. Loạn trương lực thần kinh thực vật."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn 2-5 thìa càfê hay 2-5viên, hay 1-2 thuốc đạn. Trẻ em : 25giọt (tức 1/3 thìa càfê)/24giờ. Để gây ngủ (thuốc nước và thuốc đạn) uống 1/2giờ tới 45 phút trước khi đi ngủ. Mất ngủ lúc đêm uống 1-3 viên trước khi đi ngủ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Viêm thận nặng kèm vô niệu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không uống rượu hoặc bất kỳ thứ gì có rượu khi dùng thuốc. Thuốc có thể kéo dài phản xạ gân gót"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vericardine (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Papaverin HCl 0,015g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quinin HBr 0,02g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phenobarbital 0,02g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao Sơn tra 0,15g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Làm êm dịu. Điều hòa hệ thần kinh thực vật và tim mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Rối loạn chức năng tim, dễ kích thích : đánh trống ngực, hồi hộp, đau trước tim, co rút, đau nhức đầu chi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 1-3 viên trước một trong các bữa ăn chính."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mất ngủ co rút về đêm, uống 2-4 viên lúc đi ngủ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Rối loạn chuyển hóa porphyrin, suy hô hấp nặng, thiếu G6PD"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Thuốc làm buồn ngủ- Cấm uống rượu và bất cứ thứ gì có rượu khi dùng thuốc"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Verorab (Pasteur Merieux-Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Imovax Rabies Vero"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ thuốc tiêm 1 liều. kèm ống tiêm chứa sẵn 0,5ml dung môi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Vaccin phòng dại đã mất hoạt tính. Để điều trị những người bị chó dại cắn hoặc phòng dại cho nhân viên thú y."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Chỉ dùng tiêm bắp hoặc tiêm dưới da- Phòng dại : 2 lần tiêm cách nhau 1 nắm, và sau đó cứ 3 năm 1 lần."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Sốt tiến triển (hoãn tiêm)- sau khi lấy nhiễm không có chống chỉ định."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Người đã tiêm chủng, bị con vật cắn hoặc lây nhiễm bắt buộc phải đi khám, mang theo giấy chứng nhận tiêm chủng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thận trọng với người dị ứng Streptomycin, Neomycin, Polymycin B."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tại chỗ tiêm, hiếm gặp ban đỏ nổi cục cứng nhỏ (24-48 giờ), vài trường hợp tăng thân nhiệt, suy nhược tạm thời."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nếu đang sốt cấp, hoặc phụ nữ có thai, có thể trì hoãn tiêm vaccin này."
+  },
+  {
+   "block_label": "number",
+   "block_content": "564"
+  }
+ ]
+}

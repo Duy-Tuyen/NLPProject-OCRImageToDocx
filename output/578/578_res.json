@@ -1,1 +1,169 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "nang. Tiêm truyền tĩnh mạch : 2-4 ống 15mg pha vào 250ml dung dịch NaCl hoặc glucose đẳng trương. Còn dùng tiêm bắp : Ngày 1-2 ống 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Các thề tân tạo ở não kèm tăng áp lực nội sọ ; phụ nữ có thai."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Thuốc không có tác dụng hạ huyết áp lâu dài."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Khi tiêm truyền phải chậm, khoảng cách 2 lần tiêm là 12 giờ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Nếu di chứng nhồi máu cơ tim, rối loạn nhịp tim, dùng liều thấp tăng từ từ, theo dõi điện tâm đồ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Nếu hạ kali huyết, cần điều chỉnh trước khi dùng thuốc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tương tác thuốc : Chống chỉ định với amiodaron, bepridil, disopyramid, erythromycin IV, hydroquinidin, sotalol, sultoprid (nguy cơ gây xoắn đỉnh). Khuyên không phối hợp với : amphoterecin B IV, glucomineralocorticoid, tetracosactid, các thuốc lợi tiểu hạ kali huyết, các thuốc nhuận tràng kích thích (gây hạ kali huyết)."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vincamin cetoglutarat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biệt dược : Oxovinca (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén 20mg, lọ 90ml thuốc giọt uống 1,33g/100ml."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Như Vicamin."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các rối loạn tâm thần, cư xử do chứng lão hóa ở não."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Trung bình uống 2 lần, sáng và tối, mỗi lần 1 viên hay 30 giọt (nếu bị nặng có thể uống tới 3 lần)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : U não kèm tăng áp lực sọ não. Phụ nữ có thai."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Trong các di chứng nhồi máu cơ tim và loạn nhịp cần dùng liều tăng dần, và có theo dõi điện tâm đồ - Khi có giảm kali huyết, làm thay đổi tính chịu kích thích của cơ tim, cần điều chỉnh kali- huyết trước khi dùng - Thuốc không có tác dụng làm hạ huyết áp, nên với người bị tăng huyết áp vẫn phải dùng thuốc điều trị đặc hiệu"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vincristin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vincaleukoblastin ; 22-oxo -leucocristin (Viết tắt là VCR)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ thuốc bột đông khô 0,5mg kèm 10ml dung dịch NaCl 0,9%. Lọ 1mg/1ml"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Chống ung thư- Chống nguyên nhân. Là một alcaloid chiết xuất từ cây Dừa cạn. (Vinca rosea) có tác dụng ức chế phân bào ở các bạch cầu và tế bào ung thư."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bệnh bạch cầu lymphô và tủy cấp tính ở trẻ em, u bào thần kinh, bệnh Hodgkin sarcôm lưới."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tiêm tĩnh mạch -trẻ em 0,03mg/kg/7ngày. Sau tăng dần liều tối đa là 0,1mg/kg/7 ngày. Liều duy trì : 0,025kg/7ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Giảm bạch cầu."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vindesin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ thuốc bột đông khô 1-4 và 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Chống ung thư - chống nguyên nhân. Kim tế bào ung thư phát triển tương tự như vincristin."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Tăng bạch cầu lymphô cấp và u lymphô đã dùng những thứ thuốc khác mà chưa khỏi. Các u rắn ở vú, thực quản, ung thư phế quản - phổi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Chỉ dùng tiêm tĩnh mạch. người lớn : 3mg/m2 bề mặt thân thể /7-10ngày. Trẻ em : 4mg/m2/7-10 ngày. Đợt dùng 30 ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Phụ nữ có thai hoặc nuôi con bú. Giảm bạch cầu, giảm tiểu cầu. Người nhiễm khuẩn nặng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vineran (Hàn Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Retinol acetat 5000 đvqt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ergocalciferol 400 đvqt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kem 8 vitamin khác và 6 muối khoáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bổ xung các vitamin và muối khoáng cho cơ thể."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn ngày 1 viên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Còn có Bd Vineran S - viên nén có 2mg retinol acetat, 60mg tocopherol acetat 10 muối khoáng. Chỉ định và liều dùng cũng như trên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vinorelbin ditartrat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biệt dược : Navelbine (pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ thuốc tiêm 1ml 13,85mg tương ứng với 10mg vinorelbin base và lọ 5ml có 69,25mg tương ứng 50mg vinorelbin base."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Thuốc chống ung thư kìm tế bào"
+  },
+  {
+   "block_label": "number",
+   "block_content": "567"
+  }
+ ]
+}

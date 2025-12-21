@@ -1,1 +1,257 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Verrulyse - methionine (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg oxyd 0,225g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Methionin 0,25g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ca glycerophosphat 0,018g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg glycerophosphat 0,012g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Fe glycerophosphat 0,009g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Na glycerophosphat 0,009g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Tác dụng đến sự dinh dưỡng của mô."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Hạt cơm (mụn cóc) phẳng, kép. Hạt cơm chân tay, u nhú."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 2-4 viên/ngày, vào đầu các bữa ăn. Trẻ em dùng 1/2 liều."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Veybirol -Tyrothricine"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : 2 lọ chứa dung dịch rửa và xúc miệng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Lọ A 15ml có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dung dịch formaldehyd 4,40g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cồn thuốc thực vật (cúc trừ sâu, Cúc yên chi, gayac, đinh hương) 2,65g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cồn 50° vđ 100ml"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Lọ B có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tyrothricin 2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Diệt khuẩn, trừ vi nấm, kháng viêm, liền sẹo."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm họng, viêm amidan-Ap tơ. Diễn biến phẫu thuật. Tẩy khuẩn các thương tồn ung thư. Răng khôn, áp xe răng chảy mủ. Nhổ răng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Pha 1 lượng thuốc theo chỉ dẫn trong đơn, với 1/2 ly nước ấm. Rửa hay xúc miệng 2-3 lần/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "V -Fol (Ấn Độ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Viên nén hoặc nang chứa 150mg sắt II sulfat khô và 1mg folic."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vibtil"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có : bột khí dung gỗ cây đoạn 0,25g (Aubier de tilleul)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Liệu pháp cây thuốc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Rối loạn tiêu hóa, trướng bụng, ợ hơi, chậm tiêu, buồn nôn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 3-6 viên/ngày. chia 3 lần- Tre em dùng 1/2liều trên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vicalin (Nga)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Mỗi viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bismuth sous nitrat 0,35g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg carbonat basic 0,4g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri bicarbonat 0,2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột rễ Acorus 0,023g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột vỏ Nerprun 0, 025g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Khelin 0,05g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rutin 0,005g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Điều trị loét dạ dày- tá tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn uống 1-2 viên, một lần, ngày uống 3 lần, sau các bưã ăn. Hòa với nước. Uống trong 4-8 tuần lễ. Nghỉ 1 tháng rồi lại có thể tiếp tục."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vi-Caps (Thụy Sĩ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Viên nang các vitamin cần thiết và muối khoáng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vicks Inhaler"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống hít có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Desoxyephedrin 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "thuốc Vicks đặc hiệu có : menthol, long não, methyl salicylat, bornyl acetat)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Giảm nghẹt mũi do cảm lạnh, sổ mũi mùa, thông xoang mũi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Đặt ống hít ở mũi, bịt mũi bên kia, hít vào mạnh- dùng lại khi cần."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vicks Throat Lozenges"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Benzocain 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cetylpyridinium chlorid 1,66mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thuốc Vicks đặc hiệu (menthol, long não, dầu khuynh diệp)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Dịu ho, dịu đau cổ họng do ho, cảm lạnh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Trẻ em trên 3 tuổi - người lớn : ngậm 1 viên tan dần trong miệng. Ngậm lại hằng giờ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không nên dùng quá 2 ngày, đặc biệt là trẻ em"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vicks Vaporub"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 38g/90g thuốc mỡ có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Menthol 1,045/2,774g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long não 1,9/4,5g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu nhựa thông 1,9/4,5g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu khuynh diệp 0,57/1,35g"
+  },
+  {
+   "block_label": "number",
+   "block_content": "565"
+  }
+ ]
+}

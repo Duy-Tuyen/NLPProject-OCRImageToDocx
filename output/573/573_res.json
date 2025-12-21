@@ -1,1 +1,257 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vapo - myrtol (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 600ml dung dịch để xông mũi, gồm có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Borneol 60mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Menthol 240mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu myrte 0,30g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu niaouli 1,20g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu thym 120g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Eucalyptol 2,4g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Sát khuẩn và chống cương tụ ở đường hô hấp trên và phế quản."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các chứng bệnh có cương tụ ở đường hô hấp trên (mũi họng) và phế quản."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày xông mũi- họng từ 3- 5 lần - mỗi lần dùng một thìa càfê hòa vào một bát nước thật nóng, nhưng không sôi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Trẻ em dưới 8 tuổi và có tiền sử kinh giật."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Nếu có phản ứng dị ứng, ngừng thuốc ngay"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Varoma (Hàn Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 100ml chứa:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gel Al hydroxyd 22,9g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột nhão 30% Mg hyroxyd 13,34g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhũ dịch 30% simethicon 13,3g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Đau dạ dày, ợ chua, buồn nôn..."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày 4 lần x 10-20ml, xa bữa ăn, và khi đi ngủ."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vascocitrol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống uống 10ml có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Citroflavonoid 0,1g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg ascorbat 0,25g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cholin citrat 1g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Betain 0,2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao pectin Mg của cam quýt 0,3g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Trợ tĩnh mạch, che chở mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Triệu chứng liên hệ tới suy tĩnh mạch - bạch huyết : chân nặng, dị cảm, co rút, đau nhức. Giãn mao mạch ở da (bầm máu, đốm xuất huyết). Rối loạn tuần hoàn võng mạc và màng mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : 2-3 ống/ngày, uống với ít nước."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Có thể tăng liều nếu cần thiết."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vascuton"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Các oligome của dehydro-cyanidin cây Cupressus sempervirens 0,1g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lactose 0,048g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh bột ngô 0,02g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Levilit 0,02g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Na sulfat khan 0,02g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg stearat 0,02g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Che chở mạch, chống phù, chống viêm, trị chảy máu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm võng mạc dịch rỉ (viêm võng mạc tuổi già, tăng huyết áp, đái tháo đường nhiễm khuẩn). Hội chứng thiệu máu cục bộ do động mạch xơ cứng, do tuổi già, do cận thị biến chứng, do glôcôm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn uống 2 viên một lần, ngày uống 2-3 lần. Trẻ em uống 1 viên 1 lần, ngày uống 3 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vaselin gomenol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống 15g thuốc mỡ có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gomenol 5g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vaselin dược dụng vđ 100g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng bệnh mũi hầu, sổ mũi. viêm mũi hầu cấp và mạn tính, chảy nước mũi, viêm mũi, viêm mũi khô có khuynh hướng teo."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Bôi lên niêm mạc mũi nhiều lần mỗi ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vaselin stérilisée Hamel"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống thuốc mỡ vô khuẩn chứa vaselin dược dụng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Làm thông trơn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Băng che chở da và niêm mạc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Bôi tại chỗ"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vasocalm (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao Ribes nigrum 150mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Papaverin HCl 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Meprobamat 100mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Rối loạn tập tính tâm thần tuổi già : chóng mặt, ù tai, rối loạn thị giác, viêm động mạch chán, vài rối loạn mạch tứ chi (hội chứng đầu chi)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 3 viên/ngày. (vào giữa 3 bữa ăn chính)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Tăng áp lực sọ. rối loạn dẫn truyền trong tim. Có thai"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Cấm uống rượu, kể cả nước có rượu khi dùng thuốc- Thuốc gây buồn ngủ- Không kết hợp với levodopa - Cần theo dõi chức năng gan- Không có tác"
+  },
+  {
+   "block_label": "number",
+   "block_content": "562"
+  }
+ ]
+}

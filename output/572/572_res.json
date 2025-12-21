@@ -1,1 +1,181 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Là hỗn dịch vi khuẩn tả trọng huyết thanh mặn. 1ml có 7 tỷ phẩy khuẩn tả. Tiêm trong da phòng bệnh tả : tiêm 3 lần, mỗi lần 0,1ml cách nhau 7-10 ngày. Sau 6 tháng tiêm nhắc lại 0,1ml trong da. Trẻ em trên 12 tháng có thể tiêm được, liều lượng như người lớn. Bảo quản : 2°C-10°C. Quá hạn không được dùng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vaccin phòng bệnh tả với TAB"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vaccin tứ liên phòng thương hàn A và B và tả. Vaccin được sản xuất 1ml có V. cholerae Ogawa và Inaba+ V. Eltor Ogawa và Inaba : 6 tỷ. Salmonela typhi : 1 tỷ. Sparatyphi A : 250 triệu và Sparatyphi B : 250 triệu. Tất cả đã được giết bằng formalin."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tiêm dưới da 3 lần, mỗi lần 0,1ml, cách nhau 7-10 ngày. Có thể tiêm cho trẻ em từ 6 tháng tuổi trở lên. Thời gian miễn dịch ít nhất 1 năm. Nếu đe dọa có dịch tiêm nhắc lại 6 tháng 1 lần, 0,1ml. Bảo quản 4°C-12°C."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tránh dùng nếu bị sốt hoặc quá yếu"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vagostalbyl Monin (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Marjolain oléosacharur 0,1g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci lactat 0,1g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cimicifuga 0,035g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg hyposulfid 0,01g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Trị rối loạn trương lực thần kinh phế vị"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Mất cân bằng thần kinh phế vị, đánh trống ngực, rối loạn nhịp tim, ưu tư, Basedow rối loạn thần kinh lúc mãn kinh, chóng mặt, khó thở từng cơn, mất ngủ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : 3 ngày đầu uống 6-8 viên/ngày, các ngày sau giảm đi còn 2 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vargan (Hàn Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin A (hạt) 8mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin D (hạt) 8mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin E (50%) 60mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C (hạt) 60mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "và 6 vitamin khác, 6 muối khoáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các trường hợp thiếu hụt vitamin và muối khoáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày 1 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Valerbé"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang trắng có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao khô Valerian 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid ascorbic 100mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiamin HCl 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Pyridoxin HCl 100mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "viên nang xanh không có acid ascorbic"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Viên nang trắng : tăng trương lực cơ não (dùng buổi sáng)- viên nang xanh : giữ nguyên tính chất làm êm dịu (dùng buổi chiều)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các triệu chứng xuất hiện khi cai thuốc, phụ trị chữa giải độc nghiện."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 4-6viên/ngày trong 60ngày- chia đều những viên trắng vào buổi sáng (trước lúc ăn), các viên xanh vào buổi chiều- tối lúc đi ngủ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không uống rượu khi dùng thuốc - Ở một vài người có thể bị rối loạn tiêu hóa (buồn nôn, nặng bụng)."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vạn ứng cao"
+  },
+  {
+   "block_label": "text",
+   "block_content": "(Cao thương nhĩ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Cao mềm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Toàn cây Ké phơi khô, cắt nhỏ, nấu với nước, Lọc - Nấu thành cao mềm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Mụn nhọt, lở loét bướu cổ, ung thư phát bối (đằng sau lưng) đau răng, đau cổ họng. viêm mũi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống trước khi ăn cơm 16-20g/ lần x 3 lần/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vạn ứng cao"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Cao : Sinh địa hoàng, mao truật, chỉ xác, ngũ gia bì, nga truật, đào nhân, sơn nại, đương quy, xuyên ô, trần bì, ô dược, tam lăng, hà thủ ô, sài hồ, phòng phong, lựu ký nô, nha tạo, xuyên khung, quan quế, khương hoạt, uy linh tiên, xích thược dược, thiên nam tinh, hương phụ, kinh giới, bạch chỉ, cao bản, xuyên đoạn, cao lương khương, độc hoạt, ma hoàng, cam tùng, liên kiều, mỗi vị 12g Cho vào 2,5kg dầu vừng, nấu nhuyễn, lọc, bỏ bã cho vào 100g tóc rối nhào thành cao, thêm nhục quế, xạ hương (mỗi vị 4g) phụ tử phiến, mộc hương (mỗi vị 8g), băng phiến long não, hồi hương, nhũ hương, một dược, a ngùy, tế tân (mỗi vị 12g), khuấy kỹ. Phết lên giấy bản, vừa đủ dùng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Dán lên mụn nhọt để làm vỡ mủ."
+  },
+  {
+   "block_label": "number",
+   "block_content": "561"
+  }
+ ]
+}

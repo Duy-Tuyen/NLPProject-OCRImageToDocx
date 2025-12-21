@@ -1,1 +1,289 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu Nhục đậu khấu 0,285/0,67g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu lá Bạch dương 0,285/0,285g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thymol 0,095/0,095g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Thuốc mỡ tàn máu đường hô hấp."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm mũi cấp tính, viêm phế quản cấp tính, cúm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Xoa lên ngực và lưng, buổi tối lúc ngủ, xoa 4-5 phút, xoa 2-3 lần/ngày nếu cần."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không dùng cho trẻ em dưới 30 tháng. Thận trọng khi dùng cho trẻ em : 30 tháng -7 tuổi và khi bị tổn thương da, thương tổn trái rộng, sâu."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vidaylin M (Mỹ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 60ml và 480ml sirô, cứ 5ml có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin A 3000 đvqt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B1 1,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B2 1,2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B6 1mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B12 3mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin D 400 đvqt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin PP 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sắt 3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Iod 75mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci 40mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phospho 43mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Magnesium 3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dexpanthenol 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mangan 500mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kẽm 500mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cholin 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Inositol 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Tăng cường các vitamin và chất khoáng cần thiết cho trẻ em, phòng và điều trị thiếu vitamin, khoáng do chế độ ăn hạn chế."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biệt dược : VI-Daylin/F + Iron : Có thêm Fluor (Phòng bệnh răng)."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Viferron (Indonesia)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén (caplet) chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin A acetat 5000 UI"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin D 400 UI"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B1 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B2 3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitiamin B6 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B12 100mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Niacinamid 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ca pantothenat 3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci lactat 250mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sắt II fumarat 60mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid folic 0,6mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin E 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lysin HCl 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cu SO4 0,3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg SO4 3,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mn Cl2 0,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Zn SO4 0,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "NaF 0,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "15ml sirô cũng chứa các hoạt chất trên với khối lượng tương ứng, thay sắt fumarat bằng 150mg sắt gluconat và có thêm 128mg cao gan."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng và trị các trường hợp thiếu hụt vitamin và muối khoáng cho phụ nữ có thai hoặc nuôi con bú."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vikaira (Nga)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vicairum"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biệt dược tương tự : Roter (Pháp) Vikalin (Ba Lan)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bismuth base 0,35g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Magnesium carbonat 0,4g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri bicarbonat 0,2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột Rhamnus frangula (bourdaine) 25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calamus 25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Chống loét dạ dày- tá tràng và rối loạn chức năng dạ dày -ruột."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Loét dạ dày - tá tràng, viêm dạ dày do tăng acid dịch vị."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày uống 3 lần, mỗi lần 1-2viên, vào ngay sau bữa ăn, pha vào cốc nước ấm. Đợt dùng 1-2 tháng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Trẻ dưới 16 tháng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vincamin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén 5-10 và 20mg. Viên nang 30mg. Ống tiêm 1ml = 5mg và 3ml =15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Alcaloid của cây Vinca minor làm tăng lưu thông lượng máu não và lượng oxy cung cấp cho neuron."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các rối loạn tâm thần- cư xử ở người già (như hay quên, chóng mặt, ù tai, khó ngủ). Dùng sau tai biến mạch máu não cấp, di chứng chấn thương sọ não. rối loạn ốc -tiền đình (ở trong tai), rối loạn võng mạc do thiếu máu cục bộ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày 3 lần, mỗi lần 10-20mg, uống vào bữa ăn. Hoặc 2 lần, mỗi lần 1 viên"
+  },
+  {
+   "block_label": "number",
+   "block_content": "566"
+  }
+ ]
+}
