@@ -1,1 +1,245 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Cao bạc hà 0,05g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao viễn chí 0,05g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao khiên ngưu 0,05g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Nabenzoat 0,03g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Ho cấp hay ho mạn tính, ho do kích ứng, ho gió, ho gà. Hen suyễn, cảm cúm, sổ mũi. Viêm khí quản, viêm phế quản."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn uống 1-2viên/lần. Ngày uống 4-6viên. -Tre em : từ 5-8 tuổi uống 1/2 viên-1 viên/lần Ngày uống 1-2 viên - Trẻ em từ 10-15 tuổi uống mỗi lần 1 viên. Ngày uống 2-4 viên."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pectol E\n(Cty DP Sài Gòn -Sago-pha)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : 100ml sirô có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cồn Cây bọ mắm 2g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Eucalyptol 0,2ml"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao núc nác 2g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Sirô viễn chí 10g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Sirô trần bì 30g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Sirô benzoin 30g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Sirô húng chanh vđ 100ml"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Làm dịu ho, sát khuẩn đường hô hấp, long đờm, an thần, lợi tiểu."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các chứng ho : cơn dai dẳng, ho gió, ho gà, viêm khí quản, viêm phế quản cấp và mạn tính, hen suyễn, cảm cúm, sổ mũi trẻ em."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Trẻ sơ sinh < 1 tuổi : Uống 1 thìa càfê/lần x 1-3 thìa càfê/ngày. Trẻ em từ 2-6 tuổi uống 1-2 thìa càfê/lần x 3 lần/ngày. Trẻ 6 tuổi uống 2-3 thìa càfê/lần x 3 lần/ngày."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pectussin (XNDP23)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên ngậm có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Menthol 4mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tinh dầu eucalyptus 0,5ml"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Sát khuẩn miệng họng, viêm họng, ho, long đờm."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngậm 1-2 viên/lần x 3 - 4 lần/ngày"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pereflat (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Mỗi viên có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Polysilan 310mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Bột đông khô tuyến tụy toàn phần 172mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Trị đầy hơi dạ dày- tá tràng- Giúp cho tiêu hóa"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Đầy hơi, chướng bụng- Rối loạn tiêu hóa trẻ còn bú, khó tiêu"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Liệu tấn công, người lớn : dùng 2 viên mỗi lần, 3 lần/ngày. Liều duy trì : người lớn dùng 1 viên mỗi ngày, 3 lần/ngày. Trẻ em còn bú uống 1 viên/5kg thể trọng, chia 2-3 lần. Uống sau bữa ăn."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Peristaltine (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Mỗi viên có 0,1g cao Cascara."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Nhuận tràng thuộc nhóm anthraquinon."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Táo bón."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn uống 1-2 viên/ngày. Trẻ em trên 3 tuổi uống 1 viên, sau bữa ăn chiều."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Viêm đại tràng- Đau bụng không rõ nguyên nhân."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Không dùng thuốc lâu dài- Tránh dùng khi có thai hoặc đang nuôi con bú. Nếu ỉa chảy, đau bụng thì ngừng thuốc."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Permixon (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén bọc 160mg cao lipidsterol của cây Serenoa repens (loài ké ở Florida)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Ức chế chuyển hóa của dihydrotestosteron ở tuyến tiền liệt."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các biểu hiện chức năng ở adenôm tuyến tiền liệt (như đái rắt, khó tiểu tiện, cảm giác nặng ở vùng hố chậu)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày 4 viên, chia 2 lần, vào bữa ăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Uống vào lúc đói, có thể gây buồn nôn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược tương tự : Capistan 160 (Sanofi- Winthrop)"
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Perskindol Classic (Thụy sĩ)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Túi gel 6ml"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Menthol 1,5%"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Pine oil 1,35%"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Wintergreen oil 0,35%"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Orange oil 0,34%"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lemon oil 0,1%"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Bergamot oil 0,1%"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Rosemary oil 0,06%"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lavender oil 0,02%"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Terpineol 0,1%"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Terpenyl acetat 0,1%"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Lam giảm đau nhức cơ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Đau và nhức cơ, khớp liên quan với thấp khớp, viêm khớp. Căng cơ quá"
+    },
+    {
+      "block_label": "number",
+      "block_content": "508"
+    }
+  ]
+}

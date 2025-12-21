@@ -1,1 +1,205 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Dinatriphosphat khan 7,76g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Magne glycerophosphat 1,74g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Tăng phospho cho cơ thể, kích thích hoạt tính của tế bào xương."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Loãng xương, nhuyễn xương. Tạng co giật, tăng calci niệu, sỏi vôi, gãy xương."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Tăng phospho huyết, kèm suy thận. Giảm calci huyết."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn : uống 150-200 giọt. chia 2-3lần, uống vào mỗi bữa ăn. Trẻ em 10 tuổi, uống 5 giọt/ngày. Trẻ em 10-15 tuổi, uống 75-100 giọt/ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Liều dùng tăng dần để đạt hiệu quả mong muốn. Không dùng cho trẻ em dưới 30tháng. Dùng lâu dài cần theo dõi sự vôi hóa ngoài xương. Có thể bị buồn nôn, nôn, đau dạ dày."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Phosphorylcholin"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dẫn xuất muối calci:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Epaspes"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dẫn xuất muối mgne :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Heparexin(Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Gói thuốc cốm 0,75g phosphorylcholin (muối Mg)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Lợi mật- Nhuận tràng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Chậm tiêu- đầy bụng- táo bón."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống : 4-6gói/ngày, trước bữa ăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Duy trì : 2-4gói/ngày, trước bữa ăn- Lợi mật : uống 2 gói buổi sáng, lúc đói."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Suy thận nặng."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Phytin"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Calci và magne inosito-hexaphosphat"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén 0,25g, thuốc cốm 10%."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Thu được từ cám gạo. Bồi dưỡng Calci và Phospho."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Suy nhược thần kinh, kém ăn, trẻ em chậm lớn, chậm mọc răng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn : ngày 0,5-1g. Trẻ em : 0,25 đến 1g/ngày."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Phytol (XNDP2/9 - Nadyphar)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Lọ 120ml dd uống (cứ 100ml dd có 30ml cao Actisô)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các bệnh về gan (xem \"cynara scolymus\")"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn ngày 2 lần x 1 thìa càfê."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Trẻ em : nửa liều trên."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Placentafil (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Ống tiêm 2ml và 5ml dùng đắp tại chỗ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Bào chế từ rau thai theo phương pháp Philatôp (10%). Có tác dụng, kích thích dinh dưỡng không đặc hiệu."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Vết thương lành chậm, ghép giác mạc, thấp khớp thoái hóa,hư khớp. Người gầy sút, ảnh hưởng đến toàn thân, nhất là ở người đứng tuổi. Cận thị nặng tiến triển."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày tiêm dưới da hoặc bắp thịt 1 ống 2ml. Đợt dùng 18-24 ngày. Thấm vào gạc dung dịch trong ống 5ml để đắp tại chỗ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Rất hiếm xảy ra mẩn đỏ hoặc mày đay."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Plantacid (Indonesia)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén đề nhai/5ml dịch treo chứa :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mg hydroxyd 300mg/500mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Al hydroxyd 300mg/400mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dimeticon 30mg/100mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Chống acid dịch vị và đầy hơi."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Điều trị triệu chứng đau vùng thượng vị, đau dạ dày do tăng acid dịch vị, viêm dạ dày, loét dạ dày- tá tràng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 1 giờ sau bữa ăn hoặc khi đi ngủ buổi tối 1-2 viên nén hoặc 5-10ml dịch treo. Nếu bị nặng cứ 2 giờ có thể uống 1 lần như trên."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Không nên dùng liên tục quá 2 tuần."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược tương tự : Antigas plus (Canada)."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Plantago ovata"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược : Igol (Raptakos Brett)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Thuốc cốm gói 6g, có Plantago ovata 3,932g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Cây thuốc họ Mã đề. Thuốc dạng vảy, hút nước nhanh, tạo thành khối nhão, 1g thuốc + 20ml nước để 1 giờ sẽ tạo hơn 20ml khối nhão. Tác dụng chủ yếu do các polysacharid, giữ nước, kích thích cơ tròn, tăng nhu động ruột, tạo khối phân,"
+    },
+    {
+      "block_label": "number",
+      "block_content": "512"
+    }
+  ]
+}

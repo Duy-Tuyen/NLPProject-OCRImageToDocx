@@ -1,1 +1,225 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Fe fumarat 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Phối hợp 11 vitamin và 6 chất khoáng cần thiết cho cơ thể người lớn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 1viên/ngày, vào các bữa ăn."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Paraphlebon"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược : Circanetten (Evers và CoGMBH)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nang có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Paraphlebon 200mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Folliculi sennac 15mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Sulfur dep 15mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Bitartrat Kali 15mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Paraphlebon là dẫn xuất của Keratin."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Bệnh trĩ và các triệu chứng có liên quan như ngứa, viêm, các triệu chứng bệnh lý tim mạch (làm bền thành mạch, cầm máu giảm đau, nhuận tràng), táo bón."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 2 viên/lần x 3lần/ngày. Kịch phát dùng liên tục 14 ngày. - Dùng lâu dài, cứ uống 14 ngày lại nghỉ 1 tháng. Uống sau bữa ăn - Không nhai viên thuốc."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Hẹp ruột - sa hậu môn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Cân nhắc khi dùng phụ nữ mang thai hoặc nuôi con bú."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Có thể bị nhuận tràng quá mức."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Passedyl (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Lọ 150ml sirô có Na benzoat, sulfogaiacol, cồn ngọt terpin, cồn thuốc Drosera và Grindelia, Kali bromid, sirô tolu, sirô Polygala...."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các triệu chứng ho có tiết dịch phế quản trong các bệnh phế quản -phổi ở trẻ em."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Trẻ em dưới : 5 tuổi : ngày 2-3 lần x 5ml."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Trên 5 tuổi : Ngày 3-5 lần x 1 thìa càfê."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pectigels (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Gói 10g bột có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Al pentasilicat 3,5g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mg pentasilicat 1,7g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Pectin 0,3g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Sorbitol 1,5g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Kháng acid - Hấp thụ khí và độc tố ở ruột. Điều hòa chuyển hóa ruột."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Viêm thực quản - Thoát vị khe thực quản - Viêm loét dạ dày-tá tràng- Vài biểu hiện của bệnh đại tràng chức năng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn uống 1 gói x 3 lần/ngày, vào bữa ăn. Trẻ em uống 1 gói x 2 lần/ngày - Trẻ còn bú uống 1 gói chia 3 lần."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Dùng thuốc khác nên cách xa Pectigels (giảm hiệu lực do hấp thụ)."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pectin"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Là dẫn chất uronic có trong vỏ bưởi, táo, có tác dụng cầm máu."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Ống thuốc uống 20ml chứa:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Pectin 0,3g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Natri menadion bisulfit 20mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "NaCl 140mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin C 50mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Natri metabisulfit 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Calci chlorid trong nước tinh chế 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Chảy máu trước và sau phẫu thuật trong các khoa : Tai Mũi Họng, Răng Hàm Mặt. Phụ khoa, Ngoại khoa. Chảy máu đường tiêu hóa, tiết niệu."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn và trẻ em : - Uống: pha ống thuốc vào nửa cốc nước có pha đường. - Khoa nội: ngày 3-4 ống, chia vài lần. - Các khoa kẻ trên: 10 giờ trước khi mổ uống 3-4 ống; 48 giờ sau phẫu thuật: uống 4 ống. - Dùng tại chỗ: Thụt rửa hậu môn: 2 ống; thụt âm đạo: 1 ống/ngày. Thấm vào gạc hoặc để súc miệng."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pectipar (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Gói PE chứa dịch treo uống có:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cồn opi 250mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kaolin nặng 2,3g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Phối hợp với cồn opi làm giảm nhu động và tiết dịch với chất hấp thụ hơi và độc tố ở đường tiêu hóa."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Điều trị triệu chứng ỉa chảy không thực thể ở người lớn, kết hợp với bù nước."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn, cứ 3 giờ uống 1 gói cho tới khi phân trở lại bình thường. Khi dùng không cần pha loãng. - Trẻ em dưới 15 tuổi dùng cần có thầy thuốc chỉ định."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Trẻ em dưới 30 tháng; đang cơn cấp viêm trực tràng chảy máu."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pectol\n(Cty DP Sài Gòn - Sagopha)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Một viên cao có:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Terpin hydrat 0,05g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao cát cánh 0,05g"
+    },
+    {
+      "block_label": "number",
+      "block_content": "507"
+    }
+  ]
+}

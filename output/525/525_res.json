@@ -1,1 +1,229 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Kem bôi 2% đóng ống 20g và hộp 100g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Là một polysacarit nguồn gốc thiên nhiên ở Việt Nam, có tác dụng kháng khuẩn với nhiều chủng, gram âm và gram dương kể cả trực khuẩn mủ xanh, kháng nấm nhất là Candida- albicans -Còn có tác dụng tăng sinh tế bào da."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các vết bỏng, vết thương nhiễm khuẩn, mụn nhọt, lở loét, nấm...."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Sau khi rửa vết thương, bôi thuốc lên tổn thượng hoặc gạc vô khuẩn, đắp gạc băng kín vết thương. Ngày dùng 1 lần."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Chưa nhận thấy."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Polytar liquid (Stiefel- Anh)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Thuốc gói dầu đóng lọ 65ml chứa 0,3% dầu Cade, 0,3% tar BP, 0,1% dung dịch Coal tar USP, 0,3% Coaltar chiết xuất bằng dầu lạc và 10% oleyl alcohol- với pH 5,5."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Sát khuẩn và chống tiết bã dầu nhờn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Bệnh vẩy nến, tiết bã nhờn ở da đầu, ngứa da đầu kèm gầu. Làm sạch và mượt tóc."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Tuần lễ gội đầu 1-2 lần. Thấm ướt tóc. Bôi thuốc vào tóc và sát mạnh cho thuốc ngấm vào da đầu. - Rồi gội tráng lại bằng nước sạch."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pommade Midy\n(Sanofi- Việt Nam)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Ống thuốc mỡ bôi hậu môn 40g ; cứ 100g chứa :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Amylein HCl 1g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Benzocain 1g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao Hamamelis 0,5g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao hạt dẻ Ấn Độ 2,5g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Điều trị triệu chứng đau, ngứa, cương tụ trong bệnh trĩ và loét hậu môn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày bôi 1-2 lần, sau hoặc trước khi đi ngoài."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Mẫn cảm với benzocain."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Prefagyl Oberlin (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên sủi bọt có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mg chlorid 0,01g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Na bicarbonat 0,14g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Na sulfat 0,285g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dinatriphosphat 0,195g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Na bromid 0,15g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Trung hòa acid dạ dày. Nhuận tràng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các rối loạn do acid gây nên, ợ nóng, hồi lưu dạ dày - thực quản, buồn nôn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn uống 1-2 viên, sau bữa ăn hay vào lúc khó chịu."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Trẻ em 1/2 viên trong 100g nước đường."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Trẻ còn bú uống 1/4 viên trong 100g nước đường."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Không dùng thuốc lâu dài (trầm, dịu, ban brôm, trứng cá). Ỉa chảy, đau bụng phải ngừng thuốc."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Preparation H (Pháp-Mỹ)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Thuốc đạn/ống thuốc mỡ 25g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Butoform 0,02g/0"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao cồn nước"
+    },
+    {
+      "block_label": "text",
+      "block_content": "men bia 25mg/405mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Esculosid 1mg/0"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dầu gan cá 1500UI/810mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tinh dầu thym 25mg/0"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Gây tê (giảm đau,chống ngứa): butoform. Bảo vệ mao mạch, chống cương tụ. : esculosid."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Làm tổn thương mau lành : vitamin A và men bia. Tinh dầu thym (diệt khuẩn)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Đau ngứa, cương tụ trong cơn đau trĩ và các bệnh ở hậu môn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Thuốc đạn nạp 1 viên sáng, tối, sau khi đại tiện."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Thuốc mỡ : Ngày bôi 2 lần."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Mẫn cảm thuốc."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Proctolog (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Ống 20g thuốc mỡ/thuốc đạn có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Trimebutin 1,16g/120mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Các ruscogenines 0,1g/10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Chữa trĩ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Viêm hậu môn trĩ, nứt kẽ hậu môn, viêm hậu môn có nứt, chảy máu trực tràng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Bôi 1-2 lần thuốc/ngày. Đặt 1-2 thuốc đạn/ngày."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Procto-glyvenol\n(Ciba-Geigy)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Kem bôi hậu môn ống 30mg : Thuốc đạn hộp 5 viên:"
+    },
+    {
+      "block_label": "number",
+      "block_content": "514"
+    }
+  ]
+}

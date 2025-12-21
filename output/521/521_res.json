@@ -1,1 +1,305 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pharmasan (Đức)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén bọc có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tinh dầu Bạc hà 1,1mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Menthol 0,8mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Anisol 0,3mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Long não 0,15mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tinh dầu Tiểu hồi 0,15mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Đường 470mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Cảm ho, viêm họng, viêm thanh quản, viêm phế quản."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn ngày ngậm 1-2 viên một lần, 2 -4lần/ngày."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pharmaton (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nang có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Deanol bitartrat 26mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao khô đậm đặc Nhân sâm 40mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Retinol palmitat(Vit A) 4000 đvqt"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Thiamin mononitrat (Vit B1) 2mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Riboflavin 2mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Pyridoxin HCl 1mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vtamin B12 1mcg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Acid ascorbic(Vit. C) 60mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Nicotinamid (Vit. PP) 15mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Ergocalciferol(Vit D2) 400 đvqt"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin E 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Đồng sulfat 2,51mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mangan sulfat 2,45mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kẽm oxid 1,25mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Ca fluorid 0,42mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Sắt II sulfat 50mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kali sulfat 9mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Magne sulfat 50,7mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dicalciphosphat 325mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tá dược : Bột lecithin, dầu thảo mộc một phần hydrogen hóa, dầu đậu tương hydrogen hóa, sáp vàng, ethyl vanilin, methoxy- acetophenon."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các trường hợp cơ thể suy nhược, lao lực, ăn uống kém ngon, gầy sút...."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Dùng cho người lớn theo liều : ngày uống 2 lần, mỗi lần 1 viên vào bữa ăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Đang có sỏi thận, bị động kinh (do có deanol)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Do liều tượng đối cao vitamin A, nên cần lưu ý đến việc quá liều vitamin A- Do có vitamin B12 và sắt có thể gây khó chẩn đoán chứng thiếu máu- Tránh uống vào buổi chiều vì có thể gây khó ngủ (do có deanol) - Không dùng cho người cai rượu - Không dùng cho người bệnh Parkinson đang điều trị bằng levodopa (vì tác dụng của thuốc bị vitamin B6 ức chế) - Do có muối calci, không uống đồng thời với tetracyclin (phải uống cách nhau ít nhất 3giờ.)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Pharmaton, Super Pharmaton (Australia, Mỹ...) cũng có thành phần tương tự và cùng chỉ định."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pharmax (Mỹ)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên thuôn có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao nhân sâm K8000 40mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lecithin 50mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Rutin 20mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin A 5000 dvqt"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B1 2mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B2 2mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B6 2mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B12 36mcg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin C 60mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin D 400 dvqt"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin E 45 dvqt"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin PP 20mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Acid pantothenic 14mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Sắt 18mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Đồng 2mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Magnesium 40mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kẽm 4mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Calci 90mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Phosphor 70mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mangan 1mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kali 8mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Phối hợp cao nhân sâm với lecithin, 11 vitamin và 8 nguyên tố vô cơ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các trường hợp suy nhược cơ thể."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn, ngày uống 1 viên."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược tương tự : Ginseng Arik (Pháp): Viên nang chứa 250mg bột rễ nhân sâm kèm các vitamin B1, B2, B6, C, E, và các nguyên tố vi lượng: Al, Cu, Fe, Mg, P, K, Si...."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pharmax gel (Mỹ)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Hộp 4 vỉ, mỗi vỉ 15 nang mềm- mỗi nang mềm chứa :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao Nhân sâm 40mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao Aloe vera 5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lecithin 50mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "11 loại vitamin và 8 muối khoáng giống như viên Pharmax (caplet)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định và liều dùng : Như viên hình thuôn \"Pharmax\"."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pharmax G2 (Mỹ)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Hộp 4 vỉ, mỗi vỉ 10 nang mềm- Mỗi nang mềm như viên \"Pharmax gel\" trên đây có thêm 40mg cao bạch quả, Ginkgo biloba."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Cao bạch quả có tác dụng điều chỉnh các rối loạn về mặt chuyển hóa ở"
+    },
+    {
+      "block_label": "number",
+      "block_content": "510"
+    }
+  ]
+}

@@ -1,1 +1,265 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "mức, bong gân, đau lưng, cứng cổ, vết bầm tím - Co cứng cơ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Xoa thuốc lên vùng thương tổn 3-4 lần/ngày. Xoa nhẹ một lát để thuốc dễ hấp thụ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Thuốc chỉ dùng ngoài da. Không để thuốc tiếp xúc với mắt, màng nhầy. - Không dùng cho dụng cụ và đệm sưởi ấm. Không bôi lên vết thương hở - Để thuốc xa nơi nóng, hoặc lửa."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Peruvosid"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên bọc đường 0,3mg, thuốc giọt 1ml/0,3mg (tương ứng 20 giọt), ống tiêm 2ml/0,3mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Glucosid cường tim, lấy từ cây thông thiên, (Thevetia neriifolia), tác dụng tương tự như oleandrin."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Suy tim mạn ở người già, suy tim do lao động nặng, hoặc suy thận kèm mạch chậm, bềnh tim phổi mạn.- Phòng suy tim mất bù trước hay sau khi mổ, sau khi mới ốm dậy."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Tác dụng chậm : người lớn, ngày 3 lần, mỗi lần 1 viên hoặc 20 giọt. Đợt dùng 7-9 ngày. Tác dụng nhanh : ngày tiêm tĩnh mạch 2 lần, mỗi lần 1 ống, dùng 3-4 ngày, hoặc ngày 4 lần mỗi lần 1 viên hoặc 20 giọt. Liều duy trì : như trên. Uống sau bữa ăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Viêm cơ tim cấp, nhĩ thất phân ly."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "PF gel (Ấn Độ)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Lọ 200 và 400ml gel để uống : cứ 5ml chứa :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dimeticon hoạt hóa 125mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mg hydroxyd 100mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Al hydroxyd gel 5g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Sorbitol dd 645mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các chứng đầy bụng chậm tiêu, tăng acid dịch vị, viêm dạ dày- tá tràng, viêm thực quản, thoát vị hoành..."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày uống 3-4 lần x 1-2 thìa càfê."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "PFT (Ấn Độ)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tên khác : Powerpacked Fast acting Tablets"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén chứa :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dimeticon hoạt hóa 25mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mg hydroxyd 400mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Gel khô Al hydroxyd 400mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Như biệt dược PF gel."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày 3-4 lần x 1 viên, nhai kỹ sau bữa ăn."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Phakormone S.T (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Ống thuốc có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao tuyến cận giáp 2mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao buồng trứng 20mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cao tinh hoàn 320mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Estron 5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Calci levulinat 350mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Chữa đục thủy tinh thể, (đục nhân mắt người già) ngay khi mới xuất hiện triệu chứng đầu tiên."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Ngày uống 1 ống, trước bữa ăn nửa giờ."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pharbiton (Amphraco-Mỹ)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nang mềm chứa :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Bột sâm Triều tiên 200mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Cholin bitartrat 35mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Men bia 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin A (palmitat) 5500UI"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin D 400UI"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin E 3UI"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B1 3,5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B2 2,4mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B6 0,6mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin B12 1,5mcg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Niacinamid 12mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "d-Calci pantothenat 3,5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biotin 3mcg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Các ion như :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Calci 110mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Phosphor 85mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Sắt 12mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Iod 120mcg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mg 5mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Zn 0,2mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Mn 50mcg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kali 6mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dầu mầm lúa mì 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các trường hợp suy nhược cơ thể, mỏi mệt, ăn kém ngon..."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn : ngày 1 viên."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Pharmagin plus (Hàn Quốc)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Viên nang chứa nhân sâm 12 vitamin, khoáng vi lượng và lecithin."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 1 viên/ngày."
+    },
+    {
+      "block_label": "number",
+      "block_content": "509"
+    }
+  ]
+}
