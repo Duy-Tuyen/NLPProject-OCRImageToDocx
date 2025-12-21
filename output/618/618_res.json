@@ -1,1 +1,53 @@
-{}
+{
+ "has_image": true,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "đầu nhọn, dài 5 - 10cm, rộng 3 - 5cm, mép răng cưa không đều, cuống lá dài 3 - 4cm. Hoa nhỏ, mầu tím nhạt hay trắng, không cuống, mọc so le trên 2 hàng, thành cụm hoa hình xim bọ cạp dài 7 - 10cm, ở đầu cành hay nách lá, đầu uốn lại như cái vòi con voi. Quả gồm 4 hạch nhỏ, dài độ 4mm, khi chín thì tách ra.\nCây vòi voi mọc hoang khắp nơi ở nước ta, tại các bãi hoang, và ven đường. Các nước gần ta : Campuchia, Lào, Ấn Độ cũng có."
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thu hái chế biến : Cắt lấy những đoạn thân cành, dài độ 25 - 30cm, chỉ lấy phần trên mặt đất, có nhiều lá và hoa, phơi, sấy ở nhiệt độ dưới 60°C là được."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thủy phần dưới 13p100.\nTạp chất dưới 2p100."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thành phần hóa học : Trong cây vòi voi có các alcaloid : heliotrin, indicin C15H25O5N và indicin N-oxyd."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Công dụng : Theo Đông y (DĐVN 1983), vòi voi vị đắng nhạt, hơi cay, mùi hăng, tính mát. Có tác dụng : thông huyết, trừ phong thấp (một số người coi là Nam độc hoạt), thanh nhiệt, tiêu viêm, giải độc.\nChữa các chứng bệnh : phong thấp, sưng khớp, lưng gối nhức mỏi, viêm họng, nhọt viêm tấy, mẩn ngứa.\nBệnh viện Hải Dương đã dùng ngoài da (dạng cao rượu vòi voi) đắp trong 3 - 4 ngày liên tục chữa bong gân, tụ huyết, bầm sưng, chấn thương, áp xe, viêm hạch - tác dụng rất tốt. Cũng có thể dùng cây tươi, sao với rượu giã nát đắp chữa đau gối sưng đỏ, không đi lại được - Đắp liên tục hàng tháng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Theo Poiteau (Matières Medicales malgaches) thì cây vòi voi gây ứ tắc tĩnh mạch cửa (veine porte) và gây ung thư gan mà không có triệu chứng báo trước."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : 15 - 40g (dạng thuốc sắc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Người già, cơ thể suy nhược, tỳ vị hư hàn, ỉa chảy, chân tay lạnh không nên dùng.\n- Do tính chất vòi voi có thể gây tác hại đối với gan (gây ung thư) không báo trước, nên chúng ta cần thận trọng khi uống, chỉ nên dùng đắp ngoài da để bảo đảm an toàn. Bộ Y tế cũng đã có chỉ thị cẩn thận trọng khi dùng vòi voi làm thuốc."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Xoan nhà"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xem phần Cây thuốc - Bài thuốc"
+  },
+  {
+   "block_label": "number",
+   "block_content": "600"
+  }
+ ]
+}

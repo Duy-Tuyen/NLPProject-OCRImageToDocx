@@ -1,1 +1,277 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B2 2,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B6 0,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B12 1mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nicotinamid 40mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci pantothenat 4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid folic 0,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C 75mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin E 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cholin bitartat 314mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "DL-methionin 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Inositol 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci 75mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "P 58mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Fe 30mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mo 0,1mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "K 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Zn 0,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cu 0,45mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "I 0,075mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg 3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mn 0,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Cơ thể bị thiếu hụt vitamin và muối khoáng : lao lực, mới ốm dậy, người già yếu..."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày 1 viên (nuốt viên thuốc vào bữa ăn)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Dị ứng với iod."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vivacidol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống thuốc có trên triệu vi khuẩn Bacillus acidophilus."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Trị ỉa chảy, do vi khuẩn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng ỉa chảy do dùng kháng sinh. Chữa triệu chứng ỉa chảy không phải thực tổn của người lớn, trẻ em."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn uống 3-6 ống/ngày, trẻ em uống 2-4 ống/ngày. Uống xa bưã ăn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Cần bù nước - điện giải nếu thấy cần thiết."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vulcase (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu huỳnh rửa sạch 0,037g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao mật tinh lọc sấy khô 0,038g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột belladon 0,010g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lô hội 0,045g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo 0,009g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Táo bón."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 1-5 viên/ngày, vào buổi sáng, lúc đói hoặc 17 giờ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Trẻ em dưới 15 tuổi - Bí đái do rối loạn niệu đạo - tuyến tiền liệt. Glôcôm góc đóng- Đau bụng không rõ nguyên nhân."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không dùng thuốc lâu dài. Nếu bị ỉa chảy, đau bụng thì ngừng thuốc."
+  },
+  {
+   "block_label": "doc_title",
+   "block_content": "W"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Wart- off (Mỹ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ thuốc bôi 15ml chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid salicylic 17%"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cồn ethylic 18,1%"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Long não 47,7%"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kèm dầu thầu dầu,, acid lactic, ête, và pyroxylin.)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Làm tróc mụn cơm - (mụn cóc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày bôi 1-2 lần."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Chỉ bôi thuốc đúng hột cơm (mụn cóc), không bôi loang ra xung quanh. Trước khi bôi, rửa sạch mụn cơm bằng nước nóng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Weidoson (Đài loan)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Oxetacain 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Al hydroxyd gel 124mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg carbonat 83mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Loét dạ dày- tá tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn uống 1-2 viên 1 lần, 3 lần/ngày, vào sau bưã ăn hoặc lúc đau."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Weisen -U (Nhật Bản)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin U 25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg trisilicat 145mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diastase 60mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao mật bò 1mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri glycyrrhizinat 33mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Menthol 1mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid glucuronic 17mg"
+  },
+  {
+   "block_label": "number",
+   "block_content": "578"
+  }
+ ]
+}

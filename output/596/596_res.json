@@ -1,61 +1,89 @@
 {
-  "has_image": true,
-  "parsing_res_list": [
-    {
-      "block_label": "text",
-      "block_content": "va chạm, do đập chết cá trong thuyền làm vỡ dập, trứng, ruột, gan nên các độc tốc lan ngấm sang thịt cá làm nhiễm độc - dù khi ăn người ta đã bỏ ruột, gan trứng đi, vẫn gây ngộ độc. Hơn nữa độc tố cá nóc lại không bị nhiệt phá hủy, khi nấu chín vẫn tồn tại."
-    },
-    {
-      "block_label": "image",
-      "block_content": ""
-    },
-    {
-      "block_label": "text",
-      "block_content": "Tetrodoxin tác động lên hệ thần kinh trung ương làm cơ thể bị tê liệt, ngưng hệ tuần hoàn và hệ hô hấp.\nTriệu chứng ngộ độc có thể xuất hiện sau khi ăn từ 2 giờ đến 20 giờ, ngộ độc nặng thì chỉ sau 30 phút : người bị nạn thấy tê môi, tê lưỡi, các đầu ngón tay, ngón chân như có kiến bò, nôn mửa, sây sẩm, da tím tái, chân tay tê liệt dần, rồi toàn thân tê cứng, nhưng vẫn tỉnh táo đến lúc chết.\nCần hết sức thận trọng khi ăn cá nóc, không cho trẻ em ăn, nếu có triệu chứng ban đầu cần đưa cấp cứu ngay.\nLưu ý : Tây y hiện dùng Tetrodotoxin với liều rất nhỏ để giảm đau những cơn đau nặng ở giai đoạn cuối của bệnh ung thư."
-    },
-    {
-      "block_label": "paragraph_title",
-      "block_content": "Chẹo"
-    },
-    {
-      "block_label": "text",
-      "block_content": "Tên khoa học : Engelhardtia chrysolepis Hance (Engelhardtia wallichiana Lindl), họ Hồ đào (Juglandaceae)\nTên khác : Hoàng khôi - Nhân khôi - Cây cơi."
-    },
-    {
-      "block_label": "image",
-      "block_content": ""
-    },
-    {
-      "block_label": "text",
-      "block_content": "Mô tả cây : Cây nhỡ, cao khoảng 8m, cành và cuống lá mềm yếu - Lá kép lông chim chẵn, gồm 2 - 5 đôi lá chét hình trứng dài, dai, có cuống. Lá chét phía trên dài hơn, phiến lá chét dài 5 - 15mm. Hoa đực hình đuôi sóc, mọc từ cành. Hoa gần như không cuống, cụm hoa cái mọc ở phía trên hoa đực cũng hình đuôi sóc, có cuống - Quả mọc thành bông dài khoảng 25cm. Hạt được bao bọc bởi lá bắc có 3 thùy.\nCây mọc hoang ở vùng rừng núi nước ta - Còn có ở Malaysia, Lào, tây nam Trung Quốc.\nThành phần hóa học : Chưa rõ - Biết là có chất độc ở lá và vỏ.\nCông dụng : Chưa dùng làm thuốc - Nhân dân thường dùng vỏ, lá cây giã nát, cho vào nước suối để duốc cá."
-    },
-    {
-      "block_label": "paragraph_title",
-      "block_content": "Chu sa"
-    },
-    {
-      "block_label": "text",
-      "block_content": "Xem Phần Khoáng chất làm thuốc"
-    },
-    {
-      "block_label": "paragraph_title",
-      "block_content": "Cóc"
-    },
-    {
-      "block_label": "text",
-      "block_content": "Xem Phần Động vật làm thuốc"
-    },
-    {
-      "block_label": "paragraph_title",
-      "block_content": "Cúc trừ sâu"
-    },
-    {
-      "block_label": "text",
-      "block_content": "Tên khoa học : Chrysanthemum"
-    },
-    {
-      "block_label": "number",
-      "block_content": "586"
-    }
-  ]
+ "has_image": true,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "va chạm, do đập chết cá trong thuyền làm vỡ dập, trứng, ruột, gan nên các độc tốc lan ngấm sang thịt cả làm nhiễm độc - dù khi ăn người ta đã bỏ ruột, gan trứng đi, vẫn gây ngộ độc. Hơn nữa độc tố cá nóc lại không bị nhiệt phá hủy, khi nấu chín vẫn tồn tại."
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tetrodoxin tác động lên hệ thần kinh trung ương làm cơ thể bị tê liệt, ngưng hệ tuần hoàn và hệ hô hấp."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Triệu chứng ngộ độc có thể xuất hiện sau khi ăn từ 2 giờ đến 20 giờ, ngộ độc nặng thì chỉ sau 30 phút : người bị nạn thấy tê môi, tê lưỡi, các đầu ngón tay, ngón chân như có kiến bò, nôn mửa, sây sẩm, da tím tái, chân tay tê liệt dần, rồi toàn thân tê cứng, nhưng vẫn tỉnh táo đến lúc chết."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cần hết sức thận trọng khi ăn cá nóc, không cho trẻ em ăn, nếu có triệu chứng ban đầu cần đưa cấp cứu ngay."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tây y hiện dùng Tetrodotoxin với liều rất nhỏ để giảm đau những cơn đau nặng ở giai đoạn cuối của bệnh ung thư."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Chẹo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khoa học : Engelhardtia chrysolepis Hance (Engelhardtia wallichiana Lindl), họ Hồ đào (Juglandaceae)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Hoàng khởi - Nhân khởi - Cây cơi."
+  },
+  {
+    "block_label": "image",
+    "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mô tả cây : Cây nhỡ, cao khoảng 8m, cành và cuống lá mềm yếu - Lá kép lông chim chẵn, gồm 2 - 5 đôi lá chét hình trứng dài, dai, có cuống. Lá chét phía trên dài hơn, phiến lá chét dài 5 - 15mm. Hoa đực hình đuôi sóc, mọc từ cành. Hoa gần như không cuống, cụm hoa cái mọc ở phía trên hoa đực cũng hình đuôi sóc, có cuống - Quả mọc thành bông dài khoảng 25cm. Hạt được bao bọc bởi lá bắc có 3 thùy."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cây mọc hoang ở vùng rừng núi nước ta - Còn có ở Malaysia, Lào, tây nam Trung Quốc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thành phần hóa học : Chưa rõ - Biết là có chất độc ở lá và vỏ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Công dụng : Chưa dùng làm thuốc - Nhân dân thường dùng vỏ, lá cây giã nát, cho vào nước suối để duốc cá."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Chu sa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xem Phần Khoáng chất làm thuốc"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Cóc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xem Phần Động vật làm thuốc"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Cúc trừ sâu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khoa học : Chrysanthemum"
+  },
+  {
+   "block_label": "number",
+   "block_content": "586"
+  }
+ ]
 }

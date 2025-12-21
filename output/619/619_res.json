@@ -1,1 +1,65 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "BÀO CHẾ VÀ SỬ DỤNG ĐÔNG DƯỢC"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Chương I\nY lý phương Đông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kho tàng lý luận của y dược học cổ truyền dân tộc của nhân dân Á đông bắt nguồn từ nền triết học phương Đông. Các vị danh y lỗi lạc đã tổng kết những kinh nghiệm thực tiễn từ ngàn đời của nhân dân, quy nạp đúc kết, thành lý luận chung trên các nguyên lý của học thuyết Âm Dương, Ngũ Hành phân loại chúng bệnh, phân loại thuốc, đề ra các phương pháp chữa bệnh, sử dụng và bào chế thuốc làm cho cơ thể dễ hấp thụ, thuốc dễ \"ngấm\" để đạt mục đích phục hồi sức khỏe con người."
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "1.1. Âm Dương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Người xưa đã quan sát kỹ lưỡng và lâu dài thiên nhiên và nhận thấy rằng mọi sự vật luôn luôn biến hóa, sự biến hóa này lại có quy luật, có chu kỳ, có qua các giai đoạn chuyên tiếp."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhìn chung mọi sự vật có thể phân làm hai loại đối lập nhau như :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Ban ngày, sáng, nóng, mặt trời, giống đực, cái hoạt động v.v... thuộc về Dương."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Ban đêm, tối, lạnh, mặt trăng, giống cái, cái trầm tĩnh v.v... thuộc về Âm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Âm Dương là thuộc tính mâu thuẫn nằm trong tất cả mọi sự vật. Nó giải thích hiện tượng mâu thuẫn chi phối mọi sự biến hóa và phát triển của sự vật."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trong y dược - về mặt chẩn đoán bệnh :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Khi nhìn thấy (vọng) : mặt đỏ, mắt sáng, người khỏe -thuộc chứng Dương. Mặt xanh nhợt, mắt lờ đờ, người yếu - thuộc chứng Âm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Khi nghe (văn) : tiếng nói, thở mạnh - thuộc chứng Dương. Tiếng nói thở yếu- thuộc chứng Âm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Khi hỏi (vấn) : nóng sốt, táo bón, khát nước - thuộc chứng Dương. Mát lạnh, đi lỏng, không khát - thuộc chứng Âm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Khi bắt mạch (thiết) : mạch nổi, to, nhanh.... thuộc chứng Dương. Mạch chìm, nhỏ, chậm... thuộc chứng Âm."
+  },
+  {
+   "block_label": "number",
+   "block_content": "601"
+  }
+ ]
+}

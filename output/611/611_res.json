@@ -1,1 +1,37 @@
-{}
+{
+ "has_image": true,
+ "parsing_res_list": [
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "VÀNG ĐẮNG"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "VÒI VOI"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "VÔNG VANG"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "XẤU HỔ"
+  }
+ ]
+}

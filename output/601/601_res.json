@@ -1,1 +1,65 @@
-{}
+{
+ "has_image": true,
+ "parsing_res_list": [
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "Công dụng : Không dùng làm thuốc - Quả có chất độc.\nThường là do dùng nhầm hoặc giả mạo vào hồi thật, dùng phải, rất dễ xảy ra ngộ độc."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Hột mát"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khoa học : Antheroporum pierrei Gag- nep. họ Cánh bướm (Papilionaceae)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Cây xa - Thàn mát"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mô tả cây : Cây to, cao từ 10 - 25m. Lá kép lông chim, gồm từ 5 - 7 - 9 lá chét, mọc đối, dai, nhẵn, dài 7 - 11cm, rộng 3 - 4cm, cuống dài 6 - 7mm. Hóa tự mọc thành chùm ở kẽ lá hoặc đầu cành, màu hồng tím nhạt. Quả giáp dài 6cm, rộng 3,5cm, dày 1,5 - 12mm, không cuống. Mỗi quả 1 hạt, hình trứng dài 15mm, rộng 14mm, dày 8 - 10mm, bóng, đỏ nâu.\nCây hột mát mọc hoang ở vùng rừng núi nước ta, được trồng nhiều ở miền nam Trung Bộ và Nam Bộ - tại Hà Tĩnh, Quảng Bình thường được trồng quanh vườn.\nMùa thu hoạch hạt mát tháng 5 - 6."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thành phần hóa học : Sơ bộ thấy hạt mát có : chất dầu, chất gồm, nhựa độc với cá - Một ít rotenon, một chất không phải glucosid, alcaloid, không độc với cá, một saponin trung tính độc và một saponin acid. Tán hạt hột mát cho vào nước có nuôi cá, cá bị say và chết. Chất độc có tập trung ở lá mầm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Công dụng : Cây hột mát không dùng làm thuốc - Nhân dân dùng hạt, tán nhỏ, duốc cá."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Hùng hoàng"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xem phần Khoáng chất làm thuốc"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Hương bài"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khoa học : Dianella ensifolia DC. (Dianella odorata Lamk, Dianella javanica Kunth, Dianella Sand wicensis Hook et Arn, Dianella nemorosa (L) DC. họ Hành (Liliaceae)"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "number",
+   "block_content": "591"
+  }
+ ]
+}

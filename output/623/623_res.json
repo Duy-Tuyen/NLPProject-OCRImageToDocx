@@ -1,1 +1,57 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.2. Ngũ vị"
+  },
+  {
+   "block_label": "text",
+   "block_content": "\"Vị\" tức là mùi vị của thuốc. Ngũ vị là 5 vị : cay, ngọt, chua, đắng, mặn. Những mùi, vị này của thuốc được xác định nhờ vị giác, nhưng có thể nhờ kết quả thực tế qua điều trị. Vì mùi, vị thuốc khác nhau, nên tác dụng của thuốc cũng khác nhau. Có thể tóm tắt như sau :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "2.1- Cay có thể làm xua tan (tán), làm lưu thông (hành) tác dụng cụ thể là làm toát mồ hôi, hành khí, thích hợp để chữa các bệnh thuộc biểu (ở bên ngoài cơ thể) và các chứng do khí tắc, huyết ứ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "2.2- Chua có thể thu sáp, tác dụng cụ thể là hãm mồ hôi, cầm ỉa lỏng, chống ho, cố tinh (giữ tinh khí), giảm đi đái, thích hợp để chữa các chứng cơ thể hư, tự ra mồ hôi, tỳ hư đi tả lâu ngày, phế hư ho lâu ngày, thận hư di tinh, hoạt tinh, đái không giữ được, đái dắt....."
+  },
+  {
+   "block_label": "text",
+   "block_content": "2.3- Đắng có thể xố, tháo cụ thể là tả nhiệt, tháo thấp, thích hợp để chưa các chứng nóng đầu, bí đại tiện, hoặc thấp nhiệt sinh mụn nhọt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "2.4- Mặn có thể làm mềm, dẫn đi xuống, tác dụng cụ thể là làm mềm những thứ kết cứng thành khối, làm tan chỗ bị kết đọng, nhuận tràng, thông đại tiện thích hợp để chữa các chứng kết thũng, bí tắc, đại tiện táo bón."
+  },
+  {
+   "block_label": "text",
+   "block_content": "2.5- Ngọt có thể bổ, hòa hoãn tác dụng cụ thể là bổ ích khí huyết, giảm nhẹ các cơn đau đớn, co quắp, điều hòa tính vị các loại thuốc, thích hợp để chữa các chứng hư và một vài chứng đau dẫn đến co quắp, cũng còn dùng để làm tá dược khi bào chế thuốc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngoài ra còn có thuốc vị nhạt, có thể thấm, có thể lợi tác dụng cụ thể là thấm thấp, lợi niệu thích hợp để chữa các chứng tiểu tiện ít, thủy thũng. Vị nhạt thường được coi là phụ vào vị ngọt, vì vậy chỉ kể 5 vị."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Giữa khí và vị có liên hệ qua lại. Cả hai thứ khí và vị phải kết hợp mật thiết với nhau mới có thể cắt nghĩa toàn diện tính năng của thuốc. Ví như Hoàng liên và Bèo cái cũng là thuốc hàn, cũng có tác dụng thanh nhiệt, nhưng Hoàng liên hàn mà đắng, có thể tả hỏa nhiệt ở trong, bèo cái hàn mà cay có thể làm tan phong nhiệt ở ngoài. Như vậy 2 thứ vừa giống nhau vừa khác nhau."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lại như Lộc nhung và Sinh địa đều là thuốc ngọt, cùng có tác dụng bổ, ích, nhưng Lộc nhung ngọt mà tính ôn có thể làm ấm thận tráng dương, Sinh địa ngọt mà tính hàn có thể bồi thận nuôi Âm. Như vậy hai thứ cũng vừa giống nhau lại vừa khác nhau."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lại như có thuốc một tính mà nhiều vị. Khi vận dụng trên lâm sàng ngoài việc nắm vững tính chất chung, còn phải biết rõ tác dụng riêng, để phân tích chọn lọc một cách đúng đắn."
+  },
+{
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.3. Thăng giáng, phù trầm (đi lên, đi xuống - nổi lên, lặn vào)"
+  }
+ ]
+}

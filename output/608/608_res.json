@@ -1,1 +1,37 @@
-{}
+{
+ "has_image": true,
+ "parsing_res_list": [
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "THANH CAO HOA VÀNG"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "THẢO QUẢ"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "THẢO QUYẾT MINH"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "THIÊN LÝ"
+  }
+ ]
+}

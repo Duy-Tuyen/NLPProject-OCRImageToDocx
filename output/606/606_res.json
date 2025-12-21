@@ -1,1 +1,37 @@
-{}
+{
+ "has_image": true,
+ "parsing_res_list": [
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "SÀ SÀNG"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "SÀI ĐẤT"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "SÂM BỐ CHÍNH"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "SÂM VN"
+  }
+ ]
+}

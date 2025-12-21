@@ -1,1 +1,337 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B6 2,2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cyanocobalamin 3mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid folic 0,4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ascorbic acid 60mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cholecalciferol 5mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin E 9mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nicotinanid 16mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sắt II fumarat 18mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kẽm sulfat 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đồng sulfat 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kali iodid 0,15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mangan sulfat 32,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Crom chlorid 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri seleni 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri molybdat 0,15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bổ xung các vitamin và 8 muối khoáng cần thiết cho cơ thể."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày uống 1 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitaporan (Hàn Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Nang mềm chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin A 4000 IU"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ergocalciferol 400 IU"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiamin HCl 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Riboflavin 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Pyridoxin HCl 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cyanocobalamin 5mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C 70mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Niacinamid 20mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid folic 100mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci pantothenat 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tocopherol acetat 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bổ xung vitamin cho cơ thể."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn, ngày dùng 1 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitarnin (Thụy sĩ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Viên sủi bọt polyvitamin và muối khoáng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitarutin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 15ml nhỏ mắt có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rutin 300mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nicotinamid 75mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Cân bằng hệ mao mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Rối loạn sức đề kháng mao mạch kết mạc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Nhỏ 4-6 lần/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitasol (XNDP Dược Hậu giang)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Thuốc giọt- Lọ 20ml"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B1 20mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B2 4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B6 20mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci gluconat 200mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng ngừa thiếu vitamin, calci - Suy nhược cơ thể."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : 1 thìa càfê /ngày. Trẻ em 20 - 30 giọt x 2-3 lần/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitaton (Australia)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang chứa nhân sâm, seleni và các vitamin E, B1, B2, B6, PP và C."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Điều trị chứng suy nhược chức năng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn ngày 1-2 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitazym (Indonesia)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên bọc đường chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Pancreatin 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Papain 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mật bò 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột Nghệ 35mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột cao gan khô 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B1 3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B2 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B6 25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B12 2,5mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci pantothenat 1,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Niacinamid 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sắt II sulfat 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg sulfat 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci carbonat 20mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đồng sulfat 300mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Zn sulfat 500mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kali iodid 430mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri photphat 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Phối hợp men tiêu hóa, vitamin và muối khoáng, để tăng cường chức năng tiêu hóa đồng thời tạo môi trường tối ưu cho chuyển hóa tế bào."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các rối loạn tiêu hóa như đầy bụng, buồn nôn, chậm tiêu, rối loạn gan mật, kích thích ăn ngon và phát triển ở cơ thể trẻ em."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày 3 lần, sau bữa ăn, mỗi lần : trẻ em 1 viên, người lớn 1-2 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitron (Mepha - Thụy Sĩ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang (\"Suscap\") chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin A 3333UI"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin D2 1000UI"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B1 5mg"
+  },
+  {
+   "block_label": "number",
+   "block_content": "577"
+  }
+ ]
+}

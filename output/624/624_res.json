@@ -1,1 +1,57 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Thăng giáng, phù trầm là hai khái niệm để chỉ 4 xu hướng tác dụng khác nhau của thuốc trên cơ thể. Xuất phát từ cơ chế và triệu chứng mà phân tích thì thường các bệnh có thể chia ra các chiều hướng như sau :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- đi lên (như nôn, mửa, ợ, nấc, hen suyễn)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- đi xuống (như ỉa chảy, băng huyết, lòi rom)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "- đi ra, nổi lên (như khí dương nổi quá mà phát sốt nóng, ra mồ hôi)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "-Đi vào, lặn vào (như đầy chướng bụng, đại tiện bí)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nếu lựa chọn đúng thuốc để chữa bệnh thì thường có thể làm hết hoặc cải thiện các tình trạng trên. Các tính chất thăng, giáng, phù trầm, là những khái niệm diễn đạt các chiều hướng đối lập giữa tác dụng của thuốc và biểu hiện của bệnh. Các thuốc thăng, phù chủ yếu đưa lên và đi ra có tác dụng thăng Dương, phát ra biểu, làm tan hàn. Các thuốc trầm, giáng chủ yếu đưa xuống và đi vào, có tác dụng làm chìm Dương, giáng nghịch, thu liễm, thanh nhiệt, thấm thấp, xố."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tính thăng, giáng, phù, trầm của thuốc và khí, vị của thuốc có liên quan với nhau. Ví dụ các thuốc ngọt, ôn như Ma hoàng, Quế chi chủ yếu là thăng phù. Các thuốc đắng, mặn, hàn, lương như Đại hoàng, Mang tiêu chủ yếu là trầm, giáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chất thuốc nặng nhẹ, hoặc bộ phận dùng của cây thuốc có quan hệ với thăng giám, phù trầm. Ví dụ các thuốc nhẹ và hoa, lá vỏ, lông như lá Dâu, Khoản đông hoa v.v....yếu là thăng, phù. Các thuốc nặng, và các hạt như Tô tử, Từ thạch v..v... chủ yếu là trầm giáng. Nhưng những điểm trên không phải là tuyệt đối, như Toàn phúc hoa lại giáng, hoặc Thương nhĩ tử (quả Ké đầu ngựa) lại thăng. Đó là vì trong cái chung vẫn có cái riêng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mọi sự mâu thuẫn, trong những điều kiện nhất định đều có thể chuyển hóa lẫn nhau. Tính thăng giáng, phù trầm cũng vậy. Như sao rượu thì thăng, sao gừng thì tán (xua tan) sao dấm thì thu liễm, sao nước muối thì đưa xuống. Lại có thể tùy theo sự phối ngũ trong bài thuốc mà khác đi. Như thuốc thăng phù đi với nhiều thuốc trầm giáng cũng có thể bị giáng theo. Thuốc trầm giáng đi với nhiều thuốc thăng phù cũng có thể được thăng cùng. Do đó khi vận dụng trên lâm sàng, không những nắm vững toàn bộ tính năng của các loại thuốc, mà còn phải biết rõ được các quan hệ chuyển hóa qua lại của chúng, thì mới ứng biến linh hoạt được."
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.4. Quy kinh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kinh lạc và quy kinh (xem ở chương I)"
+  },
+  {
+   "block_label": "number",
+   "block_content": "606"
+  }
+ ]
+}

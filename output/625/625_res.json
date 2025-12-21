@@ -1,1 +1,57 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Chương III\nChế biến thuốc Đông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nguồn gốc thuốc Đông phần lớn là từ các thực vật hoang dại hoặc được trồng, một số là động vật hoang hoặc nuôi và một số là khoáng vật tự nhiên. Muốn sử dụng để chữa bệnh thường phải qua chế biến. Nói chung có thể chia thành 2 phần :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chế biến riêng (sơ chế) từ cây thuốc, động vật.... thành thuốc sống rồi bào chế riêng từng vị từ thuốc sống thành thuốc chín."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bào chế từ vị thuốc thành dạng thuốc để dùng chữa bệnh."
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "3.1 Chế biến và bào chế từng vị thuốc"
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "3.1.1- Phần chế biến sơ bộ phần lớn được thực hiện ở nơi thu hái để được thuốc sống, dễ bảo quản hơn. Thường gồm các giai đoạn cắt, tỉa, chọn lọc, rửa, phơi sấy khô. Nhưng cũng có khi qua sấy, ủ.. công phu hơn như chế biến Hoài sơn, Sinh địa. Thuốc sống (tức là dược liệu) nói chung chưa dùng để chữa bệnh."
+  },
+  {
+   "block_label": "sub_sub_paragraph_title",
+   "block_content": "3.1.2- Bào chế (từ thuốc sống thành thuốc chín) là phần được thực hiện ở hiệu thuốc Đông, để chuẩn bị bốc thang thuốc hoặc chế thành dạng thuốc đưa cho người bệnh dùng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mục đích việc bào chế thuốc để làm tăng tác dụng chữa bệnh giảm bớt độc tính hoặc tác dụng phụ không tốt của thuốc cũng như làm chuyển biến được tính để sử dụng chữa bệnh được thuận tiện."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ví dụ : Diên hồ sách chế dấm để tăng tác dụng giảm đau, Địa du sao than để làm tăng tác dụng cầm máu, Đại kích, Cam toại sau khi nấu dấm có thể giảm độc tính, Hà thủ ô đỏ qua chưng rượu mất tác dụng phụ không tốt là gây ỉa chảy. Địa hoàng dùng sống (Sinh địa) thì tính hàn mà lương huyết, qua chưng rượu thành Thục địa thì ôn tính mà bổ huyết. Bồ hoàng (cỏ nến) dùng sống thì lưu thông máu (hành huyết) phá ứ, sao than thì cầm máu v.v..."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Các phương pháp bào chế thông thường :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rửa : dùng nước rửa hết bùn đất, tạp chất ở dược liệu. Việc này phải làm nhanh (như xối vòi nước, không làm xây xát, vụn nát, gẫy dược liệu, tránh làm thất thoát hoạt chất)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngâm : đem các dược liệu tương đối cứng rắn (như hạt cau) dìm hẳn vào nước trong hẳn một thời gian tương đối lâu để làm mềm, dễ cắt, thái lát. Hoặc tẩm thêm chất phụ để loại bớt độc tố. Phải tùy dược liệu to hay nhỏ, thô hay mịn, mềm hay cứng cũng như thời tiết, nhiệt độ, độ ẩm v.v... khác nhau"
+  },
+  {
+   "block_label": "number",
+   "block_content": "607"
+  }
+ ]
+}

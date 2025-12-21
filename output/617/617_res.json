@@ -1,1 +1,77 @@
-{}
+{
+ "has_image": true,
+ "parsing_res_list": [
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Trúc đào"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khoa học : Nerium oleander L. họ Trúc đào (Apocynaceae)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Giáp trúc đào (TQ) - Laurier-rose (Pháp)"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bộ phận dùng : Lá đã chế biến khô của cây trúc đào (Folium Nerii)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mô tả cây : Trúc đào là một loại cây nhỡ, có nhiều cành, có thể cao 2 - 5m, cành ròn dễ gãy. Toàn bộ thân, cành, lá... bẻ, cắt ngang đều có chảy mủ trắng lỏng. Lá mọc đối hay mọc vòng 3 lá một, phiến lá đơn, hình thuôn như lá tre, dài 7 - 20cm, rộng 1 - 3cm, mép nguyên, các gân lá đều, chạy ngang song song từ 2 bên gân chính. Hoa mẫu hồng đẹp hay mầu trắng, mọc thành xim dạng ngù ở ngọn cành. Quả gồm 2 đại, mảnh, dài trong có nhiều hạt có nhiều lông.\nMùa hoa : tháng 6 - 9.\nCây trúc đào gốc ở vùng Địa Trung Hải, được nhập vào nước ta thời kỳ gần đây, (có thể do người Pháp), để làm cảnh, vì cây rất dễ trồng : chỉ cần cắt những đoạn cành bánh tẻ dài 20 - 40cm, cắm nghiêng vào đất, tưới giữ đất ẩm là cây phát triển tốt, từ 1 năm sau đã có thể thu hoạch lá, càng về sau thu hoạch càng nhiều vì cây sống lâu năm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thu hái chế biến : Thu hái lá quanh năm, nhưng tốt nhất là thời gian trước khi cây ra hoa. Hái xong đem phơi sấy khô ngay, ở nhiệt độ thấp khoảng 50°C."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thành phần hóa học : Trong lá trúc đào có 4 glucosid chủ yếu là :\n- Oleandrin (còn gọi Neriolin) : C32H48O9, ít tan trong nước, tan trong cồn ethylic.\n- Neriin (còn gọi Neriosid) : thực chất là 1 hỗn hợp glucosid trợ tim dạng bột vô định hình, tan trong nước, trong rượu.\n- Adynerin không tan trong nước, có tác dụng trợ tim.\n- Neriantin tan trong nước và cồn, không có tác dụng trợ tim."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Công dụng : Theo Đông y, lá trúc đào vị đắng, tính lạnh, rất độc (đại độc).\nCó tác dụng cường tâm (mạnh tim), trấn tĩnh, trấn kinh, trừ đờm.\nChữa các chứng bệnh về tim, tim yếu, thần kinh suy nhược, ho hen kéo đờm.\nVề mặt Tây y, thi lá trúc đào được dung làm nguyên liệu để chiết xuất lây neriolin, trung bình hiệu suất 1kg lá khô sẽ được khoảng 1g Neriolin (tỉ lệ 0,1p100)\n- Lá trúc đào có thể được dùng để diệt dòi và bọ gậy (ấu trùng ruồi, muỗi)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : 0,3 - 1,0g lá, sắc uống. Tán bột uống 0,1 - 0,2g.\nNeriolin : 0,4 - 1,2mg/1 ngày. Tác dụng trợ tim của neriolin rõ rệt phát đổi với triệu chứng khó thở, thêm ưu điểm là tác dụng đến nhanh (thường sau 2 - 3 giờ là dễ thở), không tích lũy, dễ sử dụng, thải trừ nhanh, nên có thể dùng liên tục và lâu dài (có bệnh nhân dùng hàng năm mà không có triệu chứng ngộ độc)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Người thể suy nhược, phụ nữ có thai không được uống.\n- Vì là loại thuốc độc mạnh, nên sử dụng lá trúc đào hoặc neriolin phải theo chỉ định của bác sĩ.\n- Không cho trẻ em chơi hoa, lá trúc đào, phòng nhựa mủ ngấm vào tay, qua miệng, nếu không rửa tay kỹ trước khi ăn.\n- Cần đậy nắp bể, chum vại chứa nước ăn nếu gần đó có cây trúc đào đề phòng lá rụng rơi vào nước ăn, có thể gây ngộ độc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bảo quản : Theo chế độ thuốc độc bảng A. Để nơi khô mát."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vòi voi (cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khoa học : Heliotropium indicum L. họ Vòi voi (Borraginaceae)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Đại vĩ đạo (TQ) - Nam độc hoạt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bộ phận dùng : Bộ phận trên mặt đất đã chế biến khô của cây vòi voi (Herba Heliotropii). Đã được ghi vào DĐVN (1983)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mô tả cây : Cây vòi voi thuộc loại thảo, cao 25 - 50cm, thân mang nhiều cành cả thân, cành lá đều có lông. Lá đơn, phiến lá hình trứng,"
+  },
+  {
+   "block_label": "number",
+   "block_content": "599"
+  }
+ ]
+}

@@ -5,7 +5,11 @@
    "block_content": "- Về mặt thuốc : tính nóng, ấm.... thuộc về Dương. Lạnh, mát... thuộc về Âm."
   },
   {
-   "block_label": "paragraph_title",
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
    "block_content": "1.2. Ngũ Hành"
   },
   {
@@ -28,8 +32,12 @@
    "block_label": "text",
    "block_content": "__________ Tương sinh\n- - - - - - Tương khắc"
   },
+    {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
   {
-   "block_label": "paragraph_title",
+   "block_label": "sub_paragraph_title",
    "block_content": "1.3. Kinh Lạc và Quy kinh"
   },
   {

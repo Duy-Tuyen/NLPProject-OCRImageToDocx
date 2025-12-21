@@ -1,1 +1,49 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "xuống, 3 đường kinh âm ở phía trong, đi từ dưới lên (với tư thế người đứng giơ cao tay lên)\n- 6 đường kinh ở chân : 3 đường kinh Dương ở phía ngoài đi từ trên xuống, 3 đường kinh Âm ở phía trong, đi từ dưới lên và hai đường kinh : Đốc mạch ở sau lưng và Nhâm mạch ở phía bụng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kinh lạc là đường vận hành (tuần hoàn) của khí.\nKinh lạc cũng còn là đường mà tà khí xâm nhập vào cơ thể để gây bệnh và cũng để chỉ nơi bị bệnh, nơi thuốc tác động."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sáu kinh ở tay là :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thủ thái dương (còn gọi kinh Tiểu trường)\nThủ quyết âm (còn gọi kinh Tâm báo lạc)\nThủ dương minh (còn gọi kinh Đại trường)\nThủ thiếu dương(còn gọi kinh Tam tiêu)\nThủ thiếu âm (còn gọi kinh Tâm)\nThủ thái âm (còn gọi kinh Phế)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sáu kinh ở chân là :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Túc thái dương (còn gọi kinh Bàng quang)\nTúc quyết âm (còn gọi kinh Can)\nTúc dương minh (còn gọi kinh Vị)\nTúc thiếu dương (còn gọi kinh Đởm)\nTúc thiếu âm (còn gọi kinh Thận)\nTúc thiếu âm (còn gọi kinh Tỳ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quy kinh của thuốc là để chỉ rõ mỗi loại thuốc nhất định tạo ra tác dụng riêng trên mỗi phủ tạng nhất định của cơ thể. Như : Tử uyển, Bạch quả... đều chữa ho, hen... nên quy về kinh Phế, Bọ cạp (Toàn yết) trị phong, chống co giật... nên quy về kinh Can.\nMột số loại thuốc lại có nhiều tác dụng nên có thể quy thành mấy kinh, như Cam thảo, đi vào cả 12 kinh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lương y thường căn cứ triệu chứng thể hiện trên các kinh mà chọn thuốc. Nhà bào chế tùy theo mục đích chữa bệnh mà bào chế sao tẩm thuốc, như tẩm muối để đưa vào thận, tẩm dấm để đưa vào gan.v.v..."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thời sinh học (chronobiologic) và giờ thịnh của khí."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Qua quan sát trên cơ thể, người xưa lại nhận thấy có những giờ \"thịnh\" của khí đi qua mỗi đường kinh (gần như giờ cao điểm trên các đường giao thông ngày nay) theo nhịp chu kỳ 1 ngày đêm (24giờ) như sau (một số nhà sinh"
+  },
+  {
+   "block_label": "number",
+   "block_content": "603"
+  }
+ ]
+}

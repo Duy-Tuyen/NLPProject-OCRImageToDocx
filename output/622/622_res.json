@@ -1,1 +1,65 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "vật học với những phương tiện hiện đại cũng đã xác minh những giờ \"thịnh\" đó :"
+  },
+  {
+   "block_label": "table",
+   "block_content": "<table><tr><td>Sửu</td><td>2h</td><td>Can</td><td>→</td><td>Phế</td><td>4h</td><td>Dần</td></tr><tr><td>Tý</td><td>24h</td><td>Đởm</td><td></td><td>Đại trường</td><td>6h</td><td>Mão</td></tr><tr><td>Hợi</td><td>22h</td><td>Tam tiêu</td><td></td><td>Vị</td><td>8h</td><td>Thìn</td></tr><tr><td>Tuất</td><td>20h</td><td>Tâm bào</td><td></td><td>Tỳ</td><td>10h</td><td>Tỵ</td></tr><tr><td>Dậu</td><td>18h</td><td>Thận</td><td></td><td>Tâm</td><td>12h</td><td>Ngọ</td></tr><tr><td>Thân</td><td>16h</td><td>Bàng quang</td><td>←</td><td>Tiểu trường</td><td>14h</td><td>Mùi</td></tr></table>"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thời sinh học cũng đã được ứng dụng trong công tác phòng chữa bệnh để chọn thời gian uống thuốc hiệu quả nhất."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Chương II\nTính năng thuốc Đông"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tính năng thuốc Đông bao gồm : tứ khí, ngũ vị, thăng giáng, phù trầm, quy kinh. Tính năng thuốc Đông cũng là tổng kết từ thực tiễn lâu dài và sinh động của nhân dân ta, cần học tập để nâng cao, sáng tạo thêm để xử trí khi gặp một vị thuốc mới mà tài liệu cổ chưa nói đến (như cây Mỏ quạ)."
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "2.1. Tứ khí"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chữ \"khí\" ở đây là để chỉ được tính. Thuốc có bốn tính : hàn lạnh), nhiệt (nóng), ôn (ấm), lương (mát). Hàn và nhiệt là hai khái niệm đối lập, hàn thuộc về Âm, nhiệt thuộc về Dương."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lương gần hàn nhưng ở mức độ nhẹ hơn hàn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ôn gần với nhiệt nhưng ở mức độ nhẹ hơn nhiệt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ta nhận thức được các tính năng của thuốc dựa trên các phản ứng khi thuốc tác dụng trên cơ thể. Ví dụ :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hoàng liên, Mẫu đơn bì để trị bệnh nhiệt, có tác dụng thanh nhiệt, lương huyết. Vì tác dụng của Hoàng liên mạnh hơn Mẫu đơn bì, do đó Hoàng liên được coi là hàn, còn Mẫu đơn được coi là lương."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Can khương, Ngải điệp để trị bệnh hàn, có tác dụng trừ hàn, ôn kinh. Vì tác dụng của Can khương mạnh hơn Ngải điệp do đó Can khương được coi là nhiệt, Ngải điệp là ôn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ngoài ra còn có thuốc tính bình, tức là tương đối hòa hoãn không thiên về hàn, cũng không ngả về nhiệt, do vậy về cơ bản cũng nằm trong tứ khí. Người ta sơ bộ thấy rằng : thuốc nhiệt gây giãn mạch, còn thuốc hàn gây co mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "604"
+  }
+ ]
+}

@@ -1,1 +1,245 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Oxocobalamin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B12b"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hydroxobase"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hydroxocobemin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitadurin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất acetat:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mepharubin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất hydrochlorid"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống tiêm 250-1000mcg và 5000mcg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Như với vitamin B12, liều cao có tác dụng giảm đau dây thần kinh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Như các chỉ định với cyanocobalamin và để giải độc acid cyanhydric. Liều cao trị viêm dây thần kinh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Cứ 2-3 ngày tiêm bắp 1 ống 250-1000mcg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Giảm đau : ngày tiêm 1 ống 5000mcg hoặc 10.000mcg. Đợt tiêm 6-12 ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Dị ứng với thuốc. U ác tính."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Phản ứng dị ứng có khi nặng, có thể tử vong. Vì vậy, phải lưu ý đặc biệt với những người đã có biểu hiện dị ứng với vitamin B12 và cơ địa dị ứng, (hen, eczema)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Một số phản ứng phụ : Ngứa, mày day, trứng cá, đau chỗ tiêm bắp, nước tiểu nhuộm màu hồng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin B13"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Acid orotic"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Animal galatose factor"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Whey factor"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Orotaure"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Có các dẫn xuất muối calci, muối magne, monohydrat, muối kali."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén 50mg và 500 Kali orotat, ống tiêm 1ml=1g."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Bảo vệ nhu mô gan, chống nhiễm mỡ ở gan, tăng tiệt mật, làm giảm cholesterol và acid uric-huyết."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm gan, xơ gan, gan nhiễm mỡ, tăng cholesterol-huyết, một số trường hợp thiếu máu, đề phòng ngừa vữa xơ động mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày uống 2-3 lần, mỗi lần 50-500mg, vào trước bữa ăn. Hoặc tiêm bắp 1 ống. Trẻ em: ngày uống 10- 20mg/kg, chia 2-3 lần."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Sỏi thận."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin B15"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Calci panganat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diiso propylammonium dichloracetat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên bọc đường 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Tham gia vào quá trình chuyển hóa protid. Tổng hợp glycogen ở gan và cơ - Được phân lập từ nhân (hạt) quả mơ và cám gạo."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Vữa xơ động mạch, viêm gan mạn, một số bệnh ngoài da có ngứa, eczema."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày 3-4 lần, mỗi lần 1-2 viên. Trẻ em ngày 1-3 viên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Glôcôm."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin B complex"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên bọc đường/ống tiêm :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiamin 2mg/10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Riboflavin 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Riboflavin phosphat 4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Pyridoxin HCl 1mg/3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci pantothenat 3mg/5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nicotinamid 20mg/40mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Các triệu chứng thiếu vitamin nhóm B (viêm lưỡi, viêm miệng, viêm lợi, viêm bì tăng tiết bã nhờn, viêm kết mạc, rối loạn dạ dày, ruột). Dùng phối hợp giúp cơ thể sử dụng tốt glucid, trong các bệnh viêm nhiễm, bệnh gan, loét dạ dày- tá trang, đái tháo đường...."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bệnh ngoài da : eczema mạn tính ; tóc, móng dễ gãy, viêm bì thần kinh. Phối hợp khi dùng kháng sinh, sulfamid."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Trung bình ngày uống 3 lần x 1-2 viên hoặc tiêm 1-2 ống/ngày, có khi tuần lễ tiêm 2-3 lần x 1-2 ống tiêm bắp thịt, tĩnh mạch hoặc tiêm truyền."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Mẫn cảm với 1 thành phần của thuốc. (Với những người dị ứng)."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin Bc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Calci folinat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Leucovorin calcium"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lederfolat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lederfoline"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất acid tự do :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid folinic"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Citrovorum factor"
+  },
+  {
+   "block_label": "text",
+   "block_content": "FTHF"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Thuốc tiêm 15mg -viên 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Giải độc chọn lọc với methotrexat."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tiêm bắp, nếu đặc biệt, tiêm tĩnh mạch 2,5-5mg trong khoảng 4-6 giờ khi dùng methotrexat. Thuốc viên trị thiếu máu"
+  },
+  {
+   "block_label": "number",
+   "block_content": "572"
+  }
+ ]
+}

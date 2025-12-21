@@ -1,1 +1,53 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "mà ước lượng nước cần dùng nhiều ít và thời gian lâu, ngắn.... để tránh ảnh hưởng đến chất lượng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thấm : sau khi dùng một lượng nước vừa đủ để ngâm mềm dược liệu thì bỏ dược liệu vào một vại chứa vừa vặn, tẩm nước từ từ đến khi cả trong và ngoài dược liệu ẩm đều như nhau. Đối với một số thuốc nếu dùng phép ngâm dễ bị hư hao thì nên dùng phép này, nhưng phải theo dõi nhiệt độ và thời gian tránh để dược liệu bị mốc hoặc lên men chua."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phiêu : xóc rửa dược liệu trong nước bằng rổ (cần thay nước luôn).Phiêu dược liệu để khử một số chất độc hoặc chất muối,tạp chất, hoặc mùi, vị tanh (như phiêu Bán hạ, Côn bố, Bạch truật...)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thủy phi : là lấy các thuốc không tan trong nước (như Chu sa...) bỏ vào nước mà nghiền, tránh bay bụi. Nghiền xong đợt 1, các hạt tương đối thô chìm xuống,các hạt mịn thì lơ lửng trong nước. Gạn ra, lại đem nghiền phần hạt thô. Lại gạn, lại nghiền tới khi mịn toàn bộ. Tập trung các dịch treo, để tủa lắng xuống, gạn bỏ nước, lấy tủa sấy khô được bột mịn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sao : là đem dược liệu cho vào nồi, chảo v.v... mà rang bằng lửa, mức độ khác nhau tùy theo mục đích sử dụng thuốc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Sao vàng (sao hoàng) : là dùng lửa nhỏ rang dược liệu đến khi bề mặt hơi vàng, hoặc thấy xông mùi đặc biệt của thuốc là được (như sao Thương truật) chú ý đảo đều thuốc trong khi sao."
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Sao xém (sao tiêu) : là dùng lửa to ngọn và thời gian tương đối lâu, dược liệu đến độ xém nâu, hoặc thấy xông mùi xém là được (như sao xém Mạch nha, sao xém Sơn tra....)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Sao than (sao thán) : là dùng lửa mạnh sao đến khi mặt ngoài dược liệu bị xém đen, trong ruột nâu sẫm là được, thương gọi là \"sao than tồn tính\" (như sao than Địa du...). Gọi là sao than nhưng không để dược liệu cháy toàn bộ thành than."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chích : Là đun dược liệu với một tá dược lỏng, để tá dược đó thấm vào dược liệu rồi đem sao tùy mức độ. Có 5 cách \"chích\" :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Chích mật : trước hết đem mật ong đã luyện (cứ 500 gam dược liệu dùng 150 -180 gam mật ong. Cách luyện mật sẽ nói ở mục \"hoàn mật\"), đun chảy mật ong, thêm 1/3 thể tích nước sôi, trộn đều, ủ mềm với dược liệu định \"chích\", lại bỏ vào chảo sao nhỏ lửa (đảo đều được liệu khỏi cháy) đến khi sờ dược liệu không còn dính mật vào tay là vừa (thí dụ : chích mật Hoàng kỳ, chích mật Cam thảo...)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "+ Chích dấm (thố chích) : là lấy các dược liệu thuộc loại vỏ sò, hến..."
+  },
+  {
+   "block_label": "number",
+   "block_content": "608"
+  }
+ ]
+}

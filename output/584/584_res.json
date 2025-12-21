@@ -1,1 +1,201 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "nguyên hồng cầu khổng lồ do thiếu acid folic- Ngày uống 1-2 viên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Thiếu máu nguyên hồng cầu khổng lồ thứ phát do thiếu vitamin B12."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin C"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Acid ascorbic"
+  },
+  {
+   "block_label": "text",
+   "block_content": "L-ascorbic acid"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Có các dẫn xuất : Muối calci, muối magne, palmityl este, muối natri."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén hoặc bọc đường 50- 100-200 và 500mg, viên nén sủi bọt 1g, ống tiêm 1-2 và 5ml dung dịch 5% hoặc 10%."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Tham gia vào chuyển hóa glucid, acid folic, ảnh hưởng đến quá trình đông máu và thẩm thấu ở mao mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Được chiết xuất từ ớt chín, (capsicum annuum), các nguồn cây như hoa tầm xuân, quả chín tươi của một số loài khác nhau của họ hồng (Rosaceae) nho đen, nước ép của citrus và bằng phương pháp tổng hợp."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng điều trị bệnh scorbut và các chứng chảy máu do thiếu vitamin C. Tăng sức đề kháng ở cơ thể khi mắc bệnh nhiễm khuẩn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống : người lớn 0,2- 1g/24giờ. Trẻ em 0,1-0,5g/24giờ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiêm bắp hoặc tĩnh mạch : người lớn 0,1- 0,5g/24giờ. Trẻ em 0,05-0,20g/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Bệnh sỏi thận : (dùng quá 1g/24 giờ)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Coi chừng sốc phản vệ khi tiêm tĩnh mạch (chết người) vì có sulfit. - Không nên dùng thuốc vào buổi tối. -Ở một số người dùng trên 1g/ngày có thể bị rối loạn tiêu hóa, đau dạ dày, ỉa chảy, đọng Ca urat, oxalat....."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin D2"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Ergocalciferol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Irradiated ergosterol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "D- Vita"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ergosterol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vidolen"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Viosterol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin D"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên bọc đường 500 đvqt, dung dịch dầu 0,125%, dung dịch cồn (1ml có 200000 đvqt), ống tiêm 1,5ml có 600000 đvqt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Là hoạt chất chống còi xương thu được do chiếu tia tử ngoại vào ergosterol, dưới dạng tinh thể, không màu, gần như không mùi, không tan trong nước. Thành phần chứa 40000 đvqt vitamin D/1mg - Điều hòa chuyển hóa phospho, calci."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng và chữa bệnh còi xương, nhuyễn xương. kinh giật, lao xương và ngoài da, vẩy nến."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Co cứng cơ do hạ calci máu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mất calci ở người mang thai."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiếu vitamin ở người trưởng thành."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Loãng xương."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Co giật do hạ calci máu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn 1mg/lần, 2-3 mg/24giờ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trẻ em dưới 3 tháng 5000 đvqt/24 giờ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phòng còi xương, tháng thứ nhất 800-1000 đvqt từ 2-3 tháng ngày uống 2000-3000 đvqt. Hoặc 6 tháng cho liều 60000 đvqt - Uống vào bữa ăn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bệnh còi xương : 10000- 20000 đvqt, chia 2- 3lần, đợt dùng 1-2 tháng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lao da : 100000 đvqt/ngày, đợt 5-6 tháng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Lao tiến triển, bệnh ở ruột và dạ dày, bệnh gan thận cấp và mạn, suy tim mất bù, tăng calci huyết, niệu và sỏi calci. Quá mẫn cảm với vitamin D."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : - Dùng lâu dài có thể ăn kém ngon, buồn nôn, nhức đầu, mệt mỏi, protein niệu, ỉa chảy. Triệu chứng thừa vitamin D phải ngừng thuốc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Không phối hợp với các thiazid (tăng calci huyết)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Không phối hợp với các thuốc hoặc thực phẩm có vitamin D."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Quá liều : chán ăn, khát nước, buồn nôn, nôn, tăng calci niệu, tăng calci huyết, rối loạn xét nghiệm thận."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xử trí : Calcitonin, liệu pháp corticoid, uống nhiều nước, thuốc lợi tiểu, chế độ ít calci."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin D3"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Cholecalciferol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Colecalciferol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống 1ml= 300.000 và 600.000 đvqt trong dung dịch dầu (tiêm sâu bắp thịt)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Chất chống còi xương có trong dầu gan cá thu, tác dụng mạnh hơn Vitamin D2. 1mg= 40.000 đvqt - vitamin D."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng và trị bệnh còi xương, tạng dễ co giật do suy tuyến cận giáp, xương gãy chậm liền, loãng xương, một số bệnh ngoài da : xơ cứng bì...."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Phòng còi xương trẻ em từ tuần lễ thứ 8, cứ 2-3 tháng tiêm 1 ống 300.000 đvqt. Trị còi xương dùng liều gấp đôi liều trên. Loãng xương, cứ 3 tháng tiêm 1 ống 600.000 đvqt."
+  },
+  {
+   "block_label": "number",
+   "block_content": "573"
+  }
+ ]
+}

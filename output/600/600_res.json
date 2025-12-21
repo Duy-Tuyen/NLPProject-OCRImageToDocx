@@ -1,1 +1,81 @@
-{}
+{
+ "has_image": true,
+ "parsing_res_list": [
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Gai mèo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xem Phần Cây thuốc - Bài thuốc"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Hoàng nàn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khoa học : Strychnos Wallichiana Steud ex DC.- họ Mã tiền (Loganiaceae)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Vỏ doãn."
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bộ phận dùng : Vỏ thân và vỏ cành đã chế biến khô của cây hoàng nàn (Cortex Strychni Wallichianae). Đã được ghi vào DĐVN (1983)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mô tả cây : Cây hoàng nàn thuộc loại cây nhỡ mọc leo, có nhiều cành, có những tua cuốn ở những cành non. Lá mọc đối, hình trứng đầu nhọn, lá nhẵn, mép nguyên, có 3 gân nổi rõ ở mặt dưới, phiến lá dài 5 - 10cm, rộng 3 - 5cm. Hoa không cuống, mọc thành chùy, dạng ngù ở đầu cành. Quả mọng, hình cầu, vỏ nhẵn bóng, đường kính 4 - 5cm, vỏ dày độ 4mm cứng, nhưng dễ đập vỡ, trong chứa nhiều hạt, hình khuy áo nhưng không tròn, dài độ 22mm, rộng độ 18mm, có phủ nhiều lông mượt bóng ánh.\nMùa hoa : tháng 6 - 8. Mùa quả : tháng 9 - 11.\nCây hoàng nàn mọc hoang ở nhiều vùng núi đá, nơi rừng rậm, các tỉnh Tuyên Quang, Phú Thọ, Sơn La, Hòa Bình, Thái Nguyên, Thanh Hóa, Nghệ An v.v...\nỞ Lào, vùng giáp giới khu Tây bắc của ta, cũng có."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thu hái chế biến : Thu hái vỏ thân, vỏ cành hoàng nàn quanh năm, thường chặt từng đoạn, đem về mới bóc vỏ cho dễ, đem phơi hay sấy khô, thành những miếng to, nhỏ không đều, cong lòng máng hay cuộn tròn, dài 6 - 12cm, rộng 2 - 5cm, dày độ 0,1cm. Mặt ngoài có nhiều nốt sần sùi, mầu nâu xám hay đỏ nâu. Mặt trong mầu nâu đen có nhiều đường vận nhỏ chạy dọc. Vỏ ròn, dễ vỡ, gẫy, vị rất đắng (cẩn thận chỉ nếm qua)\nThủy phần dưới 12p100.\nTạp chất : dưới 1p100."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thành phần hóa học : Trong vỏ hoàng nàn có các alcaloid strychnin, brucin, hàm lượng alcaloid toàn phần lên tới hơn 5p100, trong đó strychnin độ 2,3 - 2,4p100, còn brucin 2,7 - 2,8p100.\nDược điển Việt Nam (1983) quy định hoàng nàn phải chứa ít nhất 2,5p100 alcaloid toàn phần, biểu thị bằng hỗn hợp ngang nhau của strychnin và brucin."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Công dụng : Theo Đông y, hoàng nàn vị rất đắng, tính ấm, rất độc - vào 2 kinh : Can, Tỳ.\nCó tác dụng : trừ phong hàn, thông kinh lạc, giảm đau.\nChữa các chứng bệnh do phong hàn gây nên, tê thấp, đau nhức xương, tê bại chân tay, đau lưng, hông."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Theo Dược điển Việt Nam (1983) Liều tối đa uống 1 lần : 0,10g\ntrong 24 giờ : 0,40g\nThường dùng dưới dạng bột."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Người bị mất ngủ, di tinh, cơ thể suy nhược không uống.\n- Không dùng chữa chó dại cắn như một số người vẫn dùng. (Cần phải tiêm vaccin phòng dại trong thời gian sớm nhất).\nBảo quản : Theo quy chế độc bảng A - Để nơi khô ráo."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Hồi núi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khoa học : Illicium griffithi Hook.f.et Thoms, họ Hồi (Illiciaceae)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Đại hồi núi - Mu bu - Faux badianier (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bộ phận dùng : Quả hồi núi. (Fructus Illicii)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mô tả cây : Cây cao khoảng 10 - 15m. Lá bầu dục, nhẵn, dai, không rụng, phiến lá nguyên dài 6 - 8cm, rộng 2 - 3cm, thành cụm 4 - 5 lá, giống như mọc thành vòng giả, cuống lá dài 8 - 10cm. Hoa đỏ hồng, đẹp, mọc đơn độc ở kẽ lá. Quả gồm nhiều đại, mọc tỏa theo hình nan hoa, hai bên dẹt, lá noãn cụt ở phía gốc, đầu có mỏ, hẹp và dài bằng lá noãn, đầu cong lên giống như cái liềm.\nCây hồi núi có nhiều ở vùng rừng núi nước ta : Lạng Sơn, Lao Cai, Hà Tây, Tây Bắc, Trường Sơn - Có ở Ấn Độ, gọi là hồi già (faux anis étoilé de Bombay)"
+  },
+  {
+   "block_label": "number",
+   "block_content": "590"
+  }
+ ]
+}

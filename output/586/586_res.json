@@ -1,1 +1,189 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tránh dùng đồng thời với sulfamid"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin H3 (Anh)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén, lọ thuốc tiêm 60ml."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các rối loạn dinh dưỡng ở người có tuổi, đau hoặc viêm dây thần kinh, xơ cứng mạch não và ngoại vi, thấp khớp và viêm khớp, hói, tóc bạc, phòng các biểu hiện ở tuổi già."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tiêm bắp hoặc tiêm tĩnh mạch chậm : 3 lần x 5ml/tuần lễ. Tiêm cách nhau 1 ngày. Nghỉ 1-2 tháng lại dùng đợt khác. Uống : ngày 2-3 lần x 1 viên sau bữa ăn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Phối hợp với sulfamid, mới điều trị bằng eserin hoặc neostigmin."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin K"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Vitamin chống chảy máu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phytoquinon"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phytomenadion"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Vitamin dưới dạng vitamin K1 (còn gọi là Phytomenadion) có trong rau xanh và họa quả tươi (như cà chua..) một số vi khuẩn sống bình thường ở ruột có khả năng tổng hợp (vitamin K2). Vitamin K cần thiết cho quá trình tạo prothrombin ở gan và để duy trì nồng độ chất này ở huyết tương. Thiếu vitamin K sẽ gây ra giảm prothrombin - huyết, kéo dài thời gian đông máu. Sự thiếu hụt có thể do thức ăn đưa vào ruột thiếu hoặc do rối loạn hấp thụ ở ruột vì thiếu mật (như do xơ gan, tắc ống dẫn mật..). Cũng có khi do vi khuẩn ở ruột bị tiêu diệt (khi dùng sulfamid, kháng sinh), vitamin K có trong tự nhiên thường tan trong dầu. Nên muốn hấp thụ qua màng ruột, cần có một lượng thích hợp các muối mật. Gần đây đã tổng hợp được một số dẫn chất tan trong nước và cũng có tác dụng cầm máu như vitamin K tự nhiên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin K1"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Phytonadione"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phylloquinone"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Ống tiêm 1ml = 20 và 50mg, viên bọc đường 10mg, nhũ tương 2% (1 giọt = 1ml)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Cầm máu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Xuất huyết, chuẩn bị phẫu thuật gan, mật, khoa răng, tai mũi họng. Do dùng kháng sinh phổ kháng khuẩn rộng và dùng lâu dài (phá hủy vi khuẩn ở ruột có vai trò tổng hợp vitamiin K). Giảm prothrombin huyết. Ngộ độc do thuốc diệt chuột."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn uống 40-60mg/ngày trẻ em uống 10-40mg/ngày. Hoặc tiêm bắp 20-40mg/ngày. trẻ em 20mg/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Tiền sử dị ứng với vitamin K"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không nên trộn lẫn thuốc khác trong bơm tiêm. Trường hợp giảm prothrombin nặng cần phối hợp với yếu tố đông máu hoặc huyết tương. Đường tĩnh mạch coi chừng nguy cơ phản ứng giống phản vệ."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin K3"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Hykinone"
+  },
+  {
+   "block_label": "text",
+   "block_content": "K-thrombin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Menaphthene"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Menaphtone"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Methylnaphtochinonum"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vikasolum (Nga)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén 2-5-10mg, ống tiêm 1ml = 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Cầm máu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Xuất huyết, chuẩn bị phẫu thuật."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống hoặc tiêm bắp 5- 10mg/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Dẫn chất Menadion natri bisulfit : viên nén 5-15mg, ống tiêm 1ml=1mg."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin K4"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Vitamin K analogue"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acetomenaphtone (dạng diacetat)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén 5mg, ống tiêm 5ml=10mg, ống tiêm 2ml=75mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Cầm máu. Dẫn chất tổng hợp tác dụng như vitamin K"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng và trị các trường hợp xuất huyết. Giảm prothrombin -huyết. Rối loạn đông máu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 2- 4 viên/ngày. Đề phòng chảy máu uống 1-2 viên/ngày (7-75mg tùy theo chỉ định và bệnh trạng)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Xem vitamin K1"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin L1"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Acid folic"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid pteroyl- glutamic"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin Bc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "vitamin B9"
+  },
+  {
+   "block_label": "number",
+   "block_content": "575"
+  }
+ ]
+}

@@ -1,1 +1,201 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bệnh giảm bạch cầu nhẹ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 2-6 viên/ngày hoặc tiêm tĩnh mạch, dưới da 2-6 liều (trộn kỹ 2 ống A và B)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tránh dùng liều cao, kéo dài với người tăng acid uric máu."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin B6"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Pyridoxin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất aspartat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất camsilat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất hydrochlorid"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất oxoglurat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất phosphat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất phosphoserinat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Bột- viên nén 5-10-20-25-100 và 250mg - Ống tiêm 1ml (dung dịch 1-2,5-5- 10%)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Pyridoxin đóng vai trò quan trọng trong chuyển hóa các chất - Vào cơ thể chuyển thành pyridoxal phosphat và tham gia vào thành phần của men codeboxylase chuyển hóa các acid amin : tryptophan methionin, cystein, glutamin. Pyridoxin còn tham gia vào chuyển hóa lipid, ảnh hưởng đến tạo hồng cầu, đặc biệt trong trường hợp, thiếu máu do rối loạn chuyển hóa acid amin. Thiếu pyridoxin có hiện tượng ngứa, viêm da, viêm lưỡi, rối loạn thần kinh trung ương và ngoại vi, động kinh, trường hợp lâu có thể dẫn đến nhiễm mỡ gan."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B6 thấy có trong men rượu bia, gan, thịt, trong nhiều thực phẩm khác, ngũ cốc. Hiện nay đã được tổng hợp."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhu cầu hàng ngày : 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Dùng cho các trường hợp nhiễm độc thai nhi, chứng múa giật (chorée), bệnh pelagre (phối hợp vitamin PP), viêm nhiều dây thần kinh, phối hợp INH chữa lao ngoài phổi, bệnh viêm gan cấp, thiếu máu nhược sắc, giải độc benzol,... chữa xơ cứng động mạch (giảm cholestetol máu), viêm da, các bệnh da thần kinh (Neurodermatose)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống, tiêm bắp thịt, hay dưới da : ngày 0,05g - 1g. Thời gian điều trị tùy trường hợp có thể 1,2,3 tháng. Nhiễm độc thai nhi dùng phối hợp vitamin B1,B2. Dùng điều trị ngộ độc cấp tính do INH (10 - 20mg vitamin B6 cho 100mg INH đã uống)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phối hợp với levodopa (làm mất tác dụng)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Thuốc tiêm có chứa sulfit coi chừng sốc phản vệ"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin B7"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất tartrat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Chất trung gian dẫn truyền thần kinh, qua các synap thần kinh- tăng dẫn truyền thần kinh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xem Bd kép : Tobicom."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin B9"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Acid pterol - glutamic, acid folic."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin Bc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin L1"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén 1-3 và 5mg, ống tiêm 1ml=1mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Tham gia vào quá trình tổng hợp các acid nucleic ở những nguyên hồng cầu. Có trong gan, men rượu bia, rau và một vài sản phẩm khác- có thể tổng hợp được."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Thiếu máu nguyên hồng cầu khổng lồ (do thiếu hụt acid folic)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : 0,5-1mg/ngày, nếu nặng : 5mg x 2-3lần/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Thiếu máu ác tính (Biermer)"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin B12"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Cyanocobalamin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin L2"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bedumil"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cycobermin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất phức hợp kẽm tanat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất tanat"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống tiêm 10-500-1000-5000mcg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Cơ thể thiếu hụt vitamin B12, gây ra thiếu máu hồng cầu và một số rối loạn về thần kinh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Có trong gan, thận, sữa, trứng, cơ bắp. Nó được vi khuẩn tổng hợp ở ruột kết nhưng không được hấp thụ ở đó."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Thiếu máu ác tính Biermer thiếu máu khi cắt bỏ dạ dày, hoặc do giun móc. Viêm, đau dây thần kinh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Thiếu máu, tuần lễ tiêm 2-3 lần, mỗi lần 100-200mcg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đau dây thần kinh : tiêm bắp từ 300 đến 1000mcg/ tuần lễ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Thiếu máu chưa rõ nguyên nhân, mẫn cảm với vitamin B12, ung thư."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin B12a"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Hydroxocobalamin"
+  },
+  {
+   "block_label": "number",
+   "block_content": "571"
+  }
+ ]
+}

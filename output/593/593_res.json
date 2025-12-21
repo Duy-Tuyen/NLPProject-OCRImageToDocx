@@ -1,1 +1,181 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Acid pantothenic 25mg và một số chất khoáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Như Quotivit OE."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 1 viên/ngày, vào buổi sáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Liều cao vitamin C có thể gây sỏi thận ở một số người. Không nên uống vào buổi chiều tối (mất ngủ)."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Zegavit (Indonesia)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén hình thuôn (caplet) chứa các :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin E 30IU"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B1 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B6 25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B12 12mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid folic 0,4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "và một số chất khoáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bổ xung các vitamin B, C và E kèm một số muối khoáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn và trẻ em trên 12 tuổi : ngày 1 viên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không dùng cho trẻ em dưới 12."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Zentramin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Thuốc tiêm 5ml gồm:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Glycocol 1g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg Cl2 0,04g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "CaCl2 0,045g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "KCl 0,015g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Trị rối loạn thần kinh thực vật, trạng thái co cứng cơ, dị ứng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày tiêm bắp thịt hay tĩnh mạch 1-2 ống."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Zymoplex (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang đến ruột mới tan có:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "-Cao tuyến tụy có hoạt tính thủy phân protein (đã chuẩn độ (ít nhất 5.000.000 đvqt Armour/gói) : 17mg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Cao tuyến tụy có hoạt tính thủy phân amylase đã chuẩn độ (ít nhất 75.000 đv/1g) : 30mg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Polyenzym lấy từ A. Aspergillus niger : 50mg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Lipase lấy từ Rhizopus arrhizus đã chuẩn độ (ít nhất 10.000 đv/g thủy phân) : 120mg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Dimeticon : 225mg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Phối hợp nhiều men tiêu hóa giúp cho sự hấp thụ nhanh các protid, glucid, lipid."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Chậm tiêu. Đầy bụng do thiếu men tiêu hóa- khó tiêu do dinh dưỡng - Bầy hơi sau khi ăn - Rối loạn dinh dưỡng ở người già và bệnh nhân đái tháo đường."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn ngày 2-3 lần, mỗi lần 1-2 viên, vào trước bữa ăn - Nuốt viên thuốc với nước."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Zypan (Mỹ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao tuyến tụy 32,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Pancreatin 65mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Pepsin 97,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Betain hydrochlorid 179mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Amonium chlorid 975mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Như Zymoplex"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống vào bữa ăn 1-2 viên."
+  },
+  {
+   "block_label": "number",
+   "block_content": "582"
+  }
+ ]
+}

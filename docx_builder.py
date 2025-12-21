@@ -56,6 +56,20 @@ class DOCXBuilder:
         heading1_font.bold = True
         heading1_style.paragraph_format.alignment = WD_PARAGRAPH_ALIGNMENT.LEFT
 
+        # sub paragraph -> heading2
+        heading2_style = styles['Heading 2']  # 1: Paragraph style
+        heading2_font = heading2_style.font
+        heading2_font.size = Pt(16)
+        heading2_font.bold = True
+        heading2_style.paragraph_format.alignment = WD_PARAGRAPH_ALIGNMENT.LEFT
+
+        # sub sub paragraph -> heading3
+        heading3_style = styles['Heading 3']  # 1: Paragraph style
+        heading3_font = heading3_style.font
+        heading3_font.size = Pt(14)
+        heading3_font.bold = True
+        heading3_style.paragraph_format.alignment = WD_PARAGRAPH_ALIGNMENT.LEFT
+
         # text
         normal_style = styles['Normal']
         normal_font = normal_style.font
@@ -248,6 +262,13 @@ def build_docx_from_ocr_json(res_path, save_path, ocr_engine=None):
             docx_builder.add_title(content)
         elif label == 'paragraph_title':
             docx_builder.add_heading(content, level=1)
+        
+        elif label == 'sub_paragraph_title':
+            docx_builder.add_heading(content, level=2)
+        
+        elif label == 'sub_sub_paragraph_title':
+            docx_builder.add_heading(content, level=3)
+
         elif label == 'text':
             docx_builder.add_paragraph(content)
         elif label == 'image':

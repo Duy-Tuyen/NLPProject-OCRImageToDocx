@@ -1,1 +1,169 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Xem folic acid"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin P"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Citrinum"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C2"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Vitamin P được Szent Gyorgi gọi để chỉ một loại vitamin có trong những quả citrus có tác dụng tăng cường sức bền vững của các mạch và đó giảm sức thẩm thấu các hồng cầu qua thành mạch. Hiện nay các chất có hoạt tính vitamin P đều thuộc nhóm Flavonoid gồm có hesperidin, rutin, troxerutin leucocianidol, v.v...(xem rutin). Một số chất : Diosmin với Bd : Diovenor (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Troxerutin với bd : Venoruton"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dẫn xuất : Trioxyetylrutin dùng điều trị các rối loạn tuần hoàn mạch ở chi dưới và hạ trĩ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang 250mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn ngày uống 3-4 lần, mỗi lần 1 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin (Phối hợp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Multivitamin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Polyvitamin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên bọc đường, mỗi viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "vitamin A 350 đvqt, vitamin B1 1mg, vitamin B2 1mg, vitamin C 10mg, vitamin D250 đvqt, vitamin PP 1mg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Dùng cho người lớn và trẻ em thiểu máu, gầy yếu, kém ăn, thiếu một số vitamin cần thiết."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Trẻ em : mỗi ngày uống 3-5 viên. Người lớn : mỗi ngày 5-10viên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biệt dược tương tự : Dekavit, Polyvitaplex (Hungari)"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin PP"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Nicotinamide, Niacinamid, Nicotinylamidum, Amid acid nicotinic, Nicanid, Nicosedin, Nicotylamidum"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén hay bọc đường 10-20 và 50mg, ống tiêm dung dịch 1-2,5%."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Tham gia vào chuyển hóa của 1 số chất trong cơ thể, giúp cho cơ thể dung nạp được dễ dàng các thuốc kháng sinh tổng hợp. Là thành phần cơ bản của NAD-NADP,tham gia vào nhiều chuyển hóa. Những biểu hiện thiếu vitamin PP hoặc Pellagre là dầu hiệu ngoài da, ảnh hưởng đến các vùng da hở tiếp xúc với ánh sáng cũng như biểu hiện về tiêu hóa và thần kinh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bệnh pellagre, các chứng thiếu hụt vitamin PP như viêm lợi, miệng,....ban đỏ và một số bệnh ngoài da,. Phối hợp với vitamin nhóm B thành yếu tố vitamin nuôi dưỡng. Dùng trong bệnh da do ánh sáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : phòng bệnh : 50- 200mg/ngày. Trị bệnh : 200-500mg/ngày, chia 2-3 lần. Tiêm bắp hay tiêm tĩnh mạch chậm 0,3-0,5g/24 giờ, chia vài lần. Trẻ em dùng 1/3 -1/2 liều trên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamin U"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Metylmethionine sulfonium bromide (M.M.S.Br)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cabbagin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén 0,05g-0,10g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Vitamin này có hàm lượng cao trong bắp cải, chứa nhóm methyl dễ chuyển dịch, nên tham gia vào nhiều quá trình tổng hợp. Có tác dụng : làm vết loét mau lành và giảm đau trong bệnh dạ dày- tá tràng.- Bảo vệ tế bào nhu mô gan chống nhiễm mỡ, thoái hóa mỡ và xơ gan. Bảo vệ thành động mạch chống nhiễm mỡ và vữa xơ động mạch, điều hòa các rối loạn chuyền hóa lipid trong chứng vữa xơ động mạch, giảm cholesterol -huyết."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm dạ dày, loét dạ dày- tá tràng, viêm ruột, phối hợp điều trị tăng cholesterol -huyết."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày uống từ 3-5 lần, mỗi lần 0,10g vào sau bữa ăn. Đợt dùng từ 30-40 ngày. Nghỉ 2 tuần lại dùng đợt khác."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Nếu không có sẵn thuốc, có thể dùng thay bằng nước ép bắp cải tươi (mỗi lần dùng 250ml trước bữa ăn.)"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitamyne (Pháp -Mỹ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén bọc chứa các vitamin A, D2, E, C, B1, B2, B6, B12, acid folic, PP, H, Calci pantothenat, các ion vô cơ, Ca, P, I, Fe, Mg, Cu, Mn, K,Zn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định và liều dùng : Như Quotivit, O. E."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày 1 viên vào buổi sáng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Vitaplex mineràl (Thụy Điển)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin A 0,9mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiamin mononitrat 2,2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Riboflavin 1,4mg"
+  },
+  {
+   "block_label": "number",
+   "block_content": "576"
+  }
+ ]
+}

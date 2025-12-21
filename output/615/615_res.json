@@ -1,1 +1,65 @@
-{}
+{
+ "has_image": true,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "nhiều cành, cao 2 - 5m, thân nhẵn, cành có những vết sẹo do lá đã rụng. Lá hình thuôn như phiến lá tre, hẹp hơn lá trúc đào, dài 8 - 15cm, rộng 5 - 7mm, nguyên, gân giữa nổi rõ, gân phụ không rõ. Toàn cây thân, cành, lá - bẻ, cắt ngang đều có chảy nhựa mủ trắng lỏng. Hoa khá to, dẹp mầu vàng tươi mọc thành xim ở nách lá và đầu ngọn. Quả hạch hình rất đặc trưng, có 3 cạnh nổi lên từ cuống quả đến đầu quả, khi non mầu lục bóng, khi chín mầu đen bóng. Khi chín lắc nghe tiếng hạt lúc lắc, trong quả có độ 1 - 2 hạt, dài, rộng độ 12mm, dày 5mm, mầu vàng nhạt, rất đắng, tê tệ.\nCây thông thiên gốc châu Mỹ được di thực vào nước ta, trồng làm cảnh. Trồng rất dễ bằng hạt già.\nMùa hoa : tháng 4 - 6. Mùa quả : tháng 9 - 12."
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thu hái chế biến : Khi quả chín già, hai đập quả lấy hạt phơi hoặc sấy khô."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thành phần hóa học : Trong hạt thông thiên có những chất :\n- Chất dầu tỉ lệ 35 - 40p100 (khi ép), trong dầu có triolein, tripalmatin, tristearin, ngoài ra còn có các acid lineolic, acid myristic.\n- Một số heterosid, chủ yếu là :\n- Thevetin C42H66O18, 3H2O, tinh thể không mầu, không mùi, vị rất đắng.\n- Neriifloin C30H46O8 và dẫn chất monoacetyl của Neriifolin.\nThevetin có trong hạt và vỏ cây, trong lá và vỏ quả không có."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Công dụng : Thông thiên (các bộ phận cây) chưa được dùng trong Đông y.\nTrong Tây y, thevetin được dùng trong những trường hợp tim yếu, tim đập loạn nhịp, đau van tim, có thể dùng cho những trường hợp không chịu được digitalin và ouabain, hoặc xen kẽ từng đợt với digitalin, ouabain.\nThevetin có thể dùng thời gian lâu vì thuốc không tích lũy."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Cây thông thiên và các chế phẩm từ nó có tính chất rất độc, cần chú ý phòng ngừa ngộ độc\n- Phải theo sự chỉ dẫn của bác sĩ khi cần dùng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thuốc phiện"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xem phần Cây thuốc - Bài thuốc\nAnh xúc tác"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Thương lục"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xem phần Cây thuốc - Bài thuốc"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tỏi độc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khoa học : Colchicum autumnale L. họ Hành (Liliaceae)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Colchique"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "number",
+   "block_content": "597"
+  }
+ ]
+}

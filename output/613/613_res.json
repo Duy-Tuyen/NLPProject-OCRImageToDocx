@@ -1,1 +1,77 @@
-{}
+{
+ "has_image": true,
+ "parsing_res_list": [
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Rết"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xem phần Động vật làm thuốc"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Sui"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khoa học : Antiaris toxicaria (Pers.) Lesch (Antiaris innoxia Blume, Antiaris saccidora Dalz), họ Dâu tằm (Moraceae)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Nỗ tiễn tử - Nang (Lào) - Thuốc bắn"
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bộ phận dùng : Nhựa cây sui (Latex Antiaridis toxicariae). Không làm thuốc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mô tả cây : Là cây lớn, cao tới 30m. Lá xếp 2 dãy, cuống dài, phiến lá dài khoảng 6cm, rộng khoảng 3,5cm, hai mặt lá hơi nhám - Hoa tự mọc ở kẽ lá, cùng gốc, hoa đực mọc tụ trên một đế hoa phồng khum lên, quanh đế hoa có tổng bao gồm nhiều hàng lá bắc, hoa cái mọc đơn độc, trên một đế cũng có tổng bao. Quả thịt dài 18mm, dày 12mm. Hạt hình trứng, dài 13mm, rộng 8mm.\nCây mọc hoang ở vùng rừng núi nước ta - có ở Hải Nam TQ, Ấn Độ, Indonesia, Malayxia."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thu hái chế biến : Lấy nhựa bằng cách lấy dao băm vào vỏ cây, nhựa chảy ra, thu lấy nhựa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thành phần hóa học : Người ta đã nghiên cứu nhựa sui từ năm 1890.\nCó 2 chất glucosid, độc là alpha antiarin C29H42O11, 4H2O và beta antiarin C29H42O11, 3H2O\nCả 2 chất khi thủy phân mạnh cho dihydroantiarigenin. Hai chất đều tác dụng mạnh đến tim, rất độc - Nhựa sui có tác động trực tiếp với máu thì rất độc, kể cả vào các vết loét (có người cho rằng uống nhựa sui không gây độc) - gây kích ứng mạnh trên da, đặc biệt với mắt (nguy hiểm)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Công dụng : Có người cho rằng có thể dùng nhựa sui chữa đau bụng, gây đi ỉa mạnh. Tuy nhiên việc này chưa được xác nghiệm, vì vậy uống nhựa sui là một việc rất nguy hiểm.\nThường người ta dùng nhựa sui tẩm tên thuốc độc săn bắn thú rừng lớn. Thú rừng săn bắn được, thịt mềm, ăn được.\nCó nơi người ta dùng vỏ sui làm chăn và quần áo - Ngâm vỏ sui trong nước ao, hồ vài ngày cho bớt chất độc mới làm - Tuy nhiên hiện nay không ai dùng nữa, và khi làm cần chú ý không để chân tay sứt sát, chảy máu, lở loét vì dễ ngộ độc."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Sở"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khoa học : Camellia sasanqua Thunb (Thea sasanqua (Thunb) Nois), họ Chè (Theaceae)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Trà mai - Camellia (Anh)."
+  },
+  {
+   "block_label": "image",
+   "block_content": ""
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bộ phận dùng : Dầu sở, khô sở (Oleum Camelliae Sasanquae)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mô tả cây : Cây nhỡ, cao khoảng 5 - 7m, lá"
+  },
+  {
+   "block_label": "number",
+   "block_content": "595"
+  }
+ ]
+}

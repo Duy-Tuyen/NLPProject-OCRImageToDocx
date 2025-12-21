@@ -1,1 +1,17 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "PHỤ TRƯƠNG"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "NHỮNG CÂY - VỊ THUỐC CÓ ĐỘC"
+  },
+  {
+   "block_label": "text",
+   "block_content": "PHỤ TRƯƠNG ĐỀ CẬP ĐẾN MỘT SỐ CÂY, ĐỘNG VẬT VÀ KHOÁNG CHẤT THƯỜNG GẶP, CÓ ĐỘC TÍNH CAO - MỘT SỐ LỚN NHỮNG CÂY, VỊ THUỐC GẦN NHƯ KHÔNG CÒN DÙNG LÀM THUỐC NỮA - TUY VẬY, CHÚNG TA CẦN BIẾT ĐỂ TRÁNH HOẶC XỬ LÝ TRONG TRƯỜNG HỢP CẦN THIẾT."
+  }
+ ]
+}

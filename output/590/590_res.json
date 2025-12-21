@@ -1,1 +1,249 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Chlorophyl 0,8mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gel khô nhôm hydroxyd 160mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Phối hợp hiệp đồng trị loét dạ dày- ruột."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Loét dạ dày- tá tràng, tăng acid dịch vị, đầy bụng do nguyên nhân thần kinh, viêm và đau dạ dày- ruột, táo bón."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày uống 3 lần, mỗi lần 1 viên, sau bưã ăn."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Wei -U (Trung Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén có : Phần ngoài"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Al hydroxyd 123mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg trisilicat 58mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân có Methylmethionin sulfonium iodid 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Như Weisen -U."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn, ngày uống 3 lần, mỗi lần 1-2 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Wellferon (Mỹ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ thuốc tiêm 1ml chứa 3 mega unit (MU) interferon của người dưới dạng limphô nguyên bào tinh chế (còn gọi là interferon alfa-n1(Ins)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bệnh tăng bạch cầu tế bào lông (hairycellleukaemia)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tiêm sâu bắp thịt hay dưới da- Người lớn dùng bắt đầu ngày 1 lọ, sau 12-16 tuần, nếu có tiến triển tốt, tuần lễ tiêm 3 lần, mỗi lần 1 lọ. Đợt dùng từ 6 tháng trở lên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Rất thận trọng nếu : hen, rối loạn tâm thần, bệnh gan, thận, tim mạch, thần kinh trung ương. Cần theo dõi huyết đồ trong vài tuần đầu."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Wismusan oleosum (Đức)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Hỗn dịch dầu bismuth salicylat : Loại thường lọ 90ml dung dịch 5% và loại mạnh lọ 15ml dung dịch 10%."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Trị các thể giang mai."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Lúc đầu tiêm mỗi ngày 1ml, sau cách 3 ngày tiêm 1ml. Cả đợt điều trị tiêm từ 16-20ml dung dịch loại thường."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Wonbi (Hàn Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao lỏng Nhân sâm 100ml"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao lỏng Angelica gigantis 30mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Coa lỏng Hoàng kỳ 40mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao lỏng Dâm dương hoắc 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin E 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kèm 9 vitamin khác."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các rối loạn dinh dưỡng ở người có tuổi (như giảm sút về trí nhớ ; dễ mệt mỏi, trầm cảm....) rối loạn về tuần hoàn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày 2-3 lần, mỗi lần 1 viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Wonbi- D (Hàn Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 100ml dd uống có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao lỏng Nhân sâm 450mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao lỏng Kỷ tử 150mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B6 3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B2 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Và một số hoạt chất khác."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Lao lực thể xác và tâm thần, người mới ốm dậy, suy dinh dưỡng, rối loạn chức năng gan, thiếu máu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày 1-2 lần, mỗi lần 1 lọ."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Wonbi Won (Hàn Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Nang mềm chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri chondroitin sulfat 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Oryzanol 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin A 4000 đvqt"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin E 30mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Và 8 vitamin khác."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Suy dinh dưỡng, rối loạn chức năng gan, suy giảm chức năng ở hệ thần kinh thực vật, rối loạn thể chất ở người có tuổi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày 1 viên - nếu cần có thể uống tới 2-3 viên/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Wyanoids"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Thuốc đạn có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao belladon (tương đương 0,15mg các alcaloid toàn phần) 15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ephedrin sulfat 3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "và các thành phần khác như ZnO, acid boric, dioxyiodid, Bi subcarbonat và bôm Peru."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Giảm đau, ngứa trĩ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Nạp 1 đạn/lần x 2 lần/ngày. Dùng 6 ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tránh dùng nếu : glôcôm, người già, trẻ em dưới 6 tuổi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Không dùng thuốc lâu dài."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Nếu mạch nhanh, buồn ngủ, nhìn mờ,"
+  },
+  {
+   "block_label": "number",
+   "block_content": "579"
+  }
+ ]
+}
