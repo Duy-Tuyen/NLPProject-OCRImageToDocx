@@ -1,1 +1,58 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Ruscogenin\nRutilemon\nTitanorein\nWyanoids"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "14. Các Enzym :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Askenzyme Laleuf\nBromelain\nChymopapain\nChymotrypsin\nEizyme\nEntozyme\nFestale\nFortizym\nInsadol\nKutrase\nMelibycun\nPancrelase\nPancreflash\nSerrapeptase\nStreptokinase\nUrat- Oxydase\nUrokinase\nZymoplex\nZypan"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "15. Giải lo âu - an thần :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Assagix\nDivane\nNeurinase\nNeurocalcium\nNuidor\nQuinisedine\nRadobeline\nRotundin\nScopolamin\nSedalhy\nSympaneurol papaverin\nVériane Buriat\nVericardin"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "16. Giảm đau :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Atropin\nBeldiphin\nBelladenal"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bellafolin\nBellaginum\nBelletoval\nCodein\nDihydrocodein\nDihydroergotamin (đau nửa đầu)\nErgotamin (đau nửa đầu)\nGynergine Cafein\nHyoscin butyl bromid\nHyoscyamin\nKefalgin\nLamaline\nLao -Dal\nMorphin\nScopus\nSedarene\nSodative Bombatus\nThiocolchicosid\nThược dược cam thảo thang\nViperalgin"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "17 Chống lão hóa - Não suy :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Co- dergocrin mesylat\nCristanyl\nDr.Kobe Omega 3\nDuxil\nGinkgo Biloba\nGinkocer\nGinkor\nGinko fort\nGinko Gel\nGinko Procto\nHoạt huyết dưỡng não\nIskedyl\nMaxepa\nRaubasin\nRheobral\nRutovincin\nSeltic\nVasocalm\nVincarutin\nWonbi Won\nY.K"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "18. Tim mạch :"
+  },
+  {
+   "block_label": "number",
+   "block_content": "647"
+  }
+ ]
+}

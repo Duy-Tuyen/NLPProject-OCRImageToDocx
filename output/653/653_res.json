@@ -1,0 +1,125 @@
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Hàm ếch (cỏ)\nHuyết dụ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.9. Chữa ung thư phổi :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Huyết dụ\nLinh chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.10. Chữa ung thư vòm họng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đông trùng hạ thảo\nHạ khô thảo\nTam thất bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.11. Chữa ung thư dạ dày :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Củ ấu (vỏ củ)\nXu xi (hoa)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.12. Chữa ung thư ruột :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hạ khô thảo\nHuyết dụ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.13 Chữa ung thư vú :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Củ ấu (vỏ củ)\nHạ khô thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.14. Chữa ung thư tiền liệt tuyến :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất bắc\nKim ngân hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.15. Chữa ung thư tử cung :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xu xi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.16. Chữa ung thư não :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đông trùng hạ thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.17. Chữa AIDS :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên phấn hoa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "635"
+  }
+ ]
+}

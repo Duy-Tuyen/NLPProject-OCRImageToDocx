@@ -1,1 +1,44 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Fercupar\nFerofont\nFerobalt\nFerro- Grad\nFerromyn S\nFerroplex\nFerrum Hausman\nHepatoglobine\nLysifer\nNarbalex\nNatabec Kapseals\nSiderfol\nTardiferon\nTardiferon B9"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "10. Bệnh huyết áp :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Alkavervir\nAlseroxylon\nBidentin\nCytisin\nLinh chi\nNhị tiên thang\nOctocosnol\nRaudixin\nRaunatin\nRescinnanin\nReserpid\nReserpilin\nRethizid\nRutophyllin\nReserpin\nSaylom\nTăng áp mạch xơ hoàn\nTensatrine"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "11. Ngoài da :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Aloplastine\nAlphosyl\nAmmifurin\nCalanin\nCalo P\nCystin\nDepuratif Richelet PP\nElase\nGalla pomnade"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gamolenic acid\nHEC\nLinocalcinum\nLưu huỳnh\nMadecassol\nMadecassol Neomycin Hydrocortison\nMelagemina\nMysca\nNarina\nNeo- Medrol\nPAPS\nPhlogosan\nPolytar liquid\nRelvo 47\nSacnel\nSandoformine\nSenophile\nSolcoseryl\nTrophiderm\nTrophithricin\nTrypsin\nUltraderme\nVạn ứng cao\nVeselin gomenol\nVeybirol - Tyrothricin\nViscobande"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "12. Ỉa chảy - Vi khuẩn trị liệu :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Andilase\nAntibio\nAntibiophilus\nAskenzyme Laleuf\nAttafur\nAttapulgif\nBabo Tab\nBactisubtil\nBecelac\nBình vị tán\nBioflor\nBiolacto\nBiolactyl\nBismuth aluminat\nBismuth Talasne\nBismuth"
+  },
+  {
+   "block_label": "number",
+   "block_content": "645"
+  }
+ ]
+}

@@ -1,1 +1,26 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Carbogast\nCarbolevure\nCarbophos\nColitique\nColopten\nCurepar\nDonnatal\nEizyme\nEnterobiol\nEnteromon R\nEntozyme\nEnzystal\nFestale\nFortozym\nGastropharm\nHepanephrol\nHepatoxane\nHepaphytol\nHephytol\nHoắc hương chính khí\nHordenin\nHương liên hoàn\nHương nhu hoàn\nHương xa chỉ truật hoàn\nInocur enfant\nImudon\nKaopectat\nKiện vị tiêu hóa\nKutrase\nLacteol du Dr Boucard\nLactomed TAB\nLactulose\nLivotone\nLyantil\nLycolactil\nLio - Bifidus\nMagesto\nMucipulgit\nNarina\nNeolactyl\nNeopeptine\nNeurogastrine\nNhân trần cao thang\nNorgagil"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Normaflore\nNorguinol\nÔ hương tán\nOpizoic\nPancreatil\nPancreatin\nPancreflash\nPancrelase\nPancurmen\nPansiron G\nPanthicone F\nPapain\nPapaze\nPectipar\nPereflat\nPhosphocholin\nPlantago Ovata\nPraflor\nQuinocarbine\nRanbaxy's Garlic Pearls\nRhinopten\nSalicairine\nSeirogan\nSmectic\nSpasmocardine\nTrophigil\nUltraflore\nUltra Levure\nVibtil\nVivacidol\nZymoplex\nZypan"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "13. Trĩ :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Anoreine\nMarron d'Inde\nMastu S forte\nNaria\nPara phlebon\nPhleboidine\nPommade Midy\nPreparation\nProctolog\nProcto- Glyvenol"
+  },
+  {
+   "block_label": "number",
+   "block_content": "646"
+  }
+ ]
+}

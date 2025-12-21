@@ -1,0 +1,121 @@
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Tử uyển"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "14.2. Làm mát phổi, chữa ho (thanh phế):"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch tiền\nDâu tằm (vỏ rễ cây)= Tang bạch bì\nTiền hồ\nNhót tây (lá) = Tỳ bà diệp"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "15. Thuốc giúp tiêu hóa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cốc nha\nMạch nha\nLụa mề gà (kê nội kim)\nSơn tra\nThần khúc"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "16. Thuốc cố sáp"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "16.1. Thuốc giữ mồ hôi :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mẫu lệ\nNgũ vị tử"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "16.2 Thuốc giữ tinh khí :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kim anh (quả)\nKhiếm thực\nLiên nhục\nSơn thù du\nBọ ngựa (tổ) = Tang phiêu diêu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "16.3. Thuốc cầm ỉa chảy :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kha tử\nVỏ quả lựu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "17. Thuốc tẩy giun sán"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sử quân tử (quả giun)\nCau (hạt) = Binh lang\nTỏi ta"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "18. Thuốc giải độc"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "18.1 Thuốc thanh nhiệt giải độc :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bồ công anh\nKim ngân hoa\nLiên kiều\nRẻ quạt (Xạ can)\nSơn đậu căn\nThanh đại\nThổ phục linh"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "18.2. Thuốc sát trùng, trừ thấp :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hùng hoàng\nLong não\nThiềm tô\nPhèn chua (Minh phàn)"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "639"
+  }
+ ]
+}

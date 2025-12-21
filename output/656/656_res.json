@@ -1,0 +1,137 @@
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Đậu ván trắng (Bạch biển đậu)\nHoắc hương\nHương nhu\nMộc qua"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "9.2. Thuốc thanh giải thử nhiệt :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dưa hấu (vỏ ngoài xanh và trắng )"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "10. Thuốc lợi thấp"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "10.1. Thuốc thấm thấp :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bí đao (hạt và vỏ)\nBiển súc\nĐịa phu tử\nĐông quỳ tử\nHoạt thạch\nMã đề (cả cây)\nĐậu đỏ nhỏ (Xích tiểu đậu)\nMộc thông\nPhòng kỷ\nPhục linh (Trư linh)\nThông thảo\nTrạch tả\nTỳ giải\nÝ dĩ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "10.2. Thuốc trục thủy :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hạt bìm bìm biếc"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "11. Thuốc thanh nhiệt"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.1. Thuốc thanh nhiệt, giáng hỏa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cốc tinh thảo (Cỏ dùi trống)\nDành dành (quả)\nHạ khô thảo\nHoàng bá\nHoàng cầm\nHoàng liên\nHồ hoàng liên\nHuyền sâm\nKhổ sâm (rễ)\nLong đởm thảo\nMào gà trắng (hạt)= Thanh sương tử\nMuồng muồng ngu (hạt) = Quyết minh tử\nNgưu bàng tử\nNha đam tử\nNhân trần\nThạch cao\nTri mẫu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.2. Thuốc thanh nhiệt, lương huyết :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cỏ tranh (rễ)\nĐịa cốt bì (vỏ rễ lựu)\nMẫu đơn bì\nNgân sài hồ\nSinh địa hoàng\nThanh cao\nTê giác (sừng)\nTrâu đen (sừng)"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "12. Thuốc an thần"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bá tử nhân\nChu sa (Thần sa)\nHổ phách\nTáo nhân (nhân quả) = Toan táo nhân\nThạch quyết minh (cửu khổng) : vỏ bào ngư\nTrân châu (Trai ngọc)\nViễn chí"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "13. Thuốc trừ đờm"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "13.1. Trừ đờm do lạnh :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bối mẫu\nQua lâu (quả, vỏ quả)\nThường sơn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "13.2. Trừ đờm do nóng (nhiệt) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bán hạ\nCải trắng (hạt) = Bạch giới tử\nBồ kết (quả)"
+  },
+  {
+     "block_label": "text",
+     "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "14. Thuốc chống ho"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "14.1 Làm ấm phổi, chữa ho :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bách bộ\nBạch quả\nCải củ (hạt) = La bặc tử\nCát cánh\nMơ (nhân quả) = Hạnh nhân\nKhoản đông hoa"
+  },
+  {
+   "block_label": "number",
+   "block_content": "638"
+  }
+ ]
+}

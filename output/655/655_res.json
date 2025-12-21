@@ -1,0 +1,161 @@
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Mang tiêu (Natri sulfat)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "4.2. Thuốc nhiệt hạ (nóng gây sổ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ba đậu sương\nLưu huỳnh"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "5. Thuốc lý khí"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.1. Thuốc hành khí giải uất :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch đậu khấu\nCủ gấu (Hương phụ)\nMộc thông\nÔ dược\nThanh bì\nTrần bì\nSa nhân"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.2. Thuốc phá khí, giáng nghịch :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ thực\nĐại phúc bì (vỏ quả Cau già)\nHậu phác\nTai quả hồng (Thị đế)\nTrầm hương"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "5.3. Thuốc thông khí, khai khiếu :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cánh kiến trắng (An tức hương)\nXạ hương\nThạch xương bồ"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "6. Thuốc lý huyết"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.1. Thuốc hành huyết :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đan sâm\nĐào nhân\nHồng hoa\nÍch mẫu thảo\nMần tưới (Trạch lan)\nNghệ vàng (Khương hoàng)\nNga truật\nNgưu tất\nUất kim\nVang (gỗ) = Tô mộc\nXích thược\nXuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "6.2. Thuốc cầm máu (chỉ huyết):"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch cập\nCỏ nhọ nồi (Cỏ mực)\nĐại kế\nĐịa du\nHòe hoa\nLong nha thảo\nÔ tặc cốt (Mai cá mực)\nSen (ngó) = Ngẫu tiết\nTam thất bắc\nThiến thảo\nTrắc bá diệp\nTóc rối (Huyết dư)"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "7. Thuốc khu phong"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "7.1. Thuốc tức phong, trấn kinh:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Câu đằng\nBọ cạp (Toàn yết)\nRết (Ngô công)\nTầm gửi dâu (Tang ký sinh)\nTằm vôi (Bạch cương tàm)\nThiên ma\nThuyền thoái (xác lột Ve sầu)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "7.2. Thuốc sưu phong, thông lạc:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xương hổ (Hổ cốt)\nGiun đất (Địa long)"
+  },
+  {
+     "block_label": "text",
+     "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "8. Thuốc khu hàn"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.1. Thuốc ôn lý, khu hàn:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đinh hương\nGừng khô (Can khương)\nHạt quả vải (Lệ chi hạch)\nHồi hương (Đại hồi)\nNgải cứu (lá)\nNgô thù du\nRiềng (Cao lương khương)\nThảo quả\nXuyên tiêu"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "8.2. Thuốc trợ dương, hồi quyết:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quế nhục\nPhụ tử"
+  },
+  {
+    "block_label": "text",
+    "block_content": "</break>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "9. Thuốc khu thử"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "9.1. Thuốc ôn tán thử thấp:"
+  },
+  {
+   "block_label": "number",
+   "block_content": "637"
+  }
+ ]
+}

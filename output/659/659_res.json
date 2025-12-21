@@ -1,0 +1,13 @@
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Algeldrat\nAlgicon\nAlcid V\nAllochol\nAlltazen\nAlmalox\nAluphosyl\nAntacid\nAntasine\nAntigas\nAntigas plus\nAnti H\nAzym\nBedelix\nBellafolin\nBellagium\nBelletoval\nBình vị tán\nBismuth aluminat\nBismuth Tulasne\nBisodol\nCamalox\nCarbogast\nEizyme\nEnzystal\nGastrolugel\nGastrogel\nGastropharm\nGastropulgite\nGaviscon\nGelfos\nGelogastrine\nGelox\nGelusil\nGlycomone\nKalmag\nKaobrol\nKaologeais\nKaomuth\nKremil S\nMaalox\nMaalox plus\nMagaldrat\nMagesto\nMalogel\nMaloxal 2\nMucal\nMutesa\nMyerlanta\nMylanta\nNeo- vis\nNeutroses - Vichy\nNilacid\nNoigel\nNormogastril\nOrthogastrin\nOxyboldin\nPansiron G\nPapaze\nPeetizels\nPF gel\nPFT\nPhosphalugel\nPhosphocholin\nPlantacid\nPrefagyl Oberlin\nPromag\nRennie\nRocgel\nRomarène\nSagastrol\nSecretin\nSimagel\nSimaldrat\nSimeco\nSmecta\nSolcoseryl\nSolugastryl\nSorbacid liquid\nSucralfat\nSupralox\nTopaal\nTriglysal\nUniaxid\nUracid\nVaroma\nVicalin\nVikaira"
+  },
+  {
+   "block_label": "number",
+   "block_content": "641"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "DANH MỤC BIỆT DƯỢC SẮP XẾP THEO TÁC DỤNG CHỮA BỆNH"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "1. Bệnh gan, mật, táo bón :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Abilin\nActisorbol\nAgocholine\nAllochol\nAyurvina\nB. A. R\nBetasiphon\nBilifluine\nCanol\nChenodesoxycholic acid\nChophytol\nCholesfan\nCurepar\nCynabile\nCynaphytol\nCynara scolynus\nCynarin\nD.D.B\nDigédryl\nEngystral\nEsliver\nEvonyl - Sené\nHepanephrol\nHepatoxane\nHephytol\nHetricol\nLinavina\nLinh chi\nCipacol\nLiv 52B\nLiveractin\nLô đảm\nDr. Kobe Omega 3\nMaxepa\nOddibil\nOlimantin\nOmitan\nOrthocynar\nOrthogastrin\nOxyboldin\nPhosphocholin\nPhosphorylcholin\nPhytol\nRomarène\nSecretin\nSilibinin\nSiliborum\nSilicomp\nSilimarin\nSirô nhân trần\nUremiase\nUrosiphon\nUrsodesoxycholic acid"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "2. Bệnh đường niệu - Lợi tiểu :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chophytol\nCystenal\nCystone\nDu long thái (Rau dừa nước)\nFructose\nKim tiền thảo\nLespénéphryl\nLevulose\nLinh chi\nMagurlit\nMannitol\nMictasol\nMictasol bleu\nNhân trần cao thang\nOlimentin\nOrthocynar\nSirnakarang\nTadenan\nUrosiphon\nUversin"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "3. Bệnh dạ dày - ruột :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acridin\nAttapulgite\nActicarbine"
+  },
+  {
+   "block_label": "number",
+   "block_content": "640"
+  }
+ ]
+}

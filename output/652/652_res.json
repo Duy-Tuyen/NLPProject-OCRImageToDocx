@@ -1,0 +1,165 @@
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "10.13. Trợ đẻ, thúc đẻ (ocytocique) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bóng nước (hạt)\nHòe\nHồng hoa (liều vừa đủ)\nÍch mẫu (lá, hạt)\nNgũ vị tử\nNgưu tất\nTáo chua (nhân hạt)\nThiên hoa phấn (liều vừa)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "10.14. Phụ nữ có thai khi dùng phải thận trọng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ba đậu sương\nBán hạ\nBìm bìm biếc (hạt)\nBóng nước (hạt)\nBồ kết (quả gai)\nCỏ tranh (rễ)\nCốt khí củ\nĐại hoàng\nHòe (quả)\nHồng hoa\nLong đởm\nMã đề\nMần tưới\nMẫu đơn bì\nMột dược\nNghệ\nNgưu tất (cỏ xước)\nNhũ hương\nÔ đầu\nPhụ tử\nThiến thảo\nXuyên khung"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "10.15. Viêm vú :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bối mẫu xuyên"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "10.16. Thông sữa:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bồ kết (gai)\nĐông quỳ tử\nMộc thông\nMướp (xơ)\nThông thảo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "10.17. Lợi sữa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bí đao (vỏ quả)\nBồ công anh\nMạch môn\nRau má\nRau thai nhi (Tử hà xa)\nTiểu hồi\nViễn chí\nÝ dĩ"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "11. Thuốc nghiên cứu phối hợp chữa ung thư"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.1. Những thuốc có thể gây ung thư :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ba đậu (dầu hạt)\nBa gạc (gây ung thư vú)\nThủy xương bồ\nThương lục\nVòi voi (cây)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.2. Gây biến đổi về gen :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiên hoa phấn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.3. Làm tăng số lượng bạch huyết cầu :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Rễ củ gai (làm bánh)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.4. Chống khối u (antitumoral) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mộc thông\nNgưu bàng (rễ)\nPhục linh\nTam thất bắc\nLinh chi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.5. Chữa ung thư máu :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tam thất bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.6. Chữa ung thư bạch cầu :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thanh đại (lá chàm mèo)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.7. Chữa giảm tiểu cầu :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại táo\nTam thất bắc"
+  },
+  {
+   "block_label": "text",
+   "block_content": "</break>"
+  },
+  {
+   "block_label": "sub_paragraph_title",
+   "block_content": "11.8. Chữa ung thư gan :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Baba (mai) = miết giáp\nĐông trùng hạ thảo"
+  },
+  {
+   "block_label": "number",
+   "block_content": "634"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Weidoson\nWeisen - U\nWei U"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "4. Suy nhược chức năng, bổ dưỡng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Actiphos\nApiserum\nApivit\nCao tam tài\nCarencyl\nCleo\nCola\nCúc hoa trà điều tán\nDepuratif Richelet PP\nDr. Kobe Omega 3\nEisen\nGalactogil\nGinkgo\nGinkgo biloba\nGinkgocer\nGinkgo Phytosome\nGinsana G115\nGinseng alpha 500mg\nGintona\nHà sa đại tạo hoàn\nHepatoglobine\nHoàng kỳ lục nhất thang\nHoàng kỳ kiện trung thang\nHoạt huyết dưỡng não\nHomtamin\nHomtamin Ginseng\nKinh ngọc cao\nKogin\nKorean ginseng\nLactogil\nLinavina\nLinh chi\nLục vị địa hoàng hoàn\nMag 2\nMaxepa\nMegamag\nMégasthenyl\nNarhalex\nNeogadine\nNhị long ẩm\nPantocrin\nPhytin\nRevigin\nRượu tắc kè\nRượu rắn\nSandocal\nSaparal\nStrychin\nTabloka\nThanh nga hoàn\nThập toàn đại bổ\nThất bảo mỹ nhiệm đơn\nThủ ô bổ dưỡng thang\nTonitensin\nTứ vật thang\nUvimag B6\nUvit B\nVenomin\nVerrulyse - methionine\nXylitol\nYohimbin\nYohistrin Masculin"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "5. Bệnh tai mũi họng:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Aluctil\nBalsamorhinol\nBalsofumin\nBasofletol\nBiostin\nCicliomenol\nKarvol\nLưu huỳnh\nMadecassol\nNecyrane\nPharmasan\nPseudoephedrin\nRibomunyl\nSulforgan\nSulfothiorine Pantothenique\nSulfuryl Monal\nThiofen\nThiopheol\nThiopon"
+  },
+  {
+   "block_label": "number",
+   "block_content": "642"
+  }
+ ]
+}

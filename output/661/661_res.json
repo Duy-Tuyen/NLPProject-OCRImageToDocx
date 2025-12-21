@@ -1,0 +1,21 @@
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Trophirès\nVicks"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "6. Chuyển hóa - Dinh dưỡng - Vi lượng khoáng + Vitamin :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Actovegin\nAmigreen\nAminopeptid\nAvail\nAzedavit\nBaterol\nCalcevit\nCalcigenol Vitaminé\nCalcium 500mg\nCalcium Corbière\nCalcium Sandoz\nCampovit fort\nCao tam tài\nCarencyl\nCebrex\nCerebrovit\nCleo\nDepuratif Richelet Vita PP\nDextrose\nEldercaps\nEleutherococcus\nElevit vitamin B9\nFerofort\nFructose\nGeriforte\nGerimax\nGinkgo Phytosome\nHepatoglobine\nHeptan\nHomtamin\nHomtamin Ginseng\nIntralipid\nIonimag\nIvelip\nIvemix 140-160\nLevulose\nLipofundil\nLipoven\nLiversol inj\nMagnesium 250\nMagnepasmyl\nMineral theravit Gateway\nMultilim R.G.\nMultivitamin M\nMyavite\nNatal Vit\nNeogadine\nObimin\nOsco\nOssein Hydroxyapatit\nOssopan\nPanvitan M\nParamettes\nPharbiton\nPharmagin\nPharmaton\nPharmax\nPharmax Gel\nPharmax G2\nPlenyl\nPlusssz\nQuotivit O. E\nReviconforte\nRevigin\nRevitalin SL90\nServivit M\nSpasmag\nSthenorex\nSupradine\nSurex\nSurvitine\nSữa ong chúa\nSynergyl\nTheragran Hematic\nThera Peutic M\nTherazym M\nTop- Roll\nTotal Magnesien\nUnicap M\nVargan\nVicaps\nVidaylin M\nVidaylin F- Iron\nViferron"
+  },
+  {
+   "block_label": "number",
+   "block_content": "643"
+  }
+ ]
+}

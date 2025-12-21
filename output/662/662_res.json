@@ -1,1 +1,41 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Vineran\nVita - albu\nVita - cap\nVitamyne\nVitaplex mineral\nVitarnin\nVitazym\nVitron\nZedene C\nZegavit"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "7. Nhuận tràng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Agiolax\nAntimucose\nApilase\nBán lưu hoàng\nB.A.R\nBismuth Tulasne\nBoldolaxine\nCasanthranol\nDepurgan\nDragées Pachaut\nEvonyl- Sené\nIgol\nInolaxin\nLactulose\nLafinol\nLaxamalt\nMolagar\nMucinum\nMucipulgit\nNarina\nNeo- Boldolaxine\nNormacol special\nOxyboldin\nPeristatine\nPhosphoryl cholin\nPlantago ovalta\nPhuribiase\nPrefanyl Oberlin\nPursennide\nSenokot\nSenosid\nSpasmacol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Spevin\nTamarine\nTisane clairo Wededa\nTransilane\nTransipeg\nTransitol\nVegelax\nVulcase\nX-Prep"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "8. Cầm máu - Điều kinh (Băng huyết - xuất huyết):"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ái mẫu ninh\nAlbunim huyết tương người\nAlbutein\nBatroxibin\nCao ích mẫu\nErgometrin\nErgotamin\nFibrinogen\nGynécrise\nHaemopholin\nHemocoagulase\nJuvenol\nKogenate\nLong nha thảo tố\nLumbricus Rubellus\nPectin\nPlasmagel\nProtein huyết tương người\nRecombinate\nRecormon\nRefortan\nReptilase\nRutascorbin\nSandoglobulin\nStop - Hemo\nThanh kim hoàng\nThrombase\nThrombin\nTứ vật thang\nUkidan"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "9. Thiếu máu -thiếu sắt :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dextran Sắt"
+  },
+  {
+   "block_label": "number",
+   "block_content": "644"
+  }
+ ]
+}

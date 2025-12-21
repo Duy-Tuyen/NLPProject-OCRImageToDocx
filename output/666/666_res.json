@@ -1,1 +1,35 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Cafein\nCarditonyl\nCortonyl\nCrataegutt forte\nDetajmium bitartrat\nDigitoxin\nDigoxin\nDivane\nDivaricosid\nDr. Kobe Omega 3\nFructose\nGitaloxin\nKalium Magneium asparaginat\nKallidinogenase\nKwai\nLanatosid A\nLanatosid B\nLobelin HCl\nMaxepa\nNa camphosulfonat\nNeutrophène\nOctocosnal\nOleandrin\nOuabain\nPeruvosid\nProscillaridin\nQuinisedin\nSaylom\nSpasmosedin\nThirial"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "19. Ho - Hen :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bổ phế chỉ khái lộ\nCalyptin\nCodein\nCoderit\nCodethylin\nCodterpin\nCousin\nCurosurf\nDihydrocodein\nDornase alfa\nEphedrin\nEthipax Depot"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Eucalyptine le Brun\nGalucin HCl\nKarvol\nKinh ngọc cao\nMarax\nNeo -terpon\nOzothine\nPassédyl\nPectol\nPectussin\nPharmasan\nPholcones\nPulmofluide\nPulmoll\nPulmoserum\nSolubeol\nSolutan\nStopasthme\nTam hoàng cầm\nTam tử dưỡng thân thang\nTang cúc ẩm\nTedral SA\nTetralan\nTerpicod\nTerpin codein\nTerpin Gonon\nTerpone\nThanh kim hoàng\nTheophylin\nTheralène pectoral\nThiosedral\nTiểu sài hồ thang\nTrophirès\nTuberol\nTussipax\nVapo- myrtol\nVégétoserum à la codethyline"
+  },
+
+  {
+   "block_label": "paragraph_title",
+   "block_content": "20. Mắt :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dr.Kobe Omega 3\nEyecomin\nItone\nMarticassol\nMaxepa"
+  },
+  {
+   "block_label": "number",
+   "block_content": "648"
+  }
+ ]
+}
