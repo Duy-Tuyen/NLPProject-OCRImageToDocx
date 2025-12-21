@@ -1,1 +1,213 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "huyết áp, cường tuyến giáp, phì đại tuyến tiền liệt, glôcôm góc đóng. Còn có dạng thuốc hỗn dịch và cồn ngọt nhưng khối lượng thành phần khác nhau."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tedralan (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên 2 lớp : Lớp tác dụng ngay :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Theophylin khan 90mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Racephedrin HCl 32mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Như Tedral SA."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tác dụng kéo dài nên uống cách từ 8-12 giờ. Người lớn uống 1 viên, sáng và chiều, không quá 3 viên/ngày. Trẻ em trên 7 tuổi uống mỗi lần 1/2 viên, 2 lần/ngày, cách 12 giờ, hay mỗi lần 1/2viên x 3 lần/ngày, cách 8 giờ,- Trẻ em từ 8-12 tuổi, uống mỗi lần 1/2 viên x 3 lần/ngày, cách 8 giờ, cho tới mỗi lần 1 viên x 2 lần cách nhau 12 giờ. - Trẻ em từ 12-15 tuổi uống, mỗi lần 1 viên x 2lần/ngày, cách nhau 12 giờ. Không dùng quá 3 viên/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Trẻ em dưới 7 tuổi. Các chống chỉ định khác và lưu ý (xem Tedral SA)"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Telebar gastrique (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Gói 340g để pha dịch treo uống có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Loại 302,09g bari sulfat và 33,66g bari sulfat để pha dịch treo."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Chiếu tia X dạ dày - tá tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Pha gói thuốc vào 70ml nước lạnh, lắc mạnh 30 giây nữa ngay trước khi dùng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tensatrine (Hungari)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biệt dược tương tự : Veralba (Mỹ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén 0,25mg protoveratrin A và B."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Là hỗn hợp alcaloid từ cây Veatrum album có tác dụng hạ huyết áp."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Tăng huyết áp, ngộ độc thai nghén, cơn tăng huyết áp, tiền kinh giật và kinh giật."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Liều lượng điều chỉnh cho thích hợp với từng bệnh nhân nội trú. Người lớn : ngày đầu uống 3-6 viên, chia làm 4-6 lần. Uống sau bữa ăn. Nếu cần, tăng liều dần dần đến 6-8 viên/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Xơ cứng động mạch, nhất là động mạch vành và động mạch não. Viêm thận nặng, triệu chứng urê huyết. Nhịp tim đập chậm hoặc loạn nhịp ngoại tâm thu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tai biến có thể xảy ra như : buồn nôn, nôn mửa, tăng tiết nước bọt, nhịp tim chậm, dùng quá liều gây trụy tim mạch."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tentex forte (Ấn Độ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén bọc chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Saffron 25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Piper nigrum 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Các cao thuốc Muskdana 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nux vomica (đã hết độc tính) 16mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Makardhwaj 16mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Shilaject (tinh chế) 32mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Orchis mascula 16mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Anacyclus pyrethrum 16mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Withania somnifera 65mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sida cordifolia 16mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bombax malabaricum 16mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Argyreia speciosa 32mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mucuna pruriens 32mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trivang 32mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "và các dược thảo khác như : Asparagus racemosus, Ipomosa digitata, Piper betle, Tribulus terrestris, Tinospora cordifolia, Acacia arabica (quả), dashamoola."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Cường dương."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các chứng suy sinh dục, bất lực, suy giảm sinh dục ở người đứng tuổi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày 2 lần x 2viên trong 10 ngày. sau đó dùng liều duy trì giảm đi."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Terpìn - Codein"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Terpicodin, Terpicod"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : 1 viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Terpin hydrat 0,10g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Codein phosphat 0,15g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định ` Ho, viêm khí quản, viêm phế quản."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn uống 1-3 viên, một ngày, mỗi lần 1 uống viên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Trẻ em dưới 30 tháng. Suy hô hấp."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Cần tìm nguyên nhân gây ho để dùng thuốc cho đúng nhất là hen phế quản, viêm phế quản mạn, giãn phế quản, các chất gây cản trở trong phế quản, ung thư, nhiễm khuẩn phế quan- phổi, suy thất trái, tắc nghẽn phổi, tràn dịch màng phổi... Nếu dùng thuốc ho với liều thông thường không đỡ, không nên tăng liều mà dùng biện pháp khác để chữa trị."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thuốc gây buồn ngủ : lưu ý với người"
+  },
+  {
+   "block_label": "number",
+   "block_content": "545"
+  }
+ ]
+}

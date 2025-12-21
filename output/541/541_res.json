@@ -1,1 +1,165 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Natri fluorid 40mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Đồng sulfat khan 40mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Diệt khuẩn, làm săn và mất mùi hôi thối."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định và liều dùng : Khoa phụ, hòa tan 1 viên vào 2 lít nước đun sôi để nguội- Làm vệ sinh hàng ngày - trị khí hư- Khoa da liễu : hòa 4 viên vào khoảng 3 lít nước để ngâm chân, sáng và tối, trị chứng mồ hôi chân."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Saparal (Nga)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Saparalum"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén chứa 0,05g hoạt chất."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Gồm toàn bộ các muối amonium của aralosid (là một glycosid triterpen), chiết xuất từ rễ cây Aralia mandshurica Rupr.et Maxim, dưới dạng bột vô định hình màu vàng xám, không mùi, dễ hút ẩm, và dễ tan trong nước. Có tác dụng kích thích hoạt động ở hệ thần kinh trung ương."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Các trường hợp hợp mệt mỏi, suy nhược thần kinh, giảm huyết áp, lao lực về thể xác và tâm thần."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn, ngày uống 2-3 lần, mỗi lần 1 viên vào sau bữa ăn. Đợt điều trị 2-3 tuần, nghỉ 1-2 tuần, lại dùng đợt khác nếu cần. Liều duy trì : ngày 1-2 viên.."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Động kinh, thần kinh dễ bị kích thích, chứng tăng động, tăng huyết áp."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Khi mới dùng, tránh uống vào buổi chiều, vì có thể ban đêm khó ngủ."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Saylom (Hàn Quốc)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Nang mềm chứa :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Selenium dạng men khô (tương ứng với 50mcg selenium) 92,6mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin E 400 IU"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin C 500mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin A 5000IU"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Selenium là một nguyên tố vi lượng tham gia vào cấu tạo hệ enzym glutathion peroxidase (men này bảo vệ cấu trúc tế bào chống lại quá trình oxy hóa gây hủy hoại). Các vitamin A, C, E cũng có tác dụng chống oxy - hóa, hiệp đồng chống lại quá trình oxy hóa ở tế bào, cụ thể là : Ngăn ngừa và làm chậm lại quá trình lão hóa ở cơ thể."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Phân giải các gốc tự do nội sinh hoặc ngoại sinh, phòng và ngừa sự hình thành ung thư."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Ngăn ngừa vữa xơ động mạch, bảo vệ thành mạch, và điều hòa lipoprotein."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tăng sức đề kháng của cơ thể"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Dự phòng một số bệnh về tim mạch, tăng huyết áp, nhiễm khuẩn, nghiện thuốc lá, rượu, rối loạn tuần hoàn hoặc thị giác."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Thích hợp cho những người có nguy cơ cao mắc bệnh tim mạch, nghiện thuốc lá, rượu béo phì, người công tác trong điều kiện căng thẳng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn ngày 1 viên sau bữa ăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Không dùng bổ xung quá 8000 IU vitamin A trong 24 giờ, nhất là phụ nữ có thai, vì có thể gây tổn hại cho phát triển của bào thai."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng phụ có thể xảy ra : kém ăn, buồn nôn, ỉa chảy."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Scopoderm TTS"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Hệ thống điều trị qua da để dán vào da và chứa 1,5mg scopolamin (bề mặt tiếp xúc 25cm2)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Scopolamin chiết xuất từ một số cây họ Cà(Solanaceae). Liệt đối giao cảm kiểu atropin."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Phòng các triệu chứng nôn nao khi đi tàu xe."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Dán một miếng phía sau tai ở chỗ da khô không có tóc buổi tối hôm trước nếu sáng hôm sau khởi hành, hoặc từ 6 giờ đến 12 giờ trước khi đi. Khi đến nơi, dứt miếng dán đi. Với một miếng dán đủ đề phòng cho một chuyến đi trong 72 giờ. Nếu lâu hơn, sau 72 giờ sẽ bỏ miếng cũ và dán một miếng mới ở phía tai bên kia."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Nguy cơ glôcôm góc đóng. Bí đái do rối loạn niệu đạo- tuyến liệt tuyến. Mẫn cảm với scopolamin. Trẻ em dưới 15 tuổi."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Kiêng rượu trong thời gian dùng thuốc. Ở một số người già, dùng thuốc có thể bị lú lẫn và ảo giác - khi đó phải dừng lại ngay. Nên thận trọng với phụ nữ đang nuôi con bú."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Scopolamin"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tên khác : Escopolamin; Hyoscin"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Chiết xuất từ một số cây họ cà Solanaceae."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén 0,3mg, ống tiêm 1ml= 20mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : An thần, gây ngủ, thuốc tiền mê (phối hợp), giãn đồng tử. (Liệt đối giao cảm)."
+    },
+    {
+      "block_label": "number",
+      "block_content": "530"
+    }
+  ]
+}

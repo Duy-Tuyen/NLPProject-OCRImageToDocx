@@ -1,1 +1,245 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Ỉa chảy không đặc hiệu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ỉa chảy cấp : trên 12 tuổi : 1 gói/lần x 3 gói /24 giờ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trẻ 6-12 tuổi : uống 1/2 gói sau đó 1,5 gói/24giờ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trẻ dưới 6 tuổi : theo chỉ định của thầy thuốc (hòa trong chai nước, trộn với thức ăn lỏng)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lắc kỹ khi dùng - Không dùng quá liều tối đa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Quá mẫn cảm với 1 thành phần của thuốc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Dùng đúng liều chỉ định. Khi có sốt không dùng thuốc quá 2 ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Nếu ỉa chảy mất nước, cần bù nước trước."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Cẩn thận với người suy thận nặng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Dùng thuốc khác phải cách xa thuốc này ít nhất 2-3 giờ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Có thể bị táo bón."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Sirô Nhân trần"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Sirô:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nhân trần 24g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chi tử 12g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nước 600ml - sắc lấy 100ml- thêm đường cho đủ thành sirô."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm gan, vàng da, vàng mắt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 30ml/lần x 3 lần/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Solcoseryl (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống tiêm 2ml chứa 720mg cao cô đặc ổn định máu bê đã khử protein trong nước cất để tiêm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Giúp tế bào sử dụng oxy được tốt hơn do hoạt tính quá trình hô hấp ở tế bào (kích thích phản ứng phosphoryl - hóa và tổng hợp ra ATP), đồng thời thúc đẩy sự vận chuyển glucose, các ion Na*, K* qua màng tế bào - do đó làm cho quá trình phục hồi và tái tạo ở các mô bị tổn thương được tăng nhanh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : 1) Khoa tiêu hóa : loét dạ dày- tá tràng, viêm dạ dày, thoát vị khe thực quản, di chứng sau cắt bỏ dạ dày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "2) Các chỉ định khác : các tổn thương về dinh dưỡng ở mạch máu, dây thần kinh, sau phẫu thuật hoặc chấn thương, các vết bỏng ngoài da, giãn tĩnh mạch, vết bỏng hoặc vết thương, tổn thương ngoài da do phóng xạ..."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : 1- Khoa tiêu hóa : tiêm tĩnh mạch hoặc tiêm bắp thịt ngày 1-2 ống. Đợt dùng : 16ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "2- Các chỉ định khác : ngày 2 ống, trong 12 ngày. Còn dùng tiêm truyền tĩnh mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Chưa thấy có chống chỉ định với thuốc - Còn có dạng thuốc mỡ, 1,66% (ngày bôi 1 lần)."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Solubeol (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống tiêm 5ml/thuốc đạn người lớn/trẻ em/trẻ sơ sinh có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu biên bách 1mg/10mg/5mg/2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu khuynh diệp 1mg/10mg/5mg/2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu bài hương 1mg/10mg/5mg/2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu oải hương 0,5mg/5mg/2.5mg/1mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu thông 6,5mg/65mg/32,5mg/13mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Sát khuẩn phổi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các chứng viêm nhiễm cấp và mạn tính, sau phẫu thuật phế quản- phổi"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tiêm bắp 1-3 ống - Phun mù: 1-2 ống- Nạp 2-3 thuốc đạn/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Solugastryl (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén sủi có:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Na sulfat khan 285mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Na hydrogenophosphat khan 195mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Magnesium chlorid 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Trung hòa acid dịch vị."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các chứng tăng acid dịch vị gây đau trong chứng viêm thực quản, dạ dày - tá tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày 1-2 viên, vào sau bữa ăn hoặc khi đau, hòa vào 1 cốc nước."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Suy thận nặng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Solutan (Czech)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 50ml thuốc giọt, cứ 1ml chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Radobelin 0,1mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Saponin 1mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tinh dầu Foeniculum 0,4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Procain hydrochlorid 4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ephedrin hydrochlorid 17,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Natri iodid 100mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Kali iodid 111mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bôm Tolu 25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nước cắt hạnh nhân đắng 30mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Long đờm và giãn phế quản."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Hen phế quản, viêm phế quản."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày 2-3 lần, mỗi"
+  },
+  {
+   "block_label": "number",
+   "block_content": "536"
+  }
+ ]
+}

@@ -1,1 +1,217 @@
-{}
+{
+  "has_image": false,
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Rắn hổ mang 10 con"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Rắn ráo 10 con"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Thiên niên kiện 1kg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Câu tích 1kg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Huyết giác 1kg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Ngũ gia bì 1kg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Hà thủ ô đỏ 1kg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kê huyết đằng 1,5kg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Trần bì 0,3kg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tiểu hồi 0,2kg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Rượu 35° - 40° 100 lít"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Một bộ 3 loại rắn phải trên 1 kg. Làm rắn : lột da, bỏ ruột, chặt đầu, lau khô bằng giấy bản (không rửa nước). Rửa qua bằng rượu gừng hoặc quế - lau khô. Ngâm rượu - có thể ngâm cùng với các vị thuốc hoặc ngâm riêng, nếu không ngâm rượu xấy khô tán nhỏ, thành bột, (giữ sạch và kín)."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Bồi dưỡng, đau nhức khớp- chân- tay- xương."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng . Uống 30ml trước khi đi ngủ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Không dùng cho phụ nữ có thai. Có thể dùng cùng loại rắn."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Ruscogenin"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Thuốc đạn/ ống 15g thuốc có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Ruscogenin 8 120mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Chống viêm, che chở mao mạch tại chỗ- trị trĩ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Trĩ nội và ngoại. cơn trĩ. Phẫu thuật trĩ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Thuốc mỡ dùng cho trĩ nội không bị sa, sa trĩ huyết khối, sau phẫu thuật."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Thuốc đạn : 2-4 viên/ngày"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Thuốc mỡ bôi 2-4lần/ngày."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Rutascol (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên có :"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Rutosid 0,02g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin C 0,20g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Kalleon 3 đv sinh học"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Trợ tĩnh mạch và che chở mạch."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Giãn mao mạch, bầm máu, đốm xuất huyết, suy tĩnh mạch - bạch huyết. Rối loạn chức năng : nặng chân, dị cảm, co rút, đau nhức trĩ."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Giòn và suy mạch : 3,5 viên/ngày - Uống 20ngày/tháng - uống lâu dài. Cơn trĩ : uống 18 viên/ngày, chia 3 lần x 3 ngày."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Rutophyllin (Hungari)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Mỗi viên có:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Rutosid 0,02g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Butobarbital 0,03g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Theophylin 0,1g"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Chữa tăng huyết áp, xơ cứng động mạch, bệnh về mạch máu ngoại vi và não."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn, mỗi lần uống 1-2 viên, ngày uống 3 lần, liền trong nhiều tuần hay nhiều tháng."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Rutosid"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tên khác : Rutin, Sclerutin"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Rutosid (Rutin) thu được từ hoa hòe, kiều mạch, Fagopyrum esculentum (Polygonaceae) hoặc từ nguồn khác như chồi, nụ của cây Chinese pagoda, Sophora Japonica, lá của vài loại Eulalyptus. Có tác dụng bảo vệ mạch, triệu chứng giãn tĩnh mạch."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Rutovincine (Pháp)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén bọc đường:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Toàn bộ alcaloid của"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vinca minor 50mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Troxerutin 50mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Vitamin C 75mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng : Điều hòa chuyển hóa neuron, giúp tế bào não chống lại triệu chứng giảm oxy- huyết, bảo vệ thành mạch."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Lão hóa não, giảm trí nhớ, rối loạn tập trung, giấc ngủ, di chứng tai biến mạch máu não, rối loạn giác quan do mạch đặc biệt với khoa mắt, rối loạn võng mạc do mạch, bệnh điểm vàng, thiếu máu thoái hóa. Khoa tai, mũi họng : rối loạn ốc tiền đình do mạch hay áp lực làm cho chóng mặt, ù tai, giảm thính lực."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Uống 2-3viên/ngày, chia đều trong ngày, uống vào lúc ăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Tân tạo não có tăng áp suất trong não, phụ nữ có thai."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Không tăng liều ở người suy tim nặng hay rối loạn nhịp. Tác dụng phụ ít xảy ra (3%) : buồn nôn, nôn, đau thượng vị, nổi mày đay."
+    },
+    {
+      "block_label": "number",
+      "block_content": "528"
+    }
+  ]
+}

@@ -1,1 +1,233 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tang cúc ẩm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Thuốc sắc :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tang diệp 6g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cúc hoa 6g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liên kiều 4g."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạc hà 4g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cam thảo 4g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cát cánh 4g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "cho vào 600ml - sắc còn 200ml"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Ho - cảm mạo- sốt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : 200ml chia làm 3 lần, uống trong ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tardiferon (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Fe2+ sulfat sesquihydrat 256,3mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mucoproteose 0,08g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid ascorbic 0,03g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Trị liệu sắt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Thiếu máu giảm sắt do thiếu hay mất (chảy máu mạn), thiếu máu tiểu hồng cầu giảm sắc kèm theo giảm sắt huyết và tăng khả năng bão hòa siderophilin. Phòng thiếu sắt ở phụ nữ có thai."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Chỉ dùng cho người lớn. Chữa trị 100-200mg sắt/ngày, tức 1-2 viên/ngày. Dự phòng 3 tháng cuối kỳ thai : 5mg ? sắt/ngày, tức 1 viên hàng ngày hay cách nhật."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Quá tải sắt. Thuốc làm giảm hấp thụ cyclin- Dùng cùng lúc với các thuốc dạ dày- tá tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Có thể bị buồn nôn, táo bón, ỉa chảy."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tardyferon B9 (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên bọc đường chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sắt II sulfat sesquihydrat 160,2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid folic 0,35mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mucoproteose 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C 30mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Phối hợp muối sắt, acid folic và acid ascorbic với mucoproteose (có tác dụng bảo vệ niêm mạc dạ dày, để tăng dung nạp với sắt)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng các chứng thiếu máu và acid folic ở phụ nữ có thai do ăn uống không cung cấp đủ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày 1 viên từ tuần lễ thứ 24 thời kỳ có thai. (Nên uống vào trước bữa ăn)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Xem ở \" Sắt succinat\""
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tata lact (Ấn Độ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 500ml dd tiêm truyền chứa acid lactic, NaOH, NaCl, KCl, CaCl2, HCl."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bổ xung điện giải qua tiêm truyền tĩnh mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tùy theo trương hợp và người bệnh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Ứ nước ở cơ thể."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tăng áp mạch xơ hoàn"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên: Vừng đen, Hà thủ ô, Ngưu tất. Ba vị bằng nhau, - Tán thành bột- Dùng mật ong làm thành viên hoàn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Tăng huyết áp, xơ cứng mạch, cảm mạo bán thân bất toại, táo bón."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 10g/lần x 3 lần/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Téaline (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang chứa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột lá Chè xanh (chứa ít nhất 2% cafein) 250mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột cành có lá cây Râu mèo 150mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phối hợp với chế độ ăn thích hợp để trị chứng béo phì"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn, ngày 3 lần x 1-2 viên, uống vào bữa ăn với 1 cốc nước."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tedral Sa (Mỹ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Theopylin khan 180mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ephedrin HCl 48mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phenobarbital 25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Làm giãn phế quản do hen suyễn, có tác dụng tức thì và lâu dài."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Chữa triệu chứng hen suyễn, viêm phế quản, hen, co thắt phế quản. Phòng cơn hen, ổn định hen suyễn giai đoạn theo mùa hay quanh năm. Cơn suyễn cấp tính hay mạn. Có thể phối hợp trị liệu với các thuốc khác bằng cách hít thờ, tiêm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn uống 1 viên lúc thức dậy và 1 viên 12 giờ sau đó. Trẻ em : tùy theo tuổi và chỉ dùng cho trẻ từ 12 tuổi trở lên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Mẫn cảm với thuốc- Rối loạn chuyển hóa porphyrin- Dùng chung IMAO. Uống rượu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Có tác dụng phụ : đánh trống ngực, run rẩy, mất ngủ, khó đái - Thận trọng với người bệnh tim mạch, tăng"
+  },
+  {
+   "block_label": "number",
+   "block_content": "544"
+  }
+ ]
+}

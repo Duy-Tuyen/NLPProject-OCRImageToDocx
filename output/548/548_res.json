@@ -1,1 +1,237 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "lần 10-30 giọt. Trẻ em từ 13 tháng đến 6 tuổi: ngày 5 giọt. Trẻ em từ 7-15 tuổi : ngày 2-3 lần, mỗi lần 5-10 giọt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Glôcôm."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Sommières au pentavit B (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 10ml nhỏ thuốc nhỏ mắt, khi dùng mới pha chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "NaI 100mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "LiI 20mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci chlorid 80mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiamin HCl 2mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Riboflavin 0,6mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin B6 0,6mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nicotinamid 4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci pantothenat 0,6mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Đục nhân mắt mới bắt đầu, lão suy mắt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày nhỏ mắt 2-3 lần, mỗi lần 2 giọt."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Sorbacid lipuid (Ấn Độ)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 200ml dd uống ; cứ 5ml chứa:"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gel khô Al hydroxyd 0,3g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg hydroxyd 0,2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dimeticon hoạt hóa 25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dd sorbitol (theo dược điển Ấn Độ) 0,75g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Chống acid dịch vị, đầy hơi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các chứng đau dạ dày, kèm ợ chua, chướng hơi, loét dạ dày - tá tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn và trẻ em trên 12 tuổi : Ngày 2-3 lần x 1-2 thìa cà phê hòa vào ít nước hoặc sữa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biệt dược tương tự : Sorbacid (Ampharco)"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Spagulax Sorbitol"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Hộp 220g thuốc cốm có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dịch nhầy thực vật (Ispagul) 123,2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sorbitol 83,6g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid citric 2,2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dinatri phosphat 11g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Nhuận tràng cơ học, lợi mật."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Rối loạn tiêu hóa, táo bón."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : 3 thìa cà phê, vào1 trong 3 bữa ăn chính, uống với một lượng chất lỏng vừa đủ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Nghẽn ống tiêu hóa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không dùng trong trường hợp nghẽn đường mật vì có sorbitol - Cảm giác trướng bụng, nguy cơ ỉa chảy và đau bụng. Spagulax au citrat potassium, Spagulax mucilage pur thành phần có khác nhau một chút nhưng đều có tác dụng nhuận tràng cơ học, dùng chữa táo bón."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Spasmacol (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Hộp 375g thuốc cốm bao có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Gôm Sterculia 187,5g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Atropin sulfat 0,01875g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Nhuận tràng- chống co thắt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Bệnh đại tràng co thắt có táo bón, đau bụng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 1-3 thìa cà phê vào cuối 2- hay 3 bữa ăn chính."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Glôcôm góc đóng- Bí đái do rối loạn niệu đạo - tuyến tiền liệt. Hẹp ống tiêu hóa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không dùng thuốc lâu dài - Có thể khô miệng, rối loạn điều tiết, nhịp tim nhanh, cảm giác trướng bụng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Spasmag (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống uống 5ml/viên nang có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mg sulfat 7H2O 1,2/0,6g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Men Saccharomyces 0,1/0,05g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mỗi ống uống 118mg Mg nguyên tố (tức 4,9mmol)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mỗi viên nang có 59mg Mg nguyên tố (tức 2,4mmol)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Liệu pháp Mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Thiếu hay giảm Mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Lắc mạnh ống thuốc, mở và kèm vào ít nước."
+  },
+  {
+   "block_label": "text",
+   "block_content": "1) Thiếu Mg đã xác định (xem SoluMag). Người lớn uống 3 ống/ngày hay 5-7 viên/ngày. Trẻ em uống 10-30mg/kg/ngày. không quá 3 ống/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "2) Tạng co giật (xem SoluMag). Người lớn : uống 2-3 ống/ngày. (1 ống trong bữa ăn chính), hay 4-6 viên/ngày. (2 viên trong mỗi 3 bữa ăn chính)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Suy thận tiến triển hay nặng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Nếu dùng tetracyclin hay calci nên uống cách xa thuốc có Mg 3 giờ. Có thể bị ỉa chảy, đau bụng."
+  },
+  {
+   "block_label": "number",
+   "block_content": "537"
+  }
+ ]
+}

@@ -2,7 +2,7 @@
   "has_image": false,
   "parsing_res_list": [
     {
-      "block_label": "paragraph_title",
+      "block_label": "doc_title",
       "block_content": "J"
     },
     {
@@ -42,7 +42,7 @@
       "block_content": "Chống chỉ định : Phụ nữ có thai"
     },
     {
-      "block_label": "paragraph_title",
+      "block_label": "doc_title",
       "block_content": "K"
     },
     {

@@ -1,1 +1,137 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Cao tan trong dầu phấn hoa 0,006-0,009g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Làm thèm ăn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Chán ăn, gầy còm, các biểu hiện do thiếu protid ở người nghiện rượu lâu ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Trẻ còn bú và trẻ em : 2 gói/ngày pha vào nước hoặc chất lỏng. Thành niên : 2-3 viên/ngày, chia làm 2 lần. Người lớn : 4 viên/ngày, chia 2 lần. Dùng trong 4 tuần liền."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Stopasthme (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên tròn có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ephedrin HCl 0,01g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao mật tinh lọc sấy khô 0,05g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Các lipoid gan 0,10g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Cường giao cảm, co mạch, giãn phế quản."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Hen suyễn kịch phát mà theophylin không có tác dụng. Hen suyễn khó thở liên tục."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Trẻ em : 1-2 viên/ngày. Người lớn : 2-6 viên/ngày, trước bữa ăn. Cơn cấp tính 6 viên/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Dùng với IMAO. Toan huyết. Dấu hiệu tăng hưng phấn tâm thất, suy mạch vành. Bệnh cơ tim nghẽn. Tăng huyết áp. Cường tuyến giáp. Glôcôm góc đóng. Tình trạng cơn hen suyễn liên tục khó thở do suy tim."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Tránh dùng nếu phì đại tuyến tiền liệt. Thận trọng nếu suy tim, đái tháo đường, người già - Dùng liên tục có thể : nhức đầu, buồn nôn, đánh trống ngực, đau vùng tim, đổ mồ hôi, bí đái, run rẩy, vật vã, mất ngủ, ưu tư."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Stop - Hemo"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ bột rắc có calci alginat 4g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Cầm máu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Cầm máu các vết thương bề mặt, chảy máu răng, chảy máu cam..."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Rửa sạch vết thương, nơi chảy máu, thầm khô, rắc đều bột."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Streptokinase"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Co-enzym chiết được từ nuôi cấy các chủng Streptococcus haemolyticus khác nhau"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Streptokinasum; Estreptoquinasa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ thuốc tiêm 250000 - 750000 và 1500000 đvqt kèm 25 mg Natri L. glutamat, 25mg trùng phân gelatin hóa giáng, 100mg dung dịch albumin người 20%, và natri hydroxyd vừa đủ pH 7,2"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Là một protein có độ tinh khiết cao, lấy từ nước lọc môi trường nuôi cấy các liên cầu khuẩn tan máu, nhóm C. Enzym này phối hợp với plasminogen để tạo thành một phức hợp hoạt hóa plasminogen. Phức hợp có tác dụng phân hủy protein với fibrin ở cục máu và cả fibrinogen đang lưu thông ở máu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Nhồi máu cơ tim mới xảy ra (trong vòng 6 giờ đầu, máu cục ở phổi và ở tĩnh mạch sâu, máu cục do van tim nhân tạo, nghẽn động mạch. Thuyên tắc phổi- Huyết khối tĩnh mạch sâu. Thông các mạch nội động- tĩnh mạch ở bệnh nhân chạy thận nhân tạo và đặt catheter."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tiêm truyền tĩnh mạch nhanh : trong 45 phút, tiêm 4 lần, trong nhồi máu cơ tim mới. Tiêm truyền kéo dài : nghẽn mạch ở phổi : liều đầu 250.000 đến 500.000 đvqt, sau 100000 đvqt/giờ, trong 24 -48 giờ đầu. Huyết khối tĩnh mạch sâu : liều đầu như trên sau 100000 đvqt/giờ, trong 72-96giờ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Tuyệt đối và vĩnh viễn : Dị ứng hoặc không dung nạp enzym này, nhiễm liên cầu khuẩn mới xảy ra và các chống chỉ định như : \"Anistreplase\", phụ nữ có thai trong 5 tháng đầu ; mới sẩy thai hoặc vừa đẻ xong. Đang xuất huyết hay mới xuất huyết. Tiền căn tai biến mạch não (khám thần kinh trước khi làm tan huyết khối). Mổ sọ gần đây. Dị dạng mạch não, xuất huyết màng não chưa rõ nguyên nhân. Rối loạn đông máu bẩm sinh hay mắc phải, không kiểm soát được. Trong 2 tháng : mới gắn van nhân tạo bằng dacron. Trong 1 tháng : can thiệp phẫu thuật (trừ trường hợp đặc biệt) Trong 15 ngày : chọc dò - sinh khiết gan- thận, động mạch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tương đối : trên 70 tuổi - Loét không xuất huyết, hang phổi, viêm phế quản nặng, Prothrombin giảm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Phải có thầy thuốc chuyên khoa, đủ phương tiện hồi sức khi sử dụng thuốc."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Có thể biểu hiện không dung nạp tạm thời : hạ HA tim nhanh, sốt, lạnh run, đau cơ, buồn nôn, nôn, mày đay, đỏ da."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hiếm gặp phản ứng dị ứng : Xuất huyết nhẹ không đáng kể, chỗ tiêm, nội tạng, thanh mạc. Tăng bạch cầu đa nhân trung tính, kèm phản ứng không dung nạp- Hiếm tăng tế bào lympho- Rất hiếm tăng vừa men gan."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Có thể có nhiều phác đồ khác nhau tránh tạo huyết khối trở lại : Streptokinase -heparin, Streptokinase - aspirin, Streptokinase - heparin - aspirin."
+  },
+  {
+   "block_label": "number",
+   "block_content": "539"
+  }
+ ]
+}

@@ -1,1 +1,205 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Retinol (vit. A) 1250UI"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Colecalciferol (vit. D3) 75UI"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thiamin mononitrat (vit.B1) 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Riboflavin (vit.B2) 0,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Pyridoxin chlohydrat (vit.B6) 2,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cyanocobalamin (vit.B12) 1,25mcg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Panthenol 2,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Nicotinamid 12,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Acid ascorbic 62,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "DLa - tocopherol acetat 0,25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Biotin dạng D (+) 0,25mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mn sulfat sấy khô 0,775mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cu sulfat sấy khô 1,4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Zn sulfat 0,312mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Co sulfat sấy khô 0,375mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Na molybdat sấy khô 0,15mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Kết hợp các vitamin và nguyên tố vi lượng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng một số tình trạng thiếu vitamin và khoáng vi lượng, đặc biệt do chế độ ăn mất cân bằng, hay hạn chế. Dùng cho người không bị thiếu do ăn uống để điều trị triệu chứng suy nhược chức năng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Chỉ dùng thời gian ngắn : Phòng thiếu hụt uống : 1-2 viên ngày, uống 15 ngày. Suy giảm chức năng : 2-3 viên/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Sữa ong chúa"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sữa chúa, Gelée royale, Royal jelly"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên bao hoặc viên nang 5-20mg và 60mg (còn có dạng viên ngậm). Kem bôi da 2%."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Chứa một số acid amin cần thiết, vitamin, muối khoáng, và enzym. Kích thích hoạt động hữu ích của cơ thể, điều hòa huyết áp, giảm kích thích thần kinh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Người suy nhược, mới ốm dậy, già yếu, trẻ em suy dinh dưỡng, phụ nữ sau khi đẻ bị băng huyết, hoặc ít sữa, mất ngủ, kém ăn..."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống :3 lần ngày trước bưã ăn, mỗi lần 1 viên. (Người lớn dùng viên 20-30mg hoặc 60mg. Trẻ em dùng viên 5mg). Ngày bôi kem 2% 2 lần."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Bệnh Addison, dị ứng thuốc, phụ nữ đang hành kinh, (vì có thể làm kinh nguyệt ra nhiều)."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Sympaneurol Papavérine (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên/lọ 100ml thuốc uống có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phenobarbital 0,02/0,44g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao Sơn tra 0,06/13,2g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao Lạc tiên 0,05/11g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao Valerian 0,05/11g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Papaverin HCl 0,03/0,66g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Làm êm dịu- chống co thắt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Xúc cảm, lo âu, chóng mặt, rối loạn tim mạch do tăng huyết áp, (dễ kích thích, cơn bừng bốc hỏa). Khó tiêu do nguyên nhân thần kinh, co thắt tiêu hóa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn uống 2-4 viên hay 2 thìa cà phê/ngày.. Trẻ em từ 10-11 tuổi uống 1 thìa cà fê/ngày hay 1 viên/ngày. Trẻ em từ 12-15 tuổi uống 1-2 thìa càfê hay 1 viên/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý :Cấm uống rượu khi dùng thuốc. Thuốc làm buồn ngủ."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Sympathyl (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phenobarbital 0,01g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao Sơn tra 0,06g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Điều hòa thần kinh thực vật."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Loạn trương lực thần kinh thực vật, xúc cảm, ưu tư, mất ngủ, đánh trống ngực, tim dễ kích thích, rối loạn thần kinh thực vật lúc mãn kinh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 3-6 viên/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Thuốc làm buồn ngủ. Cấm uống rượu khi dùng thuốc. Có thể có tác dụng phụ như : Suy giảm hô hấp, buồn ngủ ngày, nổi ban da, hội chứng vai- cánh tay."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Synergyl (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén để nhai chứa 11 loại vitamin và 6 muối khoáng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng và điều chỉnh các thiếu hụt vitamin và muối khoáng ở người lớn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : 1viên/ngày."
+  },
+  {
+   "block_label": "number",
+   "block_content": "542"
+  }
+ ]
+}

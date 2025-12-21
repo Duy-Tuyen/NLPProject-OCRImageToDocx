@@ -1,1 +1,137 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Serratiopeptidase"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén bọc 10000 đơn vị hoặc 5mg."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Nguồn gốc enzym, chống phù nề và viêm, phân hủy bradikinin và fibrin, tăng chuyển kháng sinh vào ổ nhiễm khuẩn, loãng đờm, tiêu mủ và máu tụ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Khó khạc đờm khi ho như viêm phế quản, hen, lao, bệnh phổi. Viêm xoang mạn, viêm mũi, viêm tai giữa, viêm họng. Viêm phù nề sau phẫu thuật, trĩ nội ngoại, sa hậu môn. Chấn thương và sau phẫu thuật chỉnh hình tạo hình. Phối hợp với kháng sinh trong nhiễm khuẩn. Viêm nha chu, abcès ổ răng, viêm túi lợi, răng khôn, sau nhổ răng, sau phẫu thuật hàm mặt Nhãn khoa : xuất huyết mắt, đục thủy tinh dịch. Sản : căng tuyến vú, rách- khâu tầng sinh môn. Tiết niệu : viêm bàng quang, viêm mào tinh."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày 3 lần, mỗi lần 1 viên hoặc 2 lần, mỗi lần 2 viên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Như Alpha - Amylase (xem thêm Ở Sinsia), cơ địa dị ứng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : a) Dùng uống, độc tính của thuốc thấp và ít khi gây ra tác dụng phụ đáng kể. Thận trọng với người bất thường về đông máu, rối loạn chức năng thận, đang dùng thuốc chống đông. Có thể biểu hiện dị ứng da, mày đay, phù Quincke, rối loạn tiêu hóa, chán ăn, buồn nôn, khó chịu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "b) Thuốc không có tác dụng gây ra dị dạng ở bào thai."
+  },
+  {
+   "block_label": "text",
+   "block_content": "c) Ngừng thuốc nếu xuất hiện phản ứng do dị ứng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Serum antirabique Pasteur"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Dd tiêm 1000 UI 5ml. Hộp 10 lọ. Huyết thanh kháng bệnh dại tinh khiết (có nguồn gốc ngựa) 1000 UI."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Dự phòng bệnh dại với bổ xung trị liệu bằng vaccin."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Điều trị ban đầu : Lau rửa vết cắn với nhiều nước xà phòng. Sát khuẩn bằng cồn 40-70°, cồn iod hoặc dẫn xuất ammonium bậc 4 (2dd trung hòa nhau để không còn vết xà phòng)- Đây là việc làm rất quan trọng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Sử dụng có sự theo dõi của y tế : Tiêm huyết thanh càng sớm càng tốt sau khi bị rẳn cắn cùng một ngày với liều vaccin đầu tiên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều tổng cộng là 40UI/kg. Một nửa liều được tiêm bắp thịt xa nơi tiêm vaccin, một nửa liều được tiêm nhiều chỗ tại vết thương và chung quanh. Có thể tiêm phòng uốn ván và kháng sinh nếu cần (tránh bội nhiễm)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Phải tiến hành theo phương pháp mẫn cảm (Besredka) : tiêm 0,1ml sau đó 0,2ml và phần còn lại được tiêm cách khoảng 15 phút."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trường hợp có tai biến huyết thanh, dùng ngay lập tức adrenalin, kháng histamin và corticoid (tiêm)"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Serum antitetanique Pasteur"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Dd tiêm dưới da, bắp thịt 1500 UI/ml. Ống 1ml."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Globulin miễn dịch ngựa kháng uốn ván đặc hiệu 1500UI."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng ngừa bệnh uốn ván."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Người bị thương có khả năng nhiễm bào tử, vi khuẩn uốn ván."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Người bị thương, mà không được tiêm ngừa uốn ván trước đó trên 10 năm."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Người bị vết thương có chế độ tiêm ngừa uốn ván không đầy đủ hoặc không đảm bảo chắc chắn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tiêm dưới da hoặc bắp thịt, tối thiểu 1500 UI."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tiêm đồng thời mũi tiêm thứ nhất hay mũi tiêm nhắc lại của biển độc tố uốn ván hấp thụ ở một nơi khác của cơ thể. Những người chưa tiêm ngừa hay tiêm ngừa chưa chắc chắn, phải được bổ sung miễn dịch bằng một mũi tiêm biên độc tố 4 đến 6 tuần sau."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Tiền sử dị ứng với huyết thanh ngựa thì cần thay bằng globulin miễn dịch người."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : - Hỏi người bệnh tiền sử dị ứng (tiêm huyết thanh trước đây), dị ứng khi tiếp xúc với súc vật (ngựa), dị ứng thức ăn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cần làm Test da như sau : Tiêm trong da, 0,1ml huyết thanh vào mặt ngoài cẳng tay để xuất hiện nốt da cam (đường kính 3mm). Tiêm trong da dd nước muối sinh lý, với liều và vị trí tương tự làm chứng. Sau 15 phút, nếu phản ứng (+) khi nổi mẩn đỏ (trên) 6mm, phù tại chỗ hoặc toàn thân, test chứng (-). Kết quả (+) giúp thầy thuốc sử dụng huyết thanh thay thế. Phản ứng (-) không loại trừ phản ứng dị ứng tức thời."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Nên dùng huyết thanh miễm dịch người cho người mang thai."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Vaccin ngừa uốn ván và huyết thanh kháng uốn ván, khi dùng cùng lúc, phải tiêm 2 nơi khác nhau vị trí."
+  },
+  {
+   "block_label": "text",
+   "block_content": "- Phản ứng phụ có thể dưới 10% thường là dị ứng : hạ HA, khó thở, mày đay- Nghiêm trọng : phù Quincke, sốc phản vệ (hiếm 0,1%) phản ứng muộn, khoảng 6 ngày sau khi tiêm : đau cơ, viêm."
+  },
+  {
+   "block_label": "number",
+   "block_content": "533"
+  }
+ ]
+}

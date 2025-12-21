@@ -1,1 +1,205 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : An thần cho người cơ co cứng (Parkinson), người điên. Thuốc ngủ phối hợp với morphin."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 0,1mcg-0,5mg/lần. Uống 3-4 lần/ngày. Tiêm dưới da 0,4-0,5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dùng làm thuốc ngủ 0,2mg (tiền mê 0,2-0,3mg). Nhỏ mắt dd 0,25% (giãn đồng tử)."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Scopos (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống tiêm 1ml có scopolamin HBr 125mg, Na chlorid 9mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Làm liệt đối giao cảm, loại atropin."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Đau co thắt, xung huyết cục bộ do chấn thương hoặc viêm, đau lưng, bong gân, tiền gây mê, tiểu phẫu, nội soi. Đinh nhọt, áp xe, bỏng, viêm tai, viêm xoang, đau khớp, đau dây thần kinh, đau phủ tạng, nề cổ tử cung. Nấc, say tàu xe. chống dị ứng, ngứa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Tiêm bắp thịt sâu, 1-2 ống/ngày. Tiêm tĩnh mạch chậm, nếu cần lặp lại hàng ngày trong 15 ngày. Trẻ em và người già bắt đầu 1/2 ống."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Secretin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hormoduodin"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống bột trong có khí nitơ. Mỗi ống có 40 đơn vị và kèm theo 1 ống dung môi. Hộp 6 ống. Thuốc đạn : hộp có 10 viên đạn, chứa 40 đơn vị trong mỗi đạn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Nội tiết tố lấy từ niêm mạc tá tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Dùng khám nghiệm chức phận ngoại tiết của tụy."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chữa các chứng bệnh : loét dạ dày- tá tràng, viêm túi mật, chứng đau nửa đầu, viêm mô tế bào, suy tụy (phần ngoại tiết)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Khám nghiệm chức phận của tụy, sau khi đã đặt ống thông xong để chuẩn bị hút dịch tụy, tiêm tĩnh mạch 5-10 đơn vị tùy theo tuổi. Chữa các bệnh khác : mỗi ngày tiêm 5-10 đơn vị (tối đa 10 đơn vị). vào tĩnh mạch hoặc bắp thịt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Sỏi mật."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Seda - collyre (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 10ml thuốc nhỏ mắt :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Synephrin HCl 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Berberin HCl 2,62mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Benzododecinium bromid 0,4mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : chống cương tụ, co mạch và sát khuẩn ở mắt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm kết mạc, viêm kết mạc- mi mắt, mỏi mắt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày nhỏ mắt 4-5 lần x 2 giọt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Glôcôm góc đóng."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Sedalby"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Spasmadryl HCl 0,03g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Phenobarbital 0,01g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Spartein sulfat 0,0075g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao sơn tra 0,03g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Điều hòa trương lực thần kinh thực vật."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Ưu tư, dễ kích thích, mất ngủ, đau thắt ngực, đánh trống ngực, co thắt nội tạng nhất là tim mạch, say tàu xe."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn uống 2-8 viên/ngày, chia đều, uống trước bữa ăn. Trẻ em uống 1-4 viên/ngày, tùy theo tuổi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Thuốc làm buồn ngủ. Không được uống rượu khi dùng thuốc."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Sedarène (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nén có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Metamizol natri 300mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Quinin hydrobromid 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cafein 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Pholcodin 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cồn Phụ tử 10mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Thuốc đạn Người lớn Trẻ em"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Paracetamol 600mg 350mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Diethylsalicylamid 200mg 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cafein 20mg 5mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Hạ nhiệt, giảm đau."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Đau do nguyên nhân khác nhau : nhất là các chứng đau nặng, dai dẳng như : đau nửa đầu, đau thấp khớp, đau do ung thư, đau răng, đau dây thần kinh sinh ba. Đau trong khoa sản phụ ; ngoại, chấn thương. Tai mũi họng, dùng trước và sau khi gây mê. - Hạ nhiệt trong các trường hợp : sốt, do bệnh nhiễm khuẩn, cảm cúm, đau mình mẩy kèm sốt..."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : ngày uống 2-5 viên, chia vài lần hoặc nạp 1-3 thuốc đạn/ngày. Khoa gây mê : nạp 1 thuốc đạn tối hôm trước và 1 giờ trước khi tiến hành phẫu thuật. Trẻ em từ 5 đến 15 tuổi : ngày 2-3 lần, mỗi lần 1/2 viên tùy theo tuổi. Từ 30 tháng đến 15 tuổi : ngày nạp 1-3 thuốc đạn (loại trẻ em) tùy theo tuổi."
+  },
+  {
+   "block_label": "number",
+   "block_content": "531"
+  }
+ ]
+}

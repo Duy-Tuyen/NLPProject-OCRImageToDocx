@@ -1,1 +1,245 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : (với viên nén) : mất bạch cầu hạt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Thuốc đạn dùng cho người lớn, không được dùng cho trẻ em dưới 16 tuổi. Thuốc viên nén, coi chừng, mất bạch cầu hạt, nguy hiểm chết người."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Sedative Bombatus (Đức)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ 20ml dung dịch gồm có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Amoniac 0,1%"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bôm Peru 0,1%"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao hoa Cạm cúc 1%"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cồn thuốc canhkina 2%"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hỗn hợp tinh dầu 1,25%"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Propyl paraminobenzoat 0,5%"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cồn 92%"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Giảm đau, chống viêm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Đau răng, loét miệng, viêm lợi."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Seirogan (Nhật Bản)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên hoàn màu nâu đen : cứ 9 viên chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Creosot thảo mộc 400mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột Gambir 200mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột Glycyrrhiza 150mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột Phellodendron 300mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột vỏ Citrus unshiu 300mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : là chày tự phát, ỉa chảy do ăn không tiêu, viêm dạ dày do thức ăn hoặc chướng bụng, nôn mửa."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đau răng do bị sâu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Trị ỉa chảy và những chỉ định trên : Ngày uống 3 lần sau bữa ăn, mỗi lần tùy theo tuổi :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Trên 15 tuổi : 3 viên, 11 - 15 tuổi : 2 viên, 8 - 10 tuổi : 1,5 viên, 5-7 tuổi : 1 viên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đau do sâu răng : Ngày từ 1/2 đến 2 viên (đặt viên thuốc ở chỗ sâu răng và ngậm cho tan dần)."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Seltic (Hàn Quốc)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang chứa :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Men bia khó có (tương ứng với 50mcg seleni) 92,6mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tocopherol acetat 400UI"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Retinol palmitat 5000UI"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin C 500mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lecithin 50mg"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Chống oxy hóa, tăng cường tuần hoàn."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Phòng ngừa các bệnh ở người có tuổi, bệnh tim mạch, tăng huyết áp, nhiễm khuẩn, viêm khớp, bệnh về mắt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày 1 lần x 1viên."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Senokot (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Bột phan tả diệp (Séné) có 4,8% các senosid tính theo senosid B. Viên 0,153g - Hộp 240g thuốc cốm có 26,06g bột."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Nhuận tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Táo bón."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn uống 2 viên vào lúc đi ngủ, có thể tăng đến 4 viện, chia 2 lần trong ngày (24giờ). Thuốc cốm uống 1 thìa cà phê gạt, uống lúc đi ngủ. Có thể tăng tới 2 thìa, chia 2 lần /24 giờ. Trẻ em trên : 3 tuổi : 1/4-1/2 liều người lớn, tùy theo tuổi."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Viêm đại tràng - Đau bụng không rõ nguyên nhân."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không dùng lâu dài. Ỉa chảy, đau bụng thì ngừng thuốc."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Senophile (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Ống thuốc mỡ 50mg có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "OZn 2,5g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cholesterol benzoat 0,5g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Biểu bì hóa và làm dịu."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Ban đỏ đùi, nẻ vú và bàn tay, cước nứt, phỏng nhẹ, cháy nắng, hăm kẽ."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Bôi, chà nhẹ 2- 6 lần/ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Chỗ thương tổn hở, loét."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Senosid"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Sennosides A và B."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên bọc đường 10ml (hoặc 12mg dạng muối calci)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Hoạt chất lấy từ Phan tả diệp, có tác dụng nhuận tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các chứng táo bón cấp và mạn (do giảm nhu động ruột), để tẩy trước khi mổ đường ruột."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn : để nhuận tràng, : 1-2 viên, sau bữa ăn tối. Để tẩy : 3-4 viên như trên. Trẻ em 6-15 tuổi : ngày 1-2 viên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Nghi tắc ruột, rối loạn chuyển hóa kali, phụ nữ có thai."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Serrapeptase"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tên khác : Serrapetase chiết từ Serratia sp"
+  },
+  {
+   "block_label": "number",
+   "block_content": "532"
+  }
+ ]
+}

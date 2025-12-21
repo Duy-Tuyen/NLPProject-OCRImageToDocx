@@ -3,7 +3,11 @@
   "parsing_res_list": [
     {
       "block_label": "text",
-      "block_content": "500 với nồng độ 1ml= 1KCal bằng cách thêm vào khoảng 125ml nước mỗi hộp."
+      "block_content": "500 với nồng độ 1ml= 1KCal bằng cách"
+    },
+    {
+      "block_label": "text",
+      "block_content": "thêm vào khoảng 125ml nước mỗi hộp."
     },
     {
       "block_label": "paragraph_title",
@@ -11,27 +15,63 @@
     },
     {
       "block_label": "text",
-      "block_content": "Dạng thuốc : Ống tiêm 1ml (lấy từ nọc rắn làm đông máu). Chứa 1 đơn vị Klobusitzky hemmocoagulase."
+      "block_content": "Dạng thuốc : Ống tiêm 1ml (lấy từ nọc rắn"
     },
     {
       "block_label": "text",
-      "block_content": "Tác dụng : Làm đông máu gồm 2 chất (một thành phần thromboplastin) và một thành phần gần giống như thrombin nhưng không bị heparin ức chế."
+      "block_content": "làm đông máu). Chứa 1 đơn vị Klobusitzky"
     },
     {
       "block_label": "text",
-      "block_content": "Chỉ định : Điều trị chảy máu do phẫu thuật trong hoặc sau khi mổ, hoặc chảy máu nội khoa không do yếu tố đông máu."
+      "block_content": "hemmocoagulase."
     },
     {
       "block_label": "text",
-      "block_content": "Liều dùng : Tiêm tĩnh mạch dưới da, bắp từ 1-3 ống/ngày."
+      "block_content": "Tác dụng : Làm đông máu gồm 2 chất (một"
     },
     {
       "block_label": "text",
-      "block_content": "Chống chỉ định : Tiêm bắp nếu có hội chứng chảy máu sinh học, dị ứng với thuốc."
+      "block_content": "thành phần thromboplastin) và một thành"
+    },
+    {
+      "block_label": "text",
+      "block_content": "phần gần giống như thrombin nhưng không"
+    },
+    {
+      "block_label": "text",
+      "block_content": "bị heparin ức chế."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Điều trị chảy máu do phẫu thuật"
+    },
+    {
+      "block_label": "text",
+      "block_content": "trong hoặc sau khi mổ, hoặc chảy máu nội"
+    },
+    {
+      "block_label": "text",
+      "block_content": "khoa không do yếu tố đông máu."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Tiêm tĩnh mạch dưới da, bắp"
+    },
+    {
+      "block_label": "text",
+      "block_content": "từ 1-3 ống/ngày"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Tiêm bắp nếu có hội"
+    },
+    {
+      "block_label": "text",
+      "block_content": "chứng chảy máu sinh học, dị ứng với thuốc."
     },
     {
       "block_label": "paragraph_title",
-      "block_content": "Rescinnamin"
+      "block_content": "Rescinmamin"
     },
     {
       "block_label": "text",
@@ -43,7 +83,15 @@
     },
     {
       "block_label": "text",
-      "block_content": "Tác dụng : Làm hạ huyết áp tương tự reserpin, nhưng dung nạp dễ dàng hơn. Thường dùng phối hợp như biệt dược sau đây :"
+      "block_content": "Tác dụng ; Làm hạ huyết áp tương tự reser-"
+    },
+    {
+      "block_label": "text",
+      "block_content": "pin, nhưng dung nạp dễ dàng hơn. Thường"
+    },
+    {
+      "block_label": "text",
+      "block_content": "dùng phối hợp như biệt dược sau đây :"
     },
     {
       "block_label": "text",
@@ -51,7 +99,15 @@
     },
     {
       "block_label": "text",
-      "block_content": "Dạng thuốc : Viên nén 70mg rescinnamin, 70mcg reserpin, 700mcg raubasin, và 3,3mg thiabrutazid (butizid)."
+      "block_content": "Dạng thuốc : Viên nén 70mg rescinnamin,"
+    },
+    {
+      "block_label": "text",
+      "block_content": "70mcg reserpin, 700mcg raubasin, và 3,3mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "thiabutazid (butizid)."
     },
     {
       "block_label": "text",
@@ -59,15 +115,31 @@
     },
     {
       "block_label": "text",
-      "block_content": "Liều dùng Lúc đầu ngày 1/2 -1 viên, sau liều duy trì, ngày 1-2 viên."
+      "block_content": "Liều dùng Lúc đầu ngày 1/2 -1 viên, sau liều"
     },
     {
       "block_label": "text",
-      "block_content": "Chống chỉ định : Suy thận kèm vô niệu, mẫn cảm với sulfamid, giảm kali- huyết rõ rệt, hôn mê do gan, trầm cảm, phụ nữ có thai."
+      "block_content": "duy trì, ngày 1-2 viên."
     },
     {
       "block_label": "text",
-      "block_content": "Lưu ý : Tránh phối hợp với guanetidin, methyldopa."
+      "block_content": "Chống chỉ định : Suy thận kèm vô niệu, mẫn"
+    },
+    {
+      "block_label": "text",
+      "block_content": "cảm với sulfamid, giảm kali- huyết rõ rệt, hôn"
+    },
+    {
+      "block_label": "text",
+      "block_content": "mê do gan, trầm cảm, phụ nữ có thai."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Tránh phối hợp với guanetidin,"
+    },
+    {
+      "block_label": "text",
+      "block_content": "methyldopa."
     },
     {
       "block_label": "paragraph_title",
@@ -87,7 +159,11 @@
     },
     {
       "block_label": "text",
-      "block_content": "Tác dụng : Làm hạ huyết áp (đều đặn và dần dần)."
+      "block_content": "Tác dụng : Làm hạ huyết áp (đều đặn và"
+    },
+    {
+      "block_label": "text",
+      "block_content": "dần dần)."
     },
     {
       "block_label": "text",
@@ -95,11 +171,35 @@
     },
     {
       "block_label": "text",
-      "block_content": "Liều dùng : Trung bình : ngày 1-2 viên. Nếu nặng : có thể tới 3-4 viên ngày. Uống sau bữa ăn."
+      "block_content": "Liều dùng : Trung bình : ngày 1-2 viên. Nếu"
     },
     {
       "block_label": "text",
-      "block_content": "Chống chỉ định : Mẫn cảm với 2 thành phần của thuốc, loét dạ dày- tá tràng tiến triển, trầm cảm, mất nước hoặc giảm thể tích máu, bệnh não gan, phụ nữ đang nuôi con bú."
+      "block_content": "nặng : có thể tới 3-4 viên ngày. Uống sau"
+    },
+    {
+      "block_label": "text",
+      "block_content": "bữa ăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Mẫn cảm với 2 thành"
+    },
+    {
+      "block_label": "text",
+      "block_content": "phần của thuốc, loét dạ dày- tá tràng tiến"
+    },
+    {
+      "block_label": "text",
+      "block_content": "triển, trầm cảm, mất nước hoặc giảm thể"
+    },
+    {
+      "block_label": "text",
+      "block_content": "tích máu, bệnh não gan, phụ nữ đang nuôi con"
+    },
+    {
+      "block_label": "text",
+      "block_content": "bú."
     },
     {
       "block_label": "text",
@@ -115,24 +215,179 @@
     },
     {
       "block_label": "text",
-      "block_content": "Tác dụng : Là một alcaloid của cây Rauwolfia - Tác dụng làm hạ huyết áp."
+      "block_content": "Tác dụng : Là một alcaloid của cây Rauwolfia"
     },
     {
       "block_label": "text",
-      "block_content": "Chỉ định : Tặng huyết áp vô căn vừa phải nhất là khi kết hợp với thuốc trị tăng huyết áp khác (đặc biệt thuốc lợi tiểu) khi không dùng được liều cao."
+      "block_content": "- Tác dụng làm hạ huyết áp."
     },
     {
       "block_label": "text",
-      "block_content": "Liều dùng : Tùy từng người và liều tăng dần : bắt đầu 0,25-0,50mg/ngày. Có thể tăng lên 1-1,5mg/ngày, liều duy trì : 0,125mg- 0,25mg/ngày. Uống trong hay sau bữa ăn."
+      "block_content": "Chỉ định : Tặng huyết áp vô căn vừa phải"
     },
     {
       "block_label": "text",
-      "block_content": "Chống chỉ định : Trầm cảm (có ý đồ tự tử). Loét dạ dày- tá tràng. (nguy cơ chảy máu). Viêm loét đại tràng. Động kinh. Dùng phối hợp với IMAO. Có thai. Đang nuôi con bú."
+      "block_content": "nhất là khi kết hợp với thuốc trị tăng huyết"
     },
     {
       "block_label": "text",
-      "block_content": "Lưu ý : Hết sức thận trọng với người trầm cảm. Nếu mất ngủ, kém ăn, bất lực, ý muốn tự tử thì ngừng thuốc. Thuốc làm buồn ngủ. Ngừng dùng thuốc ít ra 2 tuần nếu điều trị ngoại khoa, sốc điện. Không kết hợp với digitalin, quinidin và các thuốc chống loạn nhịp khác- Tránh dùng nếu suy tim, suy thận nặng."
+      "block_content": "áp khác (đặc biệt thuốc lợi tiểu) khi không"
     },
     {
       "block_label": "text",
-      "block_content": "Tác dụng phụ: Rối loạn dạ dày- ruột (tăng tiết, buồn nôn, nôn, chán ăn, ỉa chảy)- nghẹt mũi, buồn ngủ, mệt mỏi, ác mộng, ưu tư, trầm cảm, giảm dục, bất lực, khó xuất tinh,
+      "block_content": "dùng được liều cao."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Tùy từng người và liều tăng"
+    },
+    {
+      "block_label": "text",
+      "block_content": "dần : bắt đầu 0,25-0,50mg/ngày. Có thể"
+    },
+    {
+      "block_label": "text",
+      "block_content": "tăng lên 1-1,5mg/ngày, liều duy trì : 0,125mg-"
+    },
+    {
+      "block_label": "text",
+      "block_content": "0,25mg/ngày."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Uống trong hay sau bữa ăn."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chống chỉ định : Trầm cảm (có ý đồ tự"
+    },
+    {
+      "block_label": "text",
+      "block_content": "tử). Loét dạ dày- tá tràng. (nguy cơ chảy"
+    },
+    {
+      "block_label": "text",
+      "block_content": "máu). Viêm loét đại tràng. Động kinh. Dùng"
+    },
+    {
+      "block_label": "text",
+      "block_content": "phối hợp với IMAO. Có thai. Đang nuôi con"
+    },
+    {
+      "block_label": "text",
+      "block_content": "bú."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Lưu ý : Hết sức thận trọng với"
+    },
+    {
+      "block_label": "text",
+      "block_content": "người trầm cảm. Nếu mất ngủ,"
+    },
+    {
+      "block_label": "text",
+      "block_content": "kém ăn, bất lực, ý muốn tự tử thì"
+    },
+    {
+      "block_label": "text",
+      "block_content": "ngừng thuốc.- Thuốc làm buồn"
+    },
+    {
+      "block_label": "text",
+      "block_content": "ngủ.- Ngừng dùng thuốc ít ra 2"
+    },
+    {
+      "block_label": "text",
+      "block_content": "tuần nếu điều trị ngoại khoa, sốc"
+    },
+    {
+      "block_label": "text",
+      "block_content": "điện.- Không kết hợp với digitalin,"
+    },
+    {
+      "block_label": "text",
+      "block_content": "quinidin và các thuốc chống loạn"
+    },
+    {
+      "block_label": "text",
+      "block_content": "nhịp khác- Tránh dùng nếu suy tim,"
+    },
+    {
+      "block_label": "text",
+      "block_content": "suy thận nặng."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Tác dụng phụ : Rối loạn dạ dày- ruột"
+    },
+    {
+      "block_label": "text",
+      "block_content": "(tăng tiết, buồn nôn, nôn, chán ăn, ỉa"
+    },
+    {
+      "block_label": "text",
+      "block_content": "chảy) - nghẹt mũi, buồn ngủ, mệt mỏi,"
+    },
+    {
+      "block_label": "text",
+      "block_content": "ác mộng, ưu tư, trầm cảm, giảm dục,"
+    },
+    {
+      "block_label": "text",
+      "block_content": "bất lực, khó xuất tinh, bí đái, phù, mờ"
+    },
+    {
+      "block_label": "text",
+      "block_content": "mắt."
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Rethizid (Bungari)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén:"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Reserpin 0,15mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Hydrochlorothiazid 10mg"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Chỉ định : Tăng huyết áp."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Liều dùng : Người lớn : ngày 2 lần, mỗi lần"
+    },
+    {
+      "block_label": "text",
+      "block_content": "1/2-2 viên."
+    },
+    {
+      "block_label": "text",
+      "block_content": "Biệt dược tương tự. : Erposide (Hungari)"
+    },
+    {
+      "block_label": "text",
+      "block_content": "Dạng thuốc : Viên nén 0,1mg reserpin và"
+    },
+    {
+      "block_label": "text",
+      "block_content": "10mg hydrochlorothiazid. Có loại viên \"mạnh\""
+    },
+    {
+      "block_label": "text",
+      "block_content": "chứa gấp 2,5 lần 2 hoạt chất trên."
+    },
+    {
+      "block_label": "number",
+      "block_content": "524"
+    }
+  ]
+}

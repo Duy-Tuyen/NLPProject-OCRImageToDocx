@@ -1,1 +1,189 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "T"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tabloka"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên có :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao mềm Kola 0,02g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột Kola 0,05g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Mangan bioxyd 0,05g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Calci carbonat 0,05g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Kích thích thần kinh cơ trong suy nhược và quá sức."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Nhai 2 viên/ngày : vào buổi sáng và trưa. Trường hợp cần cố gắng về thể lực và trí tuệ uống 2 viên."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Không nên uống buổi chiều sẽ làm mất ngủ."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tactivin (Nga)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Lọ thuốc tiêm 1ml dung dịch 0,01%."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Thuốc bào chế từ tuyến ức (thymus) các loại trâu bò, chứa nhiều peptid có tác dụng điều hoà miễn dịch."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các trường hợp suy giảm miễn dịch có tổn thương đặc biệt đến hệ miện dịch T, sau khi mắc một số bệnh nhiễm khuẩn, có mưng mủ, tầng bạch cầu, xơ cứng rải rác, lao, vảy nến, Hepès ở mắt dễ tái phát..."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày tiêm dưới da 1 lần trước khi đi ngủ buổi tối với liều 40mcg/m2 bề mặt thân thể. Đợt dùng 5-7 ngày."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Giai đoạn mất trương lực ở bệnh hen, người mang thai."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tadenan (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang chứa 50mg cao Pygeum africanum (cây mận Châu Phi)."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Làm giảm hoặc mất đi các rối loạn tiểu tiện do phì đại tuyến tiền liệt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Các biểu hiện chức năng gan liên quan tới adenôm ở tuyến tiền liệt."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Ngày 2 lần, mỗi lần 1 viên, sáng và tối, trước bữa ăn. Dùng ít nhất 4 tuần, thường từ 6-8 tuần. Nếu cần lại dùng tiếp đợt khác."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tamarine (Pháp)"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên nang/lọ 180g nhục quả :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột Phan tả diệp 0,24/8g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao khô Muồng trâu 0,0117/0,451g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cao khô Me 0,017/0,451g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bột hạt Rau mùi 0,0054/0,418g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tác dụng : Glucosid anthraquinon có tính nhuận tràng."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Táo bón."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Người lớn thông thường uống 1-2 viên/ngày, sau bữa ăn chiều, hay 1/2-1 thìa cà fê. Trẻ em trên 5 tuổi uống 1 viên/ngày. hay 1/2 thìa cà fê, uống vào bữa ăn chiều."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chống chỉ định : Trẻ em dưới 5 tuổi, bệnh viêm đại tràng, đau bụng không rõ nguyên nhân."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Lưu ý : Có thể bị : ỉa chảy- đau bụng, đặc biệt với người bị bệnh đại tràng (nên ngưng thuốc)- Không dùng thuốc lâu dài."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tam hoàng cầm"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Viên hoàn nhỏ: Hoàng cầm, Hoàng liên, Đại hoàng với khối lượng thay đổi, từ 40g đến 240g theo từng mùa, tất cả tán mịn, dùng mật ong chế viên 0,5g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Lao, viêm niêm mạc tử cung."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Uống 5-7 viên/lần x 3 lần/ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tam tử dưỡng thân thang"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dạng thuốc : Thuốc sắc :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "La bạc tử (hạt củ cải khô) sao 10g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Tô tử (sao) 10g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch giới tử (sao) 3g"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Chỉ định : Ho lâu khỏi của người già."
+  },
+  {
+   "block_label": "text",
+   "block_content": "Liều dùng : Các vị tán nhỏ, cho vào túi vải hoặc túi pha trà, thêm vào 500ml, sắc còn 200ml, chia làm 3 lần uống trong ngày."
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Tanakan"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Xem Ginkgo Biloba"
+  },
+  {
+   "block_label": "number",
+   "block_content": "543"
+  }
+ ]
+}
