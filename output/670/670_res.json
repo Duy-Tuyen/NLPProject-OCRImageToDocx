@@ -1,1 +1,21 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "MÁU"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "I. Tính chất vật lý và tế bào"
+  },
+  {
+   "block_label": "table",
+   "block_content": "<table><tbody><tr><td colspan=\"2\"><b>Tính chất vật lý</b></td><td colspan=\"2\"><b>Hồng cầu</b></td></tr><tr><td colspan=\"2\">1. Thể tích máu (ml/kg)</td><td colspan=\"2\">1. Số lượng</td></tr><tr><td>- Nam</td><td>71,2 ± 6</td><td>Nam</td><td>4,2x10<sup>12</sup>/l</td></tr><tr><td>- Nữ</td><td>61±7,5</td><td>Nữ</td><td>3,8x10<sup>12</sup>/l</td></tr><tr><td>2. Độ quánh : - Máu</td><td>3,8-4,5</td><td>Trẻ mới đẻ</td><td>5,1x10<sup>12</sup>/l</td></tr><tr><td>- Huyết thanh</td><td>1,64-1,69</td><td>2. Hồng cầu lưới</td><td>0,7-0,9%</td></tr><tr><td>3. Tỷ trọng : - Máu</td><td>1,051</td><td colspan=\"2\">3. Huyết sắc tố (g/dl)</td></tr><tr><td>- Huyết tương</td><td>1,028</td><td>Nam</td><td>14,6g</td></tr><tr><td>4. Áp lực thẩm thấu</td><td>295mmol/l</td><td>Nữ</td><td>13,2g</td></tr><tr><td>5. Độ hạ băng điểm của huyết tương</td><td>0,56±0,02°C</td><td>4. Giá trị hồng cầu<br>Thể tích HC trung bình</td><td>85-95µm<sup>3</sup></td></tr><tr><td>6. pH máu : - Động mạch</td><td>7,40</td><td>Nồng độ HST trung bình trong HC</td><td>32-38g/dl</td></tr><tr><td>- Tĩnh mạch</td><td>7,37</td><td>Lượng HST trung bình trong HC</td><td>35pg</td></tr><tr><td>7. Tốc độ lắng hồng cầu</td><td></td><td>Dải phân bố kích thước HC (RDW)</td><td>11,5-14,5%</td></tr><tr><td>Westergreen</td><td>4-7mm</td><td>Sức bền hồng cầu trong máu :</td><td></td></tr><tr><td>Pachenkov - Nam</td><td>5-9mm</td><td>- Bắt đầu tan</td><td>4,6‰ NaCl</td></tr><tr><td>- Nữ</td><td>8-14mm</td><td>- Tan hết</td><td>3,6% NaCl</td></tr><tr><td>8. Hematocrit - Nam</td><td>43%</td><td>Sức bền hồng cầu đã rửa huyết tương :</td><td></td></tr><tr><td>- Nữ</td><td>39%</td><td>- Bắt đầu tan</td><td>4,8‰ NaCl</td></tr><tr><td><b>Bạch cầu</b></td><td></td><td>- Tan hết</td><td>3,4‰ NaCl</td></tr><tr><td>1. Số lượng</td><td></td><td>5. Nhóm máu (hồng cầu)</td><td></td></tr><tr><td>Người lớn : - Nam</td><td>7x10<sup>9</sup>/l</td><td>AB</td><td>4,24%</td></tr><tr><td>- Nữ</td><td>6,2x10<sup>9</sup>/l</td><td>A</td><td>16,46%</td></tr><tr><td>Trẻ mới đẻ</td><td>15,4x10<sup>9</sup>/l</td><td>B</td><td>27,94%</td></tr><tr><td>2. Công thức bạch cầu</td><td></td><td>O</td><td>48,35%</td></tr><tr><td>Đa nhân trung tính :</td><td>60-68%</td><td>6. Yếu tố Rh (+)</td><td>99,93%</td></tr><tr><td>- Ái toan</td><td>2-4</td><td></td><td></td></tr><tr><td>- Ái kiềm</td><td>0,5-1</td><td colspan=\"2\"><b>Cầm máu và đông máu</b></td></tr><tr><td>Monocyt</td><td>5-10</td><td>1. Sức bền mao mạch</td><td></td></tr><tr><td>Lymphocyt</td><td>20-30</td><td>- Phương pháp giảm áp</td><td>20-25cm Hg</td></tr><tr><td>3. Công thức Arneth</td><td></td><td>- Dấu hiệu dây thắt</td><td>âm tính</td></tr><tr><td>5. 35. 41. 17. 2</td><td></td><td>2. Co cục máu</td><td>1-3 giờ</td></tr><tr><td>4. Công thức Shilling</td><td></td><td>3. Thời gian chảy máu</td><td>2ph50gy</td></tr><tr><td>0. 0. 7. 93</td><td></td><td>4. Thời gian đông máu</td><td>9ph15gy</td></tr><tr><td><b>Tiểu cầu</b></td><td></td><td>5. Thời gian Howell</td><td>1ph45gh</td></tr><tr><td>Số lượng</td><td>200-300x10<sup>9</sup>/l</td><td>6. Thử nghiệm dung nạp heparin (1đv)</td><td>8-12 phút</td></tr><tr><td></td><td></td><td>7. Tỷ lệ nhóm prothrombin</td><td>8-100%</td></tr><tr><td></td><td></td><td>8. Tiêu thụ prothrombin</td><td>≥ 1 phút</td></tr><tr><td></td><td></td><td>9. Thời gian thrombin</td><td>15-20 giây</td></tr><tr><td></td><td></td><td>10. Tan cục máu</td><td>3-6 ngày</td></tr></tbody></table>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "652"
+  }
+ ]
+}

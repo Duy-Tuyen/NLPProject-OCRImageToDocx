@@ -1,1 +1,25 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "PHÂN"
+  },
+  {
+   "block_label": "table",
+   "block_content": "<table><tbody><tr><td colspan=\"2\"><b>Tính chất vật lý</b></td><td>Natri</td><td>0,12g</td></tr><tr><td>Số lượng 1 ngày</td><td>120-180g</td><td>Kali</td><td>0,47</td></tr><tr><td>Màu :</td><td>vàng tươi</td><td>Chlor</td><td>0,10</td></tr><tr><td>Mùi :</td><td>thối</td><td>Phospho</td><td>0,50</td></tr><tr><td></td><td></td><td>Lưu huỳnh</td><td>0,15</td></tr><tr><td>pH</td><td>7</td><td colspan=\"2\"><b>Các tế bào</b></td></tr><tr><td>Thời gian tiêu hóa</td><td>24-42 giờ</td><td colspan=\"2\">1-2 sợi cơ đang tiêu hóa</td></tr><tr><td>Tỷ lệ chất đặc trong phân</td><td>22%</td><td colspan=\"2\">Vài hạt tinh bột</td></tr><tr><td colspan=\"2\"><b>Các chất sinh hóa học</b></td><td colspan=\"2\">Savon</td></tr><tr><td>Acid hữu cơ<br>(trong 100g phân)</td><td>14-16mEq</td><td colspan=\"2\">Một ít cellulose chưa tiêu hóa hết.<br>Ít tinh thể ammoni-magne-phosphat<br>Ít chất nhầy.</td></tr><tr><td>Ammoniac</td><td>3-4ml</td><td colspan=\"2\"><b>Vi khuẩn</b></td></tr><tr><td>Phenol</td><td>40mg</td><td colspan=\"2\">Không có loại vi khuẩn ái iod.</td></tr><tr><td>Indol</td><td>&lt;3mg</td><td colspan=\"2\">Nhiều vi khuẩn gây thối không bắt iod</td></tr><tr><td>Stercobilin</td><td>80-100mg</td><td colspan=\"2\">Số lượng vi khuẩn có trong 1g phân :</td></tr><tr><td>Tổng số lipoid trong 1 ngày</td><td>2-7g</td><td colspan=\"2\">+ 20 triệu vi khuẩn ái khí.</td></tr><tr><td>Lipoid tiết từ niêm mạc<br>trong 1 ngày</td><td>3-6g</td><td colspan=\"2\">+ 2 tỷ vi khuẩn kỵ khí.</td></tr><tr><td>Nitơ toàn phần trong 1 ngày</td><td>1g</td><td colspan=\"2\"></td></tr><tr><td>Calci trong 1 ngày</td><td>0,4-1g</td><td colspan=\"2\"></td></tr></tbody></table>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "DỊCH NÃO TỦY"
+  },
+  {
+   "block_label": "table",
+   "block_content": "<table><thead><tr><th colspan=\"2\">Tính chất vật lý</th><th colspan=\"2\">Các chất sinh hóa (100ml)</th></tr></thead><tbody><tr><td>Áp lực :</td><td></td><td>Cholesterol</td><td>&lt;1mg</td></tr><tr><td>Nằm</td><td>100-150mm nước</td><td>Dự trữ kiềm</td><td>18-27mmol</td></tr><tr><td>Ngồi</td><td>tăng 10-50mm</td><td>Glucose</td><td>50-75mg</td></tr><tr><td>Số lượng</td><td>60-100ml</td><td>Natri chlorid</td><td>700mg</td></tr><tr><td>Tỷ trọng</td><td>1,001-1,010</td><td>Protein</td><td>15-22mg</td></tr><tr><td>Màu sắc :</td><td>trong vắt</td><td>Urê</td><td>20-45mg</td></tr><tr><td>pH</td><td>7,3-7,4</td><td colspan=\"2\"><b>Các tế bào</b></td></tr><tr><td></td><td></td><td colspan=\"2\">1-3 bạch cầu lymphocyt<br>một vài tế bào nội mô</td></tr></tbody></table>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "658"
+  }
+ ]
+}

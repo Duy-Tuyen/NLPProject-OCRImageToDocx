@@ -1,1 +1,21 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Đại hồi x. Hồi Đ2\nĐại hồi hương x. Đại hồi Đ2\nĐại hồi núi x. Hồi núi (x. Cây có độc)\nĐại huyết đằng x. Huyết đằng H24\nĐại kế Đ3\nĐại lực tử x. Ngưu bàng N2\nĐại lương khương x. Riềng nếp R10\nĐại ma x. Gai dầu G2\nĐại mạch L10\nĐại phiêu x. Bèo cái B19\nĐại phù bình x. Bèo cái B19\nĐại phúc bì C8\nĐại phong tử x. Chùm bao lớn\nĐại quản hoa Robinson,\nĐại táo Đ4\nĐại tào Đ4\nĐại thông x. Hành H5\nĐại toán T27\nĐại vĩ đạo x. Vòi voi (x. Cây có độc)\nĐạm đậu sị x. Đậu sị Đ8b\nĐạm trúc nhự T26a\nĐan chi x. Vải V1\nĐan sâm Đ5\nĐảng sâm Đ6\nĐăng tiêu Đ7b\nĐăng tiêu châu Mỹ Đ7b\nĐào Đ7a\nĐầu vù x. Tục đoạn T37\nĐậu bạc đầu x. Ba chẽ B2\nĐậu cọc rào x. Dầu mè (x. Cây có độc)\nĐậu đen Đ8a\nĐậu đỏ nhỏ Đ9\nĐậu khấu B7\nĐậu ma Q4\nĐậu miêu x. Phá cố chỉ P1\nĐậu quyền (= Đậu đen nảy mầm) x. Đậu đen Đ8a\nĐậu sị Đ8b\nĐậu thị x. Đậu sị Đ8b\nĐậu ván trắng Đ10\nĐịa cốt bì x. Câu kỷ C22\nĐịa cốt bì nam x. Câu kỷ C22\nĐịa du Đ11\nĐịa hoàng x. Sinh địa S10\nĐịa liền Đ12\nĐịa phu Đ13\nĐiềm qua x. Dưa bở D6\nĐiềm qua đế x. Dưa bở D6\nĐiền ma hoàng x. Ma hoàng M12\nĐiền thất x. Tam thất T1\nĐiều cầm x. Hoàng cầm H8\nĐinh hương Đ14\nĐinh tử hương x. Đinh hương Đ14\nĐinh hương la bột x. Hương nhu trắng H28\nĐò ho x. Thảo quả T8\nĐoạn trường thảo x. Lá ngón (cây có độc)\nĐỗ hành sơn x. Đơn nem Đ20\nĐỗ trọng (= Đỗ trọng bắc) Đ15\nĐỗ trọng dây Đ15\nĐỗ trọng đằng Đ15\nĐỗ trọng dây vỏ hồng Đ15\nĐỗ trọng nam Đ15\nĐộc cước biên x. Bảy lá một hoa B17\nĐộc hoạt Đ16\nĐộc hoạt nam Đ16\nĐộc lực x. Đơn châu chấu Đ17\nĐởm x. Câu kỷ C22\nĐông thụ x. Dầu mè (cây có độc)\nĐông bắc thăng ma x. Thăng ma T10\nĐông hoa x. Khoản đông hoa K4\nĐông kinh ba đậu x. Khổ sâm lá K5a\nĐông qua x. Bí đao B20\nĐông quỳ C17 - T13\nĐông quỳ tử x. Thương ma T19\nĐộng thụ x Dầu mè (Xem cây có độc)\nĐồng tiền lông x. Vảy rồng V5\nĐồng ty thảo x. Dâm dương hoắc D2\nĐơn bì x. Mẫu đơn bì M9\nĐơn buốt x. Đơn kim Đ18\nĐơn châu chấu Đ17\nĐơn kim Đ18\nĐơn lá đỏ x. Đơn mặt trời Đ19\nĐơn mặt trời x. Đơn lá đỏ Đ19\nĐơn nem x. Đơn lộc ớt Đ20\nĐơn răng cưa x. Đơn nem Đ20\nĐơn tía x. Đơn lá đỏ Đ19\nĐơn tướng quân Đ21\nĐu đủ rừng x. Thông thảo T16\nĐuôi hổ Đ22\nĐuôi tôm x. Thồm lồm T16a\nĐương quy Đ23\nĐương quy Nhật Bản Đ23\nĐương quy di thực Đ23\nĐường cổ Đại hoàng x. Đại hoàng Đ1\nĐường quân x. Kim anh K10"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "E"
+  },
+  {
+   "block_label": "text",
+   "block_content": "É lá lớn x. Hương nhu trắng H28\nÉ rừng x. Hương nhu tía H27\nÉ tía x. Hương nhu tía H27\nÉ trắng x. Hương nhu trắng H28"
+  },
+  {
+   "block_label": "number",
+   "block_content": "667"
+  }
+ ]
+}

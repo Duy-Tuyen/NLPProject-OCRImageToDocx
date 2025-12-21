@@ -1,1 +1,17 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "TỦY ĐỒ VÀ LÁCH ĐỒ"
+  },
+  {
+   "block_label": "table",
+   "block_content": "<table><thead><tr><th colspan=\"2\">Số lọ</th><th colspan=\"2\">Thể tích</th></tr></thead><tbody><tr><td colspan=\"2\">(thìa khóa = 16)</td><td colspan=\"2\">(thìa khóa = 14)</td></tr><tr><td>Bạch cầu đa nhân (16x2)</td><td>32%</td><td>Bạch cầu đa nhân</td><td></td></tr><tr><td>(2 ái toan)</td><td></td><td>trung tính</td><td>14%</td></tr><tr><td>Hậu tủy bào</td><td>16</td><td>Bạch cầu đa nhân</td><td></td></tr><tr><td>(2 ái toan)</td><td></td><td>ái toan</td><td>1</td></tr><tr><td>Tủy bào</td><td>16</td><td>Lymphocyt (14x4)</td><td>56</td></tr><tr><td>(2 ái toan)</td><td></td><td></td><td></td></tr><tr><td>Tiền tủy bào</td><td>2</td><td>Bạch cầu đơn nhân</td><td></td></tr><tr><td>Nguyên tủy bào</td><td>2</td><td>vừa</td><td>14</td></tr><tr><td>Nguyên hồng cầu</td><td>16</td><td>Monocyt</td><td>14</td></tr><tr><td>Bạch cầu đơn nhân</td><td>16</td><td>Tương bào và nguyên hồng cầu</td><td>1</td></tr></tbody></table>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "660"
+  }
+ ]
+}

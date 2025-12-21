@@ -1,1 +1,61 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Saylom\nSeda collyre\nSommières au Pentavit B\nTobicom\nVisioglobin"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "21. Tĩnh mạch - Bạch huyết :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Cyclo 3\nDaflon\nDiflarel\nEndotelon\nEsberiven\nEscin\nFlavonosid\nGinkgo Biloba và chế phẩm\nGlyvenol\nHòe hoa và chế phẩm\nLeucocianidol\nMadecassol\nMenoliane\nNigrantyl\nPhlebogel\nRaubasin\nRelvene\nRustacol\nRutascorbin\nRutosid\nSolcoseryl\nSulfo rutin\nTroxerutin\nVascocitrol\nVascuton\nVeinobiase\nVéinotase (Maron d'Inde)\nVeinotonyl\nVenyl\nVitarutin"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "22. Khớp :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Actisoufre\nAuranofin\nAurothioglucose\nAurothioglycanid\nAurothioprol\nBán lưu hoàng\nDr.Kobe Omega 3\nLưu huỳnh\nMagan\nMaxepa\nNew Kalrheuma\nRumalon\nSaylon"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "23. Sốt - Mê sảng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bạch hổ thang\nLamaline\nLục thần hoàn\nNgân kiều tán\nNhân trần cao thang\nNhị long ẩm\nSedarène\nTiêu sài hồ thang"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "24. Thần kinh :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Bellergal\nBellergamin\nBellergin\nDưỡng não hoàn\nMagne B6\nMagnesium 250\nMagnespasmyl\nMagnogene\nMagnoscorbol\nNeurotensyl\nQuinisedine\nRadobelin\nSedalby\nSympaneurol papaverin\nSympathyl\nThủy lục nhị tiên đơn\nZentramin"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "25. Sốt rét :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Artemisinin\nArtesunat\nQuinimax\nQuinin và các muối\nThường sơn"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "26. Bỏng :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "B76"
+  },
+  {
+   "block_label": "number",
+   "block_content": "649"
+  }
+ ]
+}

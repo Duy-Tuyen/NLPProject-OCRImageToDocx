@@ -1,1 +1,21 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "table",
+   "block_content": "<table><thead><tr><th rowspan=\"2\">Xét nghiệm</th><th colspan=\"2\">Tính theo gam</th><th colspan=\"2\">Tính theo mol</th></tr><tr><th>Đơn vị</th><th>Hằng số</th><th>Đơn vị</th><th>Hằng số</th></tr></thead><tbody><tr><td>γGT</td><td></td><td></td><td>l</td><td>11-50 U</td></tr><tr><td>Glucose-6-phosphatase</td><td></td><td></td><td>l</td><td>8U</td></tr><tr><td>G-6-PD hồng cầu</td><td></td><td></td><td>10<sup>9</sup></td><td>131±13 mU</td></tr><tr><td>α-HBDG</td><td></td><td></td><td>l</td><td>72-182 U</td></tr><tr><td>LDH</td><td></td><td></td><td>l</td><td>328±60U</td></tr><tr><td>Lipase</td><td></td><td></td><td>l</td><td>4-24U</td></tr><tr><td>Lyzozym</td><td>ml</td><td>5-15 ± µg</td><td></td><td></td></tr><tr><td>OCT</td><td>dl</td><td>168 µg</td><td>l</td><td><0,28 U</td></tr><tr><td>Phosphatase kiềm</td><td></td><td>6,1±1,8 đvKA</td><td>l</td><td>30-120U</td></tr><tr><td>Phosphatase acid</td><td>dl</td><td><5 đvKA</td><td>l</td><td>5,5U</td></tr><tr><td>PHI</td><td>ml</td><td>4,12±1,19 đvBH</td><td>dl</td><td></td></tr><tr><td>SDH</td><td>ml</td><td>0,88±0,06 đvS</td><td>ml</td><td><0,4 mU</td></tr><tr><td>SGOT</td><td>ml</td><td>1,31±0,38 µmol</td><td>l</td><td>15,5-28,2 U</td></tr><tr><td>SGPT</td><td>ml</td><td>1,1±0,45 µmol</td><td></td><td>10,8-25,8U</td></tr><tr><td>Troponin T</td><td>ml</td><td>0,06 µg/l</td><td></td><td></td></tr><tr><td><b>Các chất khác</b></td><td></td><td></td><td></td><td></td></tr><tr><td>Chì</td><td>dl</td><td>20-60 µg</td><td>l</td><td>0,96-2,9 µmol</td></tr><tr><td>Đồng</td><td>-</td><td>105±15 µg</td><td>l</td><td>14,1±18,8 µmol</td></tr><tr><td>Flo</td><td>-</td><td>0,3 mg</td><td></td><td></td></tr><tr><td>Iod</td><td>-</td><td>10 µg</td><td></td><td></td></tr><tr><td>PBI</td><td>-</td><td>4-8 µg</td><td>l</td><td>315-630 nmol</td></tr><tr><td>BEI</td><td>-</td><td>3-6 µg</td><td>l</td><td>236-472 nmol</td></tr><tr><td>Sắt</td><td>-</td><td>80-130 µg</td><td>l</td><td>14,3-23,3 µmol</td></tr></tbody></table>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "NƯỚC TIỂU"
+  },
+  {
+   "block_label": "table",
+   "block_content": "<table><thead><tr><th colspan=\"3\">Tính chất vật lý</th><th>Các tế bào</th></tr></thead><tbody><tr><td>Số lượng :</td><td>nam</td><td>1400 ml</td><td>Một vài bạch cầu</td></tr><tr><td></td><td>nữ</td><td>1200 ml</td><td>Một vài tế bào biểu mô của bàng</td></tr><tr><td>Tỷ trọng</td><td></td><td>1,012-1,020</td><td>quang, niệu đạo, âm đạo</td></tr></tbody></table>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "656"
+  }
+ ]
+}

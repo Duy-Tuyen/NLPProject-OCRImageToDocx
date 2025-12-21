@@ -1,1 +1,13 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "table",
+   "block_content": "<table><thead><tr><th rowspan=\"2\">Xét nghiệm</th><th colspan=\"2\">Tính theo gam</th><th colspan=\"2\">Tính theo mol</th></tr><tr><th>Đơn vị</th><th>Hằng số</th><th>Đơn vị</th><th>Hằng số</th></tr></thead><tbody><tr><td><b>Chất đường</b></td><td></td><td></td><td></td><td></td></tr><tr><td>Acid lactic</td><td>dl</td><td>20±4 mg</td><td>l</td><td>1,8-2,7 mmol</td></tr><tr><td>Acid pyruvic</td><td>-</td><td>0,8±0,2 mg</td><td>-</td><td>68-114 µmol</td></tr><tr><td>Glucose</td><td>-</td><td>80-110 mg</td><td>-</td><td>4,4-6,1 mmol</td></tr><tr><td><b>Mật</b></td><td></td><td></td><td></td><td></td></tr><tr><td>Bilirubin</td><td>dl</td><td>0,55±0,25 mg</td><td>-</td><td>5,1-13,6 µmol</td></tr><tr><td>Muối mật</td><td>-</td><td>vết</td><td></td><td></td></tr><tr><td><b>Điện giải</b></td><td></td><td></td><td></td><td></td></tr><tr><td>Calci</td><td>dl</td><td>8,1-10,4 mg</td><td>l</td><td>2,03-2,6 mmol</td></tr><tr><td>Chlor</td><td>-</td><td>337-383 mg</td><td>-</td><td>95-108 mmol</td></tr><tr><td>Kali</td><td>-</td><td>15,2-19,6 mg</td><td>-</td><td>3,9-5 mmol</td></tr><tr><td>Magiê</td><td>-</td><td>1,8-2,4 mg</td><td>-</td><td>0,75-1 mmol</td></tr><tr><td>Natri</td><td>-</td><td>310-345 mg</td><td>-</td><td>135-150 mmol</td></tr><tr><td>Phospho</td><td>-</td><td>4±0,7 mg</td><td>-</td><td>1,05-1,5 mmol</td></tr><tr><td><b>Cân bằng kiềm toan và các chất khí</b></td><td></td><td></td><td></td><td></td></tr><tr><td>Oxy máu động mạch</td><td>dl</td><td>19-20 mg</td><td></td><td></td></tr><tr><td>Oxy máu tĩnh mạch</td><td>-</td><td>12-14 ml</td><td></td><td></td></tr><tr><td>PaO<sub>2</sub></td><td></td><td>80-98 mmHg</td><td></td><td>10,6-13 kPa</td></tr><tr><td>SaO<sub>2</sub></td><td></td><td>95-97%</td><td></td><td></td></tr><tr><td>Carbon dioxyd máu :</td><td></td><td></td><td></td><td></td></tr><tr><td>Động mạch</td><td>-</td><td>40-50 ml</td><td></td><td></td></tr><tr><td>Tĩnh mạch</td><td>-</td><td>50-60 ml</td><td></td><td></td></tr><tr><td>PaCO<sub>2</sub></td><td></td><td>38-43 mmHg</td><td></td><td>5,1-5,7 kPa</td></tr><tr><td>Dự trữ kiềm</td><td>l</td><td>22-25 mEq</td><td>-</td><td>22-25 mmol</td></tr><tr><td>Cân bằng kiềm toan (Máy Astrup)</td><td></td><td></td><td></td><td></td></tr><tr><td>pH</td><td></td><td>7,391 ± 0,019</td><td></td><td></td></tr><tr><td>PCO<sub>2</sub></td><td></td><td>38,5 ± 2,24 mmHg</td><td></td><td>5,13±0,33 kPa</td></tr><tr><td>SB</td><td></td><td></td><td>l</td><td>29,3±1,2 mmol</td></tr><tr><td>BB</td><td></td><td></td><td></td><td>47,6±3,01 mmol</td></tr><tr><td>BE</td><td></td><td></td><td></td><td>0±1,93 mmol</td></tr></tbody></table>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "654"
+  }
+ ]
+}

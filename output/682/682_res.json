@@ -1,1 +1,21 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Bắc sa sâm x. Sa sâm S2\nBắc sơn tra x. Sơn tra Trung Quốc S14\nBắt ruồi B18\nBị lệ x. Trâu cổ T23a\nBèo cái B19\nBèo tai tượng B19\nBèo ván B19\nBí đao B20\nBí đỏ B22\nBí ngô B22\nBí phấn x. Bí đao B20\nBí xanh x. Bí đao B20\nBiển súc R1\nBị lệ x. Trâu cổ T23a\nBìm bìm biếc B21\nBìm bìm lam B22\nBina x. Rau nhà chùa R5\nBinh lang x. Cau C8\nBình vôi H1b\nBo bo x. Ý dĩ Y1\nBóng nước B23\nBòng bong B24\nBồ bồ x. Nhân trần bồ bồ N19\nBồ công anh B25\nBồ công anh mũi mác B25 - M20\nBồ đề C5\nBồ kết B26\nBồ kếp B26\nBồ ngót x Rau ngót R4a\nBổ cốt chi x. Phá cố chỉ P1\nBối mẫu (Xuyên, Triết, Bình) B27\nBối xôi x. Rau nhà chùa R5\nBông má đề x. Mã đề M1\nBông trắng x. Sư quân tử S16\nBông vang V7a\nBù ngót x. Rau ngót R4a\nBụp hồng cận R6a\nBụp mì x. Thu quỳ T18a\nBụp vàng x. Vông vang V7a"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "C"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ca cao C1a\nCà độc dược C1\nCà rốt C5a\nCà vú (Xem cà vú dê - Cây có độc)\nCà vú dê (Xem cây có độc)\nCá nóc x. Ca nóc (Xem vị có độc)\nCánh mộc (x. Lim - Cây có độc)\nCải củ C2\nCài ma x. Cải trời H3\nCải trắng x. Cải thìa C3\nCải trời x. Cải ma H3\nCam cúc x. Cúc hoa vàng C20\nCam quất x. Quýt Q3\nCam thảo C4\nCam thảo dây C4\nCam thảo đất C4\nCảm châu x. Mã tiền M4\nCầm lẫm x. Trám T31\nCan địa hoàng x. Sinh địa S10\nCan khương x. Gừng G4\nCàng tôm x. Rau đắng R1\nCanhkina C4a\nCánh kiến trắng x. Bồ đề C5\nCánh thảo x. Cát cánh C6\nCaoguo x. Thảo quả T8\nCao lương khương x. Riềng R9\nCarốt C5a\nCát cánh C6\nCát cánh lan x. Hương bài (Xem cây có độc)\nCát căn x. Sắn dây C7\nCát hoa x. Cát căn C7\nCát sâm x. Nhân sâm N15\nCau C8\nCau rừng C8\nCẩm giàng x. Đơn châu chấu Đ17\nCậm cù x. Thỏ phục linh T18\nCấp tỉnh tử x. Bóng nước B23\nCâu đằng C9\nCâu khởi C22\nCâu kỳ C22\nCâu kỷ tử C22\nCầu hoa mao xạ hương x. Nhân trần bồ bồ N19\nCẩu thanh x. Cẩu tích C10\nCẩu tích C10\nCẩu tồn mao C10\nCây bèo đất x. Bắt ruồi B18\nCây càng tôm x. Rau đắng R1\nCây chá x. Mỏ quạ M11\nCây còi x. Chẹo (cây có độc)\nCây chân vịt x. Ngũ gia bì chân chim N10\nCây chổi x. Địa phu Đ13\nCây chua chát x. Sơn tra S13\nCây cơi x. Chẹo (Cây có độc)\nCây cốc tinh x. Cốc tinh thảo C16\nCây cối xay Trung Quốc x. Thương ma T19\nCây công cộng x. Xuyên tâm liên X3\nCây cơm nếp x. Hoàng tinh H13\nCây cuồng x. Đơn châu chấu Đ17\nCây cứt lợn x. Hy thiêm H31\nCây dứa dại x. Huyết giác H25\nCây dưa dẫy x. Qua lâu Q1\nCây dưa trời x. Qua lâu Q1"
+  },
+  {
+   "block_label": "number",
+   "block_content": "664"
+  }
+ ]
+}

@@ -1,1 +1,17 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "BẢNG QUY ĐỔI THEO ĐƠN VỊ QUỐC TẾ"
+  },
+  {
+   "block_label": "table",
+   "block_content": "<table><thead><tr><th>Các chất sinh hóa</th><th>Quy đổi ra mol/l</th><th>Quy đổi ra g/l, mqE/l</th></tr></thead><tbody><tr><td colspan=\"3\"><b>I. Máu</b></td></tr><tr><td>Acid ascorbic</td><td>mg/l x 5,68 (µmol)</td><td>µmol/l x 0,176(mg)</td></tr><tr><td>Acid folic</td><td>µg/l x 2,27 (nmol)</td><td>nmol/l x 0,44(µg)</td></tr><tr><td>Acid lactic</td><td>mg/l x 11,1x10<sup>-3</sup>(mmol)</td><td>mmol/l x 90,1(mg)</td></tr><tr><td>Acid pyruvic</td><td>mg/l x 11,4(µmol)</td><td>µmol/l x 88x10<sup>-3</sup> (mg)</td></tr><tr><td>Acid uric</td><td>mg/l x 5,95(µmol)</td><td>µmol/l x 0,168(mg)</td></tr><tr><td>Ammoniac</td><td>mg/l x 58,8(µmol)</td><td>µmol/l x 0,017(mg)</td></tr><tr><td>BEI, PBI</td><td>µg/l x 7,87(nmol)</td><td>nmol/l x 0,127(µg)</td></tr><tr><td>Bilirubin</td><td>mg/l x 1,71(µmol)</td><td>µmol/l x 0,585(mg)</td></tr><tr><td>Calci</td><td>mEq/l x 0,5(mmol)</td><td>mmol/l x 2(mEq)</td></tr><tr><td>Chì</td><td>mg/l x 4,826(µmol)</td><td>µmol/l x 0,207(mg)</td></tr><tr><td>Chlor</td><td>mEq/l x 1(mmol)</td><td>mmol x 1(mEq)</td></tr><tr><td>Cholesterol</td><td>g/l x 2,58(mmol)</td><td>mmol/l x 0,387(g)</td></tr><tr><td>Creatinin</td><td>mg/l x 8,85(µmol)</td><td>µmol/l x 0,113(mg)</td></tr><tr><td>Đồng (Cu)</td><td>mg/l x 15,7(µmol)</td><td>µmol/l x 0,0635(mg)</td></tr><tr><td>Fibrinogen</td><td>g/l x 3,4(µmol)</td><td>µmol/l x 0,294(g)</td></tr><tr><td>Glucose</td><td>g/l x 5,56(mmol)</td><td>µmol/l x 0,18(g)</td></tr><tr><td>Huyết sắc tố</td><td>g/l x 62,1x10<sup>-3</sup> (mmol)</td><td>mmol/l x 16,11(g)</td></tr><tr><td>Kali</td><td>mEq/l x 1(mmol)</td><td>mmol/l x 1 (mEq)</td></tr><tr><td>Magne</td><td>mEq/l x 0,5(mmol)</td><td>mmol/l x 2(mEq)</td></tr><tr><td>Natri</td><td>mEq/l x 1(mmol)</td><td>mmol/l x 1(mEq)</td></tr><tr><td>Phospholipid</td><td>g/l x 1,29 (mmol)</td><td>mmol/l x 0,774(g)</td></tr><tr><td>Phospho vô cơ</td><td>mg/l x 32,3x10<sup>-3</sup> (mmol)</td><td>mmol/l x 31(mg)</td></tr><tr><td>Sắt</td><td>mg/l x 17,9 (µmol)</td><td>µmol/l x 55,8x10<sup>-3</sup> (mg)</td></tr><tr><td>Testosteron</td><td>µg/l x 3,47(nmol)</td><td>nmol/l x 0,288(µg)</td></tr><tr><td>Thyroxin</td><td>µg/l x 1,29(nmol)</td><td>nmol/l x 0,777(µg)</td></tr><tr><td>Triglycerid</td><td>g/l x 1,14(mmol)</td><td>mmol/l x 0,875(g)</td></tr><tr><td>Urê</td><td>g/l x 16,6 (mmol)</td><td>mmol/l x 60x10<sup>-3</sup> (g)</td></tr></tbody></table>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "661"
+  }
+ ]
+}

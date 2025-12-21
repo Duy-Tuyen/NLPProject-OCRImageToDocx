@@ -1,1 +1,13 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "table",
+   "block_content": "<table><thead><tr><th>Các chất sinh hóa</th><th>Quy đổi ra mol/l</th><th>Quy đổi ra g/l, mqE/l</th></tr></thead><tbody><tr><td>Vitamin A</td><td>µg/l x 3,5x10<sup>-3</sup> (µmol) ng/l x 0,737(pmol) mg/l x 2,40(µmol)</td><td>µmol/l x 286(ng)<br>pmol/l x 1,355(ng)<br>µmol/l x 0,416(mg)</td></tr><tr><td>Vitamin B12</td><td></td><td></td></tr><tr><td>Vitamin E</td><td></td><td></td></tr><tr><td colspan=\"3\"><b>II- Nước tiểu (24 giờ)</b></td></tr><tr><td>Adrenalin</td><td>µg x 5,46(nmol)</td><td>nmol x 0,183(µg)</td></tr><tr><td>Acid 5-HIAA</td><td>mg x 5,24(µmol)</td><td>µmol/l x 0,191(mg)</td></tr><tr><td>Acid uric</td><td>mg x 5,95 x 10<sup>-3</sup> (mmol)</td><td>mmol x 168(mg)</td></tr><tr><td>Aldosteron</td><td>µg x 2,77(nmol)</td><td>nmol x 0,364(µg)</td></tr><tr><td>Ammoniac</td><td>g x 58,8(mmol)</td><td>mmol x 0,017(g)</td></tr><tr><td>Calci</td><td>mEq x 0,5(mmol)</td><td>mmol x 2(mEq)</td></tr><tr><td>Creatin</td><td>mg x 7,63(µmol)</td><td>µmol/l x 0,131(mg)</td></tr><tr><td>Creatinin</td><td>g x 8,84(µmol)</td><td>µmol/l x 0,113(g)</td></tr><tr><td>Đồng (Cu)</td><td>µg x 15,7(nmol)</td><td>µmol/l x 0,0635(µg)</td></tr><tr><td>DHA</td><td>mg x 3,46(µmol)</td><td>µmol/l x 0,288(mg)</td></tr><tr><td>Kali</td><td>mEq x 1(mmol)</td><td>mmol x 1(mEq)</td></tr><tr><td>Magne</td><td>mEq x 0,5(mmol)</td><td>mmol x 2(mEq)</td></tr><tr><td>Natri</td><td>mEq x 1(mmol)</td><td>mmol x 1(mEq)</td></tr><tr><td>Nor-adrenalin</td><td>µg x 5,92(nmol)</td><td>nmol x 0,169(µg)</td></tr><tr><td>Oestradiol</td><td>µg x 3,68(nmol)</td><td>nmol x 0,272(µg)</td></tr><tr><td>Oestrion</td><td>µg x 3,47(nmol)</td><td>nmol x 0,288(µg)</td></tr><tr><td>Oestron</td><td>µg x 3,70(nmol)</td><td>nmol x 0,270(µg)</td></tr><tr><td>Phospho</td><td>g x 32(mmol)</td><td>mmol x 32,2x10<sup>-3</sup> (g)</td></tr><tr><td>Pregnandiol</td><td>mg x 3,13(µmol)</td><td>µmol/l x 0,320(mg)</td></tr><tr><td>17-OHCS</td><td>mg x 2,76(µmol)</td><td>µmol/l x 0,362(mg)</td></tr><tr><td>17-cetosteroid</td><td>mg x 3,47(µmol)</td><td>µmol/l x 0,288(mg)</td></tr><tr><td>Urê</td><td>g x 16,6(mmol)</td><td>mmol x 60x10<sup>-3</sup>(g)</td></tr><tr><td>VMA</td><td>mg x 5,04(µmol)</td><td>µmol/l x 0,198(mg)</td></tr></tbody></table>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "662"
+  }
+ ]
+}

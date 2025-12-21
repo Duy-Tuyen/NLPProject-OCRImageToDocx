@@ -1,1 +1,25 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "MẬT"
+  },
+  {
+   "block_label": "table",
+   "block_content": "<table><thead><tr><th>Xét nghiệm<br>(1lít)</th><th>Mật A</th><th>Mật B</th><th>Mật C</th></tr></thead><tbody><tr><td>Cholesterol</td><td>0,20-0,70g</td><td>1-1,50g</td><td>0,10-0,50g</td></tr><tr><td>Muối mật</td><td>3-4g</td><td>8-12g</td><td>0,50-2,5g</td></tr><tr><td>Bilirubin</td><td>50mg</td><td>200mg</td><td>40mg</td></tr><tr><td>Urobilin</td><td>40-60 mg</td><td>60-80 mg</td><td>20-30 mg</td></tr><tr><td>Urobilinogen</td><td>+</td><td>++</td><td>-</td></tr></tbody></table>"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "DỊCH VỊ"
+  },
+  {
+   "block_label": "table",
+   "block_content": "<table><thead><tr><th>Số lọ</th><th>Thể tích</th><th>Độ acid tự do</th><th>Độ acid toàn phần</th></tr></thead><tbody><tr><td>- Sau histamin</td><td></td><td></td><td></td></tr><tr><td>A</td><td>29ml</td><td>29,58mEq/l</td><td>46,mEq/l</td></tr><tr><td>B</td><td>28</td><td>49,31</td><td>62,46</td></tr><tr><td>1</td><td>47</td><td>68,76</td><td>82,19</td></tr><tr><td>2</td><td>34</td><td>86,02</td><td>98,67</td></tr><tr><td>3</td><td>20</td><td>73,79</td><td>87,80</td></tr><tr><td>4</td><td>16</td><td>61,09</td><td>76,16</td></tr><tr><td>5</td><td>16</td><td>50,68</td><td>66,30</td></tr><tr><td>6</td><td>13</td><td>43,01</td><td>58,90</td></tr><tr><td>7</td><td>11</td><td>33,69</td><td>52,05</td></tr><tr><td>8</td><td>11</td><td>35,34</td><td>52,32</td></tr><tr><td>Sau Cafein</td><td></td><td></td><td></td></tr><tr><td>A</td><td>39ml</td><td>0,54g/l</td><td>1,27g/l</td></tr><tr><td>B</td><td>30</td><td>1,06</td><td>1,57</td></tr><tr><td>1</td><td></td><td>0,89</td><td>1,40</td></tr><tr><td>2</td><td></td><td>1,09</td><td>1,40</td></tr><tr><td>3</td><td></td><td>1,07</td><td>1,54</td></tr><tr><td>4</td><td></td><td>1,32</td><td>1,81</td></tr><tr><td>5</td><td></td><td>1,19</td><td>1,61</td></tr><tr><td>6</td><td>23</td><td>1,15</td><td>1,60</td></tr></tbody></table>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "659"
+  }
+ ]
+}

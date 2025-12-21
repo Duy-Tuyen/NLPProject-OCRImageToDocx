@@ -1,1 +1,29 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "MỤC LỤC TRA CỨU\n(TÊN VIỆT NAM)"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "A"
+  },
+  {
+   "block_label": "text",
+   "block_content": "A phiến x.Thuốc phiện A2\nActisô A1\nÁ hồ nô x. Tiết dê T23a\nÁ lệ chi x. Long nhãn L6\nAnadrao bhao x. Muồng trâu M21\nAn tức hương x. Bồ đề C5\nAn điệp x. Khuynh diệp K8\nAn thạch lựu L11\nAnh túc x. Thuốc phiện A2\nAnh tử túc A2\nÁp chích thảo x. Thài lài trắng T7a\nÁp cước mộc x. Ngũ gia bì chân chim N10\nÁp niệu thảo x. Thường Sơn T20\nÀ phù dung A2\nẤu A3\nẤu tầu x. Ô đầu - Phụ tử Ô2"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "B"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Ba chạc B13\nBa chẽ B2\nBa đậu B12\nBa đậu nam x. Dầu mè B12\nBa đậu nam x. Dầu mè B12 (Cây có độc)\nBa gạc B13\nBa gạc Ấn Độ B13\nBa gạc Châu Đốc B13\nBa gạc Cu Ba B13\nBa gạc lá nhỏ B13\nBa gạc châu Phi B13\nBa kích B14\nBa kích nhục B14\nBa kích thiên B14\nBa kích lông B14\nBa nhân x. Ba đậu B12\nBá diệp x. Trắc bá T32\nBá tử nhân x. Trắc bá T32\nBà thái x. Rau nhà chùa R5\nBạc hà B1\nBạc hà nam B1\nBách bệnh x. Hậu phác H6\nBách bộ B3\nBách dược tiễn x. Nhị trà N17\nBách giải được x. Ngọc trúc N7\nBách hợp B6\nBạch biển đậu x. Đậu ván trắng Đ10\nBạch cập B4\nBạch chỉ B5\nBạch chỉ Hàng Châu B5\nBạch chỉ nam B5\nBạch đàn x. Khuynh diệp K8\nBạch đậu khấu B7\nBạch đồng nữ x. Mò hoa trắng M10\nBạch giới tử x. Cải trắng C3\nBạch linh x. Phục linh P5\nBạch ma x. Thương ma T19\nBạch mai x. Mơ muối M19\nBạch mai đậu x. Đậu ván trắng Đ10\nBạch mao căn x. Cỏ tranh C15\nBạch phục linh P5\nBạch phụ tử Ô2\nBạch quả B8\nBạch sửu x. Bìm bìm biếc B21\nBạch thược B9\nBạch thược nam B9\nBạch tiền lá liễu B10\nBạch tô x. Kinh giới\nBạch truật B11\nBạch truật nam x. Cúc tam thất B11\nBạch trượng căn C18\nBán hạ B15\nBan hạ nam B16\nBán hạ ba thùy x. Bán hạ nam B16\nBản lam x. Chàm mèo C11\nBản lam căn x. Chàm mèo C11\nBảy lá một hoa B17\nBăng phiến x. Long não L5\nBăng phiến đại bi x. Đại bi Đ1a\nBát giác hồi hương x. Đại hồi Đ2\nBắc ngũ vị x. Ngũ vị tử N11\nBắc ô đầu x. Ô đầu - Phụ tử Ô2"
+  },
+  {
+   "block_label": "number",
+   "block_content": "663"
+  }
+ ]
+}

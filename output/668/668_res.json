@@ -1,1 +1,45 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Galla pommade\nMadecassol"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "27. Chống co thắt :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Hyoscin Butylbromid\nHyoscin Methobromid\nHyoscyamin\nPapaverin các loại\nQuinisedine\nScopss\nSpasmocarbine\nSympaneurol Papaverine"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "28. Tăng cường trí não :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Alphaline\nBelaf\nCebrex\nDr.Kobe Omega 3\nGinkgo Biloba\nGinkgo Phytosome\nGinkocer\nGinkor\nGinko fort\nGinko gel\nGinkor Procto\nGinseng các loại\nL.2000\nMaxepa\nMentol advantage + ginkgo\nNeuro 4\nRevigin"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "29. Ung thư (u bướu) :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Demecolcin\nEthiodized oil (131 I)\nGold (198 Au) colloidal\nLinh chi\nMelastron\nPermixon\nRaveron\nVincristin\nVindesin\nVinglycinat\nVinorelbin ditartrat"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "30. Các vitamin :"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Vitamin A (Retinol)\nVitamin A acid\nVitamin B1\nVitamin B2\nVitamin B3\nVitamin B4\nVitamin B6\nVitamin B7\nVitamin B9\nVitamin B12\nVitamin B12a\nVitamin B13\nVitamin B15\nVitamin B complex\nVitamin Bc\nVitamin C\nVitamin D2\nVitamin D3\nVitamin E\nVitamin F\nVitamin H\nVitamin H3\nVitamin H9\nVitamin K\nVitamin K1\nVitamin K3\nVitamin K4\nVitamin L1\nVitamin P\nVitamin PP\nVitamin U\nVitamin phối hợp\nVitaporan\nVitasol\nVitatan"
+  },
+  {
+   "block_label": "number",
+   "block_content": "650"
+  }
+ ]
+}

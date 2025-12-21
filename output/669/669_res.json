@@ -1,1 +1,17 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "doc_title",
+   "block_content": "CÁC HẰNG SỐ SINH LÝ\ncủa\nMỘT NGƯỜI BÌNH THƯỜNG *"
+  },
+  {
+   "block_label": "text",
+   "block_content": "* Xét nghiệm sinh hóa GS Phạm Tử Dương và BS Nguyễn Thế Khánh"
+  },
+  {
+   "block_label": "number",
+   "block_content": "651"
+  }
+ ]
+}

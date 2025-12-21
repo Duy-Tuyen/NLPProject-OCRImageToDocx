@@ -1,1 +1,29 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "text",
+   "block_content": "Cù túc xác A2\nCù trúc A2\nCủ giằng x. Câu đằng C9\nCủ cái x. Khoai vạc C23\nCủ chi x. Mã tiền M4\nCủ cọc C23\nCủ đậu (x. Cây có độc)\nCủ gió C21\nCủ khởi C22\nCủ mài C23\nCủ nâu H1b\nCủ sắng x. Củ đậu (x. Cây có độc)\nCủ vú bò x. Hà thủ ô trắng H2\nCúc ba gân T38\nCúc hoa trắng C20\nCúc hoa vàng C20\nCúc liên chi dại C20-N1\nCúc nháp x. Sài đất S3\nCúc trừ sâu (xem cây có độc)\nCùng pố x. Tía tô T22\nCửu hoàng thảo x. Hoàng tinh H13\nCửu long căn x. Thiên thảo T14\nCửu tiết xương bồ x. Xương bồ X6"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "D"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Dang het khmoch x. Muồng trâu M21\nDã cúc x. Cúc hoa vàng C20\nDã hòe x. Khổ sâm rễ K5\nDã hương x. Long não L5\nDã ngưu bàng T38\nDã sơn nhân sâm x. Nhân sâm N15\nDã thái x. Rau nhà chùa R5\nDạ thăng ma x. Địa du Đ11\nDạ giao đằng x. Hà thủ ô đỏ H1\nDạ hợp đằng x. Hà thủ ô đỏ H1\nDạ hợp T4\nDạ lài hương x. Thiên lý T10b\nDành dành D1\nDâm dương hoắc D2\nDâu tằm x. (lá, quả, vỏ rễ, cành, tầm gửi dâu, tổ bọ ngựa) D3\nDầu chè x. Sở (x. Cây có độc)\nDầu đắng Ô1\nDầu giun D4\nDầu lai x. Dầu mè (Cây có độc)\nDầu lai vải x. Dầu mè tía (Cây có độc)\nDầu mè (Xem cây có độc)\nDầu sơn x. Trâu (x. Cây có độc)\nDây ba mươi x. Bách bộ B3\nDây chắt x. Thổ phục linh T18\nDây đẹt ác x. Bách bộ B3\nDây hồ cầu x. Ô dược Ô1\nDây hồ đằng x. Tiết dê T23a\nDây khai x. Vàng đắng V4\nDây máu x. Huyết đằng H24\nDây móc câu x. Câu đằng C9\nDây mối tròn x. Tiết dê T22a\nDây ruột gà x. Uy linh tiên U1\nDây sữa bò x. Hà thủ ô trắng H1b - H2\nDây thối địt x. Mơ tam thể M18\nDây tóc tiên x. Thiên môn đông T12\nDây trói trâu B3\nDĩ mễ x. Ý dĩ Y1\nDiêm mai x. Mơ muối M19\nDiếp cá D5\nDiếp cá suối D5\nDiếp dại x. Mũi mác M20\nDiếp trời x. Mũi mác M20\nDu long thái x. Rau dừa nước R1a\nDu ma x. Vừng V6\nDu nhục x. Sơn thù du S12\nDuyên giới thảo x. Mạch môn\nDuốc cá x. Thàn mát (x. cây có độc)\nDưa bở D6\nDưa đầy Q1\nDưa ếch D6\nDưa trời x. Qua lâu Q1\nDứa D6a\nDược dụng đại hoàng Đ1\nDương đề thảo x. Rau má lá rau muống R4\nDương giác ảo x. Sừng dê S17\nDương hồi hương Đ2\nDương kim hoa x. Cà độc dược C1\nDương nhân x. Bán hạ B15\nDương tử tô H22a\nDương vong B24\nDương xuân sa x. Sa nhân S1"
+  },
+  {
+   "block_label": "paragraph_title",
+   "block_content": "Đ"
+  },
+  {
+   "block_label": "text",
+   "block_content": "Đại bi (Băng phiến) Đ1a\nĐại bi L5\nĐại cao lương khương x. Riềng nếp R10\nĐại đầu trần x. Nhân trần bồ bồ N19\nĐại hoàng Đ1"
+  },
+  {
+   "block_label": "number",
+   "block_content": "666"
+  }
+ ]
+}

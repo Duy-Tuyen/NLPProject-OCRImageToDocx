@@ -1,1 +1,17 @@
-{}
+{
+ "has_image": false,
+ "parsing_res_list": [
+  {
+   "block_label": "paragraph_title",
+   "block_content": "II. Xét nghiệm sinh hóa học"
+  },
+  {
+   "block_label": "table",
+   "block_content": "<table><thead><tr><th rowspan=\"2\">Xét nghiệm</th><th colspan=\"2\">Tính theo gam</th><th colspan=\"2\">Tính theo mol</th></tr><tr><th>Đơn vị</th><th>Hằng số</th><th>Đơn vị</th><th>Hằng số</th></tr></thead><tbody><tr><td><b>Chất đạm</b></td><td></td><td></td><td></td><td>14,7-55,3 µmol</td></tr><tr><td>Ammoniac</td><td>dl</td><td>25-94 µg</td><td></td><td></td></tr><tr><td>α-FP</td><td>ml</td><td>3,4 ng</td><td></td><td></td></tr><tr><td>Acid amin</td><td>dl</td><td>30-35 mg</td><td>l</td><td>208-327 µmol</td></tr><tr><td>Acid uric</td><td>-</td><td>4,5±1 mg</td><td>l</td><td>44-106 µmol</td></tr><tr><td>Creatinin</td><td>-</td><td>0,5-1,2mg</td><td>-</td><td></td></tr><tr><td>Ferritin</td><td>-</td><td>12µg</td><td></td><td>10,2-13,6 µmol</td></tr><tr><td>Fibrinogen</td><td>-</td><td>300-400 mg</td><td>l</td><td></td></tr><tr><td>Glutathion khử</td><td>-</td><td>30-37 mg</td><td></td><td></td></tr><tr><td>Glutathion toàn phần</td><td>-</td><td>37-42 mg</td><td></td><td></td></tr><tr><td>Nitơ dư</td><td>-</td><td>10-20 mg</td><td></td><td></td></tr><tr><td>Nitơ polypeptid</td><td>-</td><td>4-6 mg</td><td></td><td></td></tr><tr><td>Nitơ toàn phần phi protid</td><td></td><td>29±6 mg</td><td></td><td></td></tr><tr><td>Protein</td><td>-</td><td>7,7 ± 0,6g</td><td></td><td></td></tr><tr><td>Glubulin miễn dịch :</td><td>-</td><td></td><td></td><td></td></tr><tr><td>IgG</td><td></td><td>0,65-1,7g</td><td>l</td><td>43-113 µmol</td></tr><tr><td>IgM</td><td>-</td><td>0,12 g</td><td>-</td><td>1,3 µmol</td></tr><tr><td>IgD</td><td>-</td><td>2,5 mg</td><td>-</td><td>0,13 µmol</td></tr><tr><td>IgE</td><td>-</td><td>5-5,6 µg</td><td>-</td><td><0,3 nmol</td></tr><tr><td>IgA</td><td>-</td><td>0,1-0,4g</td><td>-</td><td>6,2-25 µmol</td></tr><tr><td>Urê</td><td>-</td><td>15-40 mg</td><td></td><td>2,5-6,7 mmol</td></tr><tr><td><b>Chất mỡ</b></td><td></td><td></td><td></td><td></td></tr><tr><td>Acid béo</td><td>dl</td><td>0,20-0,40 g</td><td>l</td><td></td></tr><tr><td>Cholesterol</td><td>-</td><td>150-190 mg</td><td></td><td>3,9-4,9 mmol</td></tr><tr><td>Cholesterol este hóa</td><td>-</td><td>103±17 mg</td><td></td><td></td></tr><tr><td>Lipid toàn phần</td><td>-</td><td>763±126 mg</td><td></td><td></td></tr><tr><td>Burstein</td><td>-</td><td>0,15-0,50 đơn vị QK</td><td>l</td><td></td></tr><tr><td>Phospholipid</td><td>-</td><td>225±17mg</td><td>-</td><td>2,6-3,2 mmol</td></tr><tr><td>Triglycarid</td><td>-</td><td><175 mg</td><td></td><td><2mmol</td></tr></tbody></table>"
+  },
+  {
+   "block_label": "number",
+   "block_content": "653"
+  }
+ ]
+}
